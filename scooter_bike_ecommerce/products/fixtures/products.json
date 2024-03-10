@@ -1,0 +1,1332 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050817-1",
+      "name": "Mankeel Sliver Wings Electric Scooter",
+      "description": "Mankeel Silver Wings E-scooter is a portable, foldable electric scooter designed to let you travel in style. Featuring the latest and greatest in electric transportation technology, the E-scooter can move at speeds up to 25km/h and serves as a fun, green way to explore your city, make that last mile to work, or zip along beachside pathways. The E-Scooter comes with a 350w motor, providing you a Max speed of 25km/ph/ 15mph, and the 7.8 Ah battery ensures longer-range journeys. The Silver Wings is a Folding electric scooter, which is made from aluminum alloy. which provides a low density, high strength, lightweight, and stable pressure-resistant electric scooter. This is a fast electric scooter, which can cover long distances in a short time. Dual braking systems and headlights ensure safer riding at night. The Silver wings electric scooter uses 26-inch honeycomb shock-absorbing tires with high elasticity and wears resistance. At the same time, there are spring multiple shock absorption effects at the bottom of the pedal, which provides a more comfortable riding experience. This e-scooter comes with 10In pneumatic tires, for a more smooth and comfortable ride, and also has a good anti-slip effect. The Silver wings e-scooter comes with app control to lock the scooter, monitor speed, battery, mileage display, cruise control, and automatic timed shutdown. As a portable scooter, it is foldable and ultra-light, easy to store at home, under your desk at work, or in the trunk of your car. This E-scooter has an activation safety device. After powering on, push off with your feet, push down the accelerator and enjoy the ride.",
+      "price": 695,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://pogocycles.com/cdn/shop/files/mankeel-sliver-wings-electric-scooter-pogo-cycles-1.jpg?v=1709035501&width=900",
+      "image": "Scooter1709035501.jpg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050822-2",
+      "name": "Mankeel MK090 Steed Electric Scooter",
+      "description": "Powerful motor(350w), excellent climbing ability, and fast acceleration, Long-range (30km)Max speed(30km/h), 5 times faster than walking  For added convenience, the MK090 Smart electric Scooter comes with app function, smart control, and cruise control  8.5 \" tire, puncture-resistant and shock absorbent, offer smooth and comfortable riding, even on the poorly paved road Multifunction display, which displays speed, riding mode, battery level Convenient and easy folding can place under your desk load or into the trunk of your car Superlight and easy to carry, weighing in at only (16.5kg) Dual brake(front electric + rear physical), providing more safety Bright front and rear light, ensuring visuality and safety whilst riding at night Dual suspension system, providing a smoother ride even on the poorly-paved roads Overall The MK090 Electric scooter makes a perfect gift for Adults or Teens",
+      "price": 585,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://pogocycles.com/cdn/shop/files/mankeel-mk090-steed-electric-scooter-pogo-cycles-1.jpg?v=1709035536&width=900",
+      "image": "Scooter1709035536.jpg"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050841-3",
+      "name": "Mankeel MK006 Electric Scooter",
+      "description": "High quality of both inside and outside The scooter appearance of this model is designed by the Porsche team, with smooth and beautiful appearance lines, which fully utilizes Porsche's smooth and elegant vehicle design principles. And width fully hidden scooter body, for better anti-theft and damage prevention.The overall weight of the scooter is only 14KG, but such a light weight does not sacrifice any battery life performance at all. the actual test results approved the max range of this electric scooter is reach 35KM. 10-inch big pneumatic tires,truly excellent shock absorption effect The larger the tire size, the larger the friction area of the tire, and more complex roads it can cope with, that easy to ride on bumpy roads. Most of electric scooters specially designed for urban road riding are equipped with 8 or 8.5-inch tires, but we still chose the 10-inch tires. This is also the important consideration that we want to provide you a very light and comfortable ride sense of feeling. APP operation supported Intelligent dynamic, real-time data detection,Various applications such as smart APP electric scooter anti-theft settings are fully functional and easy to manage. Vehicle status Mileage display Anti-theft settings Battery status Bluetooth Visual LCD exquisite interactive dashboard High-precision craft that maximizes the sense of fashion and technology. Real-time display, speed, power, mileage... are all at a glance. Various functions can be operated by one button or by APP, simple and easy to operate. nBody atmosphere light, moving scenery The cool LED chassis atmospheric light, the horse racing effect, breathing effect, warning effect, etc., is full of fashion sense, making you instantly become the focus of the crowd. It also serves as a safety warning for the surrounding people to notice that the electric scooter is coming. 35KM max range, accompany you to further places 6 kinds intelligent protection and battery management system technologies such as overcharge, over-discharge, and over-voltage protection. To provide high-speed power supply, high-efficiency direct speed control, Long-distance endurance of up to 35 KM. Notice: Different road conditions, the weight of the rider and the bad habit of operating the scooter will all affect the battery life of the scooter. The peak power of the motor up to 500W, make it go faster and climb higher Easily deal with uphill road conditions Easy to fold, easy to carry Unique original sleeve fully hidden folding design, fast folding in 3 seconds, It only takes a few simple push and pull steps to complete the folding, Carrying, storing or placing it in the trunk of the bike are sample and easy. Humanized front hook design Hook bearing with 3-5KG Arc-shaped big headlight The light source is stronger and brighter, Widescreen lamp surface make the light irradiation, Range larger to see front road more clearly. Convenient to ride even at night. Exquisitely crafted Every detail can stand the test Mankeel Silver Wings allows you to ride as light as if you have wings. All of our craftsmanship is to present your an art-like but also very practical electric scooter. This is an electric scooter that is absolutely trustworthy and owned. To help your travel save energy, reduce emissions and reduce congestion, provide the extremely light and smooth riding sense in your way.",
+      "price": 599,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://pogocycles.com/cdn/shop/files/mankeel-mk006-electric-scooter-pogo-cycles-1.jpg?v=1709035764&width=900",
+      "image": "Scooter1709035764.jpg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050872-5",
+      "name": "E9 Pro (ABE,eKFV) Electric Scooter",
+      "description": "The E9Pro electric scooter has a general operating permit (ABE, eKFV ) from the Federal Motor Transport Authority. There is a holder on the rear wheel for the license plate. Thus, after passing the relevant procedures, you are allowed to drive safely on public roads.\r\n \r\nIdeal for beginners and advanced\r\n\r\n30km Convenient range, 3-5 hours fast charging time\r\n20km/h top speed, 350W motor\r\nPremium wheel with high quality steel frame, 8.5 inch honeycomb tires and puncture protection liquid\r\nTop class IP54 waterproof with warranty protection for reliable driving characteristics in wet weather\r\nThe lightest e-scooter with a total weight of 13.8 kg\r\nHigh load limit of 120 kg - perfect for heavier riders and luggage\r\nSimple folding mechanism for quick packing and storage\r\nComprehensive 6 month manufacturer warranty\r\nBenefit from the iHoverboard service competence\r\nDE holds spare parts",
+      "price": 455,
+      "category": 1,
+      "rating": 3.67,
+      "image_url": "https://pogocycles.com/cdn/shop/files/e9-pro-abeekfv-electric-scooter-pogo-cycles-1.webp?v=1709036325&width=900",
+      "image": "Scooter1709036325.jpg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050884-7",
+      "name": "IENYRID M8 Electric Scooter-Preorder",
+      "description": "Highlights\r\nPowerful 500W Front Drive\r\nThe iENYRID M8 is a premium electric scooter that combines high performance and exceptional comfort. With its powerful front motor rated at 500 W, this scooter delivers impressive acceleration and stable riding experience.\r\n48 V 10 Ah Lithium Battery\r\nIt is powered by a 48 V 10 Ah lithium battery, enabling a large range and prolonged riding without the need for recharging. Regardless of your needs and distances, the iENYRID M8 will be a reliable companion.\r\nFront and Rear Suspension\r\nTo ensure superior comfort during your ride, the iENYRID M8 is equipped with both front and rear suspension. This allows for smooth riding even on uneven terrain, effectively absorbing shocks and vibrations. You will enjoy a comfortable and stable ride, regardless of the surface.\r\nAdvanced Lighting System\r\nIn addition to its exceptional performance and comfort, the iENYRID M8 features advanced lighting. With its front and rear LED lights, as well as ambient lighting on the sides, it ensures excellent visibility in all conditions. Moreover, the iENYRID M8 is equipped with durable and puncture-resistant solid tyres, designed for long-lasting use. This allows you to confidently traverse various surfaces without worries.\r\nBring A Superior Riding Experience\r\nFor superior riding experience, reliability, and comfort, the iENYRID M8 is an excellent choice. This electric scooter combines power, performance, and premium features to satisfy even the most demanding users. Whether you’re commuting to work or exploring the city, the iENYRID M8 will provide an unforgettable worry-free ride.",
+      "price": 538,
+      "category": 1,
+      "rating": 3.67,
+      "image_url": "https://pogocycles.com/cdn/shop/files/ienyrid-m8-electric-scooter-preorder-pogo-cycles-1.webp?v=1709036794&width=900",
+      "image": "Scooter1709036794.jpg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050890-8",
+      "name": "iScooter iX5 Electric Scooter",
+      "description": "Highlights\r\nThree Modes\r\nThe iScooter iX5 allows the rider to switch between 3 modes: ECO, Standard and Sports modes that can be directly accessed by the intuitive LED dashboard.\r\n\r\n600W Motor\r\nHigh performance 600W motor and the maximum speed can reach up to 45km/h and can climb an incline of up to 25°.\r\n\r\nBattery Life\r\nHigh-quality 48V 15 Ah lithium battery, high power supply, full battery life up to 35-40km. The iScooter iX5 has well thought out safety features and protects against short circuits, excess current, overcharging, over-discharging, temperature and undervoltage.\r\n\r\nComfortable Seat\r\nThe thickened cushion with spring, a wide base folding structure, sit for long time without deformation.\r\n\r\nDouble Brakes\r\nFeaturing front and rear disc brakes, iScooter provides great stopping power and shorter braking distance.\r\n\r\nFolding Design\r\nInnovative folding design, the iScooter iX5 features a folding mechanism with a snap-on buckle. When folded, it is small and compact enough to fit in the trunk of a car or can be discreetly placed in a corner of an office.",
+      "price": 475,
+      "category": 1,
+      "rating": 3.67,
+      "image_url": "https://pogocycles.com/cdn/shop/files/iscooter-ix5-electric-scooter-pogo-cycles-1.webp?v=1706005547&width=900",
+      "image": "Scooter1706005547.jpg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050897-9",
+      "name": "Kukirin (Kugoo) G2 Master Electric Scooter",
+      "description": "High-quality Lithium Battery\r\nThe KuKirin G2 Master electric scooter is equipped with a 52V/1081.6KW.H high-performance battery and is optimized to achieve longer battery life. A single charge can support a driving distance of up to 70 kilometers, making long-term travel more convenient.\r\nHigh-performance Dual Drive Motor\r\nThe KuKirin G2 Master electric scooter uses two 1000W high-performance dual-drive motors to provide powerful power, making it stress-free to go uphill, allowing the driver to travel more freely through various terrains, whether it is a flat road or a rugged path. All can be easily ridden. In addition, the dual-drive motor can also provide better control performance and stability, making you safer and more comfortable while driving.\r\nAluminum Alloy Material\r\nThe KuKirin G2Master electric scooter is made of high-quality aluminum alloy materials, making its structure sturdy and durable. The high-quality body and the special folding system not only provide the stability of folding and unfolding but also enhance the structural strength of the body, making the electric scooter more sturdy and durable and able to withstand the test of various use environments.\r\nExtra Large Display\r\nThe ultra-large display screen of KuKirin G2 Master has high definition and can provide more detailed image and text display effects, allowing you to view various vehicle information and operation interfaces more clearly. You can control the driving speed and direction of the electric scooter through simple operations. The simple operation makes driving fun and provides consumers with a better driving experience.\r\nAdjustable Pole\r\nThe KuKirin G2 Master electric scooter has adjustable poles. The adjustable pole allows the same electric scooter to adapt to the needs of different drivers to better control the driving posture and stability of the electric scooter. This helps improve driver safety and control over the e-scooter.\r\nHydraulic Shock Absorber System\r\nKuKirin G2 Master adopts front and rear hydraulic shock absorbers. The front and rear hydraulic shock absorbers use the fluidity and compressibility of liquid to absorb and disperse vibration energy, effectively reducing the impact of vibration; according to road conditions and driving conditions, vibrations respond in real time, helping to reduce fatigue and improve driving safety, providing you with a more reliable, safe and comfortable travel experience.\r\nFront and Rear Double Disc Brakes\r\nKuKirin G2 Master adopts a front and rear double disc brake design. This design allows you to brake and decelerate more conveniently. The dual disc brakes can better distribute the braking force and maintain the stability and controllability of the electric scooter. Compared with traditional braking methods, the friction area of disc brakes is Larger, it dissipates heat better and therefore is more durable.\r\nCool Ambient Lighting Design\r\nThe cool ambient light design of KuKirin G2 Master not only changes color as the vehicle starts, increasing the driving fun and playability of young and fashionable user groups, but also makes the vehicle more eye-catching when driving at night, thereby ensuring Driving safety.",
+      "price": 1084,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-kugoo-g2-master-electric-scooter-pogo-cycles-1.webp?v=1709878886&width=900",
+      "image": "Scooter1709878886.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050905-10",
+      "name": "KuKirin G4 Max Electric Scooter",
+      "description": "KuKirin G4 Max boasts a sleek, sturdy hollow-shaped frame for enhanced aerodynamics. With dual hydraulic damping suspension and 4-piston hydraulic brakes, it offers unparalleled stability and comfort even at high speeds.\r\n1600W*2 High-Performance Dual-drive Motor\r\nKukirin G4 MAX is equipped with 60V/1600W*2 motors, it can provide powerful power and torque, making acceleration and climbing easier. The maximum speed can reach 86km/h, which makes it a very fast and exciting electric scooter.\r\nRemovable Lithium Battery\r\nThe 60V/35.2Ah lithium battery has a range of 95km, which can meet the traveling needs of most people. The removable lithium battery design makes it easy to remove and install the battery, making it convenient for users to charge or replace the battery at any time.\r\nMultifunctional Intelligent Display\r\nThe multi-functional intelligent display integrates multiple functions, including speed display, battery indicator, fault diagnosis, mileage recording, etc. Supports a variety of personalized settings, such as backlight brightness adjustment, startup mode adjustment, etc., to meet the usage habits and needs of different drivers.\r\nFront & Rear Four-piston Oil Brakes \r\nThe front and rear four-piston oil brakes realize braking through the principle of hydraulic pressure. They have the characteristics of stable braking performance, fast response speed, good heat dissipation performance and short braking distance. They can effectively cope with emergency braking situations at high speeds and provide drivers with Provides safer driving guarantee.\r\nFast Charging\r\nThe dual charging port design allows drivers to charge the battery with two chargers at the same time, saving charging time and improving charging efficiency and convenience.\r\nCool Lighting System\r\nHigh-brightness LED headlights, taillights, and turn signals combined with cool ambient lights not only provide good lighting, but also ensure driving safety.\r\nFront & Rear Dual Hydraulic Damping Shock Absorption\r\nThe front and rear hydraulic damping and shock-absorbing systems can better cope with bumps and uneven road surfaces, reducing the impact on the driver and providing a smoother and more natural driving experience.\r\n12-inch Off-road Pneumatic Tire\r\n12-inch ultra-wide off-road pneumatic tires have wider treads and off-road tread patterns, which can provide better grip and traction, shock absorption and buffering effects, absorb vibrations caused by uneven road surfaces, and improve driving comfort.",
+      "price": 2689,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-g4-max-electric-scooter-pogo-cycles-1.webp?v=1709878948&width=900",
+      "image": "Scooter1709878948.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050920-12",
+      "name": "KuKirin G1 Pro Folding Electric Scooter",
+      "description": "High-capacity Lithium Battery\r\nKuKirin G1 Pro uses a 960Wh large-capacity high-quality lithium battery to provide longer driving range, long life, fast charging, high safety, and a more durable and stable use experience.\r\nDual Drive Motor\r\nKuKirin G1 Pro uses front and rear 800W dual-drive motors, which not only provide strong power and stable driving performance. In addition, it also has electronic braking and power distribution adjustment systems, making driving safer and more convenient.\r\nWide Pedals, Long Body\r\nThe wide pedal design allows the rider's feet to relax and reduces leg fatigue caused by long-term riding. At the same time, the long body design also provides more space for cyclists, making riding more comfortable.\r\nBuilt-in Display\r\nKuKirin G1 Pro uses a built-in display, which not only hides the wiring inside the vehicle, but also reduces the confusion and exposure of external wiring, making the vehicle look neater and more high-end.\r\nFront & Rear Double Disc Brakes\r\nKuKirin G1 Pro uses front and rear dual disc brakes, which have good ventilation and heat dissipation and stronger braking performance. Even when facing high-speed driving in complex off-road environments, it can brake easily, giving you the confidence to stop whenever you want.\r\nAmbient Lighting Design\r\nThe cool ambient lights not only change colors as the vehicle starts, increasing the driving fun and playability of young and fashionable user groups, but also make the vehicle more attractive when driving at night. It attracts people's attention and ensures the safety of driving at night.",
+      "price": 854,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-g1-pro-folding-electric-scooter-pogo-cycles-1.webp?v=1709878916&width=900",
+      "image": "Scooter1709878916.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050927-13",
+      "name": "KuKirin G2 Pro Folding Electric Scooter",
+      "description": "1. Detachable seat: It has a complete set of adjustable seat bags, large leather cushions, soft and comfortable, thickened and widened cushions. If you are tired from off-road play, you can try to install the cushions. A nice experience.                                                                           \r\n\r\n2. Front and rear double spring shock absorber system: The finely tuned spring shock absorber can effectively buffer the bumps brought by the complex terrain, you can drive it to ride on the rough road and maximize your travel fun.                                                                                 \r\n\r\n3. Powerful motor: G2 Pro has a 600W brushless powerful motor, enjoys extremely fast soaring, 3-speed speed mode, the maximum speed can reach 45kph, making the riding more arbitrary. Adjustment setting range: first gear (15km/h) second gear (30km/h) third gear (45km/h)     \r\n\r\n4. Braking system: front and rear double disc brakes, you can stop if you want, you can walk if you want, go wild! Front and rear 120mm wire-controlled disc brakes, ventilated cooling discs, no fear of high speed, giving you the confidence to stop when you want.                               \r\n\r\n5. All-terrain tires: 9-inch pneumatic off-road tires, with a large coverage area, will not fall into mud in rainy days, good shock absorption, good grip, no fear of complex road conditions, giving you the confidence to go when you want.                                                                               \r\n\r\n6. High-quality battery: 18650 high-capacity lithium-ion battery, high-quality power-type lithium-ion battery, continuous high-rate current output capability, providing 55km long mileage, charging for 8 hours at night, riding for a day during the day, and playing if you want. enough.                                             \r\n7. Quick folding: The design of the folding place is simple and easy to operate. It only needs to be lifted, pulled, pressed, and folded quickly, which is convenient for you to carry it in other vehicles. At the same time, the KuKirin G2 Pro has an independent folding function. Locks to keep you safer while riding.                                                                                                                                                                                       \r\n\r\n8. LED high-definition display screen: With a digital display screen, you can see the status of the car in real-time at a glance, with all the driving data, from gentle to strong recoil, and you can switch the driving mode at any time by pressing the button. Whether you want laid-back comfort or the ultimate wild, it can give you the fun you want.                                                                                                                            \r\n\r\n9. LED lighting system: 6 lights system in the whole car, to illuminate you and protect your safety, 1 headlight + 2 auxiliary road lights + 3 warning tail lights, which can not only illuminate the road ahead for you but also protect you Left and right and rear security.                           \r\n\r\n10. Telescopic T-bar: It is equipped with an adjustable pole, and three gears are set to make the user range wider. This is also to give users a new sense of riding experience. Like adjusting the height.",
+      "price": 529,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-g2-pro-folding-electric-scooter-pogo-cycles-1.webp?v=1709878916&width=900",
+      "image": "Scooter1709878916.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050934-14",
+      "name": "Kugoo Kirin M3 Electric Scooter",
+      "description": "—HIGHLIGHT—\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n40km/h Max Speed\r\n\r\n\r\n\r\n\r\n\r\n\r\nComes With Password Lock\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n500W Brushless Motor\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n10*3'' Off-Road Tires\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n40km Range\r\n\r\n\r\n\r\n\r\n\r\n\r\n24°Climb Angle\r\n\r\n\r\n\r\n\r\n\r\n\r\n13Ah Battery\r\n\r\n\r\n\r\n\r\n\r\n\r\nFoldable Design\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n3 Speed Mode\r\n\r\n\r\n\r\n\r\n\r\n\r\n240Lbs Max Load\r\n\r\n\r\n\r\n\r\n\r\n\r\nIPX7 Waterproof\r\n\r\n\r\n\r\n\r\n\r\n\r\nNFC Card Unlock\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n500W Motor\r\n\r\n\r\n\r\n\r\nUsing 500W DC brushless motor\r\nthe speed can reach up to 40km/h\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFastest 40km/h\r\n\r\n\r\n\r\n\r\nFast and convenient\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSmart Display\r\n\r\n\r\n\r\n\r\nSmart display, power button\r\nNFC card unlock\r\nThree-speed speed adjustment\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nIPX7 Level Waterproof\r\n\r\n\r\n\r\n\r\nCycling in water\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNFC Unlock Card\r\n\r\n\r\n\r\n\r\nNFC card unlock and start \r\nmore secure and more identifiable\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nComes With Password Lock\r\n\r\n\r\n\r\n\r\nDouble security\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n13Ah Super Capacitor\r\n\r\n\r\n\r\n\r\nMaximum mileage 40 km \r\nBMS battery protection system\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTHREE SECONDS TO FOLD\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEasy Riding On Steep Slopes\r\n\r\n\r\n\r\n\r\n24° steep slope\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDetails\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDual front suspension\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nOne pieces handle bell\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n3A fast charger\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBullet cover type waterproof and dustproofcharging port\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n—PARAMETERS—",
+      "price": 459,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kugoo-kirin-m3-electric-scooter-pogo-cycles-1.webp?v=1709878850&width=900",
+      "image": "Scooter1709878850.jpg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050948-16",
+      "name": "Pogo Xtreme X7 -100 km/ hr electric scooter",
+      "description": "Place of Origin:  Delivery times are 30-40 working days as it is built to order\r\n\r\n\r\n\r\nBrand Name: OEM/ODM\r\n\r\n\r\n\r\nModel Number: X7\r\n\r\n\r\n\r\nPower: 8000-10000W\r\n\r\n\r\n\r\nVoltage: 60V\r\n\r\n\r\n\r\nCharging Time: 10-12h\r\n\r\n\r\n\r\nFoldable: Yes\r\n\r\n\r\n\r\nRange Per Charge: 120-150km\r\n\r\n\r\n\r\nMax Speed: 90-100km/h\r\n\r\n\r\n\r\nCategory:Two-wheel  Scooter\r\n\r\n\r\n\r\nApplicable People: Unisex\r\n\r\n\r\n\r\nSmart Type:Sensor,  Electronic, Digital\r\n\r\n\r\n\r\nBattery Capacity: 60-80Ah\r\n\r\n\r\n\r\nProducts:Electric Scooter With Seat\r\n\r\n\r\n\r\nMotor Power of Scooter :8000W\r\n\r\n\r\n\r\nMax Speed of Scooter: 90-100km/h\r\n\r\n\r\n\r\nMax Load of Scooter: 150kg\r\n\r\n\r\n\r\nMotor power: 4000W*2\r\n\r\n\r\n\r\nFront Fork of Scooter: Aluminium Alloy\r\n\r\n\r\n\r\nTire:14 Inch  Width\r\n\r\n\r\n\r\nColor available: Red with Black\r\n\r\n\r\n\r\nRemoveable  Seat:Support/Optional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProduct Details\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nX7 OFF ROAD Electric Scooter\r\n\r\n \r\n\r\n\r\nRemoveable seat (Optional)\r\n\r\nAdjust the seat position according to your height, comfortable leather and sponge material, let you have a more comfortable riding experience.\r\n \r\n\r\nMax load 150KG/330 LB\r\nAerospace-grade thicken body, thicker steel pipe and a thicken frame, uncompromised quality\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPowerful motor and gradeability\r\nThe X7 off-road electric scooter adopts a high-speed brushless DC motor, which enables it to reach a 60° gradeability and can easily adapt to various road surfaces and road conditions.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHD smart display\r\nHelps riders see real-time information about the vehicle such as power, speed, battery status, etc.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nLong Range\r\n\r\nThe high-capacity 60V 60Ah removable battery can provide a maximum driving distance of up to 135km/84 miles, solving the rider's trouble of frequent charging.\r\n \r\nYou can also customize the motor, battery and wheels to suit your needs.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n 14 inches off road tires\r\nThe X7 off-road electric scooter is equipped with 14-inch off-road tires, the tread is non-slip, the bearing capacity is stable, the shock absorption effect is better, the grip is stronger, and the riding experience is safer and more comfortable.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHigh brightness headlights\r\n4 high-brightness LED headlights and red taillights help the rider to observe the road conditions more clearly when driving at night, remind other vehicles to pay attention to the rider's position, and better protect the safety of driving at night\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFoldable Design\r\n\r\n X10 features a quick folding mechanism that allows it to be folded and unfolded in seconds, making it easy to transport from one place to the other.",
+      "price": 2999,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://pogocycles.com/cdn/shop/files/pogo-xtreme-x9-100-km-hr-electric-scooter-pogo-cycles-1.jpg?v=1696229054&width=900",
+      "image": "Scooter1696229054.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050963-18",
+      "name": "ENGWE Y10 Electric Scooter",
+      "description": "Powerful Motor\r\nThe ENGWE Y10 electric scooter is equipped with a 36V 350W motor, providing ample power for smooth and efficient rides.\r\nAdjustable Speed\r\nWith a maximum speed of 25km/h (32km/h unlocked), the scooter allows for flexible speed control to accommodate different riding preferences and local regulations.\r\nLong Electric Range\r\nThe Y10 offers a maximum mileage of 65km in electric mode, allowing for extended rides without worrying about running out of battery power.\r\nReliable Braking System\r\nFeaturing a front drum brake, the scooter ensures reliable and responsive braking performance for enhanced safety and control.\r\nComfortable and Safe Riding Experience\r\nThe Y10 scooter is designed to accommodate riders with a height range of 155-180cm. It also includes LED headlights, a taillight, and an LED meter for increased visibility and convenience during rides.",
+      "price": 499,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/engwe-y10-electric-scooter-pogo-cycles-1.webp?v=1706005546&width=900",
+      "image": "Scooter1706005546.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050971-19",
+      "name": "iENYRID M4 PRO S+ MAX",
+      "description": "10\" Off-road Pneumatic Tires\r\n10 Inch Off-road tires provide high performance with extra power. Pneumatic tires are more shock-absorbing and more comfortable than solid tires. Easily cross the speed bump and effectively, deal with rough roads.\r\n\r\n800W Motor\r\nFrequency conversion high-speed motor provides strong power, the climbing ability to 10-20 degrees. \r\n\r\n48V 20Ah Battery\r\n45km/h max speed and travel up to 40-75km without recharging.This is an electric scooter for adults suitable for daily commuting and Off-road.\r\n\r\nFoldable Design\r\nIENYRID M4 PRO S+ MAX electric kick scooter with portable folding design. Easy to fold this adult's electric scooters in two steps. You can be put in your car trunk or carry it into the subway and bus. Save your precious time.\r\nSafe Driving System\r\nDouble brake system, front and rear porous disc brake, equipped with porous disc brake system and E-ABS anti-lock braking system, which can achieve efficient braking, quick response, safe riding. This motorized scooter built-in high power lamp beads for long-range headlamp and red warning tail light, in the meantime, a colorful strip light on the both side of the deck, greatly improve the safety driving in the dark street at night.\r\nIPX-4 Waterproof\r\nProtected against splashing water from any angle. but we don’t recommend riding in the rain or on the wet road for safety reasons.",
+      "price": 599,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/ienyrid-m4-pro-s-max-pogo-cycles-1.webp?v=1706007341&width=900",
+      "image": "Scooter1706007341.jpg"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050978-20",
+      "name": "Mankeel MK083 Electric Scooter",
+      "description": "The Mankeel MK083 electric scooter comes with a long-range 15 miles battery. Not many scooters in this price range will offer such capacity. There are other electric scooters with the same specs but small-size batteries. It only takes three seconds to fold this scooter and carry it wherever you want. Traveling to adventure outdoors can be fun because of these features. The design of this electronic scooter is safe to ride, and there are safety brakes. Also, you can store it under desks and in office spaces. The reason for this is its compact size when it folds.\r\n\r\n\r\n\r\n\r\nMankeel MK083 Electric Scooter Fold in Three Seconds\r\nThe secure folding design of this electric scooter lets you flip down the folding lever. It catches onto a latch on the rear wheel. Thus, it folds safely and becomes compact. The weight of the Mankeel MK083 electric scooter is only 27.9lbs. There are durable materials that are corrosion-free and conduct thermal activity. Therefore, the scooter can last longer and needs no maintenance. The hook it uses is of an aluminum alloy element that is sturdy and lightweight. If you release the throttle or press the brake when you are riding it, the battery will gain kinetic charge.\r\n\r\nPress The Brakes to Charge Battery Via Kinetic Energy Making 15-22 Miles Range Battery Capacity\r\nIncrease the capacity of the battery to cover more miles by using kinetic energy brakes. These recharge the batteries whenever you apply the brakes. The Mankeel MK083 electric scooter comes with all electronic protections. There is overcurrent, short circuit, overcharging, over-discharging, and temperature protection for this scooter. Therefore, you can ride it with comfort and peace of mind. Also, you can check the health of the battery using a smartphone app. So, commute using this electric scooter or maneuver stairs and pavements with ease.",
+      "price": 365,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://pogocycles.com/cdn/shop/files/mankeel-mk083-electric-scooter-pogo-cycles-1.jpg?v=1705998806&width=900",
+      "image": "Scooter1705998806.jpg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050992-22",
+      "name": "Kukirin (Kugoo) X1 Electric Scooter- Exclusive 2022 Edition",
+      "description": "Front 8.5 Inch Pneumatic Tire, Rear 8.0 Inch Solid & Anti-Skid Tire\r\nStrong Grip, Wear-resisting and Safe. It's Suitable for Different Kinds of Roads.\r\n600W Motor: Strong Power and Running speed up to 35-40km/h.\r\nFront LED Bright Light to ensure your night riding safety.\r\nShock Mitigation System: Dual shock mitigation system can help you enjoy comfortable riding.\r\nFolding Handle: Help to get a tiny size when the scooter is folding.\r\nBrake System: The electric scooter is equipped with Hub brake+EABS Brake.\r\nPassed CE and MSDS verification, it is a safe product.",
+      "price": 599,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-kugoo-x1-electric-scooter-exclusive-2022-edition-pogo-cycles-1.jpg?v=1709035378&width=900",
+      "image": "Scooter1709035378.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710050999-23",
+      "name": "iENYRID M4 Electric Scooter",
+      "description": "Dual Damping System, max load up to 150kg.\r\nEquipped with a seat for a relaxing riding tour.\r\n1-step folding system, easy to put into the truck and take with you.\r\nAutomatic cruise control, keep a constant speed and endurance function.\r\nFront and rear E-ABS honeycomb disc brake discs, rapid response.",
+      "price": 510,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/ienyrid-m4-electric-scooter-pogo-cycles-1.webp?v=1709036794&width=900",
+      "image": "Scooter1709036794.jpg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051005-24",
+      "name": "iScooter iX6 Electric Scooter",
+      "description": "Highlights\r\n11 inch Off-road Tires\r\niX6 big wheel off-road electric scooter compared to average tires, upgraded 11-inch off-road tires increase durability, strength and comfort.\r\n48V 17.5Ah Lithium-ion Battery\r\n17.5AH 48V lithium battery and the maximum cruising range can reach (45) KM. The BMS monitors the battery working status at all times to provide overcharge and discharge protection.\r\n1000W Powerful Motor\r\niX6 off road electric scooter with 1000 W motor and aluminum-alloy body to provide strong and stable power, thus providing a top speed of 45km/h and a climbing ability of 35%.\r\nExcellent Climbing Ability\r\nWith a climbing angle of 35%, the iX6 electric scooter can effortlessly tackle steep hills and inclines, providing a smooth riding experience.\r\nEnhanced Suspension System\r\nThe scooter features dual front and rear suspension, offering excellent shock absorption to minimize vibrations and bumps on uneven terrains.",
+      "price": 680,
+      "category": 1,
+      "rating": 3.67,
+      "image_url": "https://pogocycles.com/cdn/shop/files/iscooter-ix6-electric-scooter-pogo-cycles-1.webp?v=1706005547&width=900",
+      "image": "Scooter1706005547.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051012-25",
+      "name": "Duotts D88 Plus Electric Scooter Preorder (Available in the Mid of March)",
+      "description": "2*2800W DUAL MOTOR: A dual-motor electric scooter can accelerate more quickly than a single-motor scooter, which can be particularly useful when you need to get moving quickly or navigate busy intersections.\r\nEnhanced performance in inclement weather: Dual motors can provide better traction and control in inclement weather conditions, such as rain or snow, making it safer to ride your scooter in adverse conditions.\r\nThe power to climb 55° inclines. The D88’s 5600W motor pushes it up hills just like they were flat ground. Our D88 lets you climb steep city hills or gravel slopes faster.",
+      "price": 1224,
+      "category": 1,
+      "rating": 4.08,
+      "image_url": "https://pogocycles.com/cdn/shop/files/duotts-d88-plus-electric-scooter-preorder-available-in-the-mid-of-march-pogo-cycles-1.jpg?v=1709877998&width=900",
+      "image": "Scooter1709877998.jpg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051019-26",
+      "name": "DUOTTS D66 Electric Scooter",
+      "description": "Highlights\r\nPowerful Performance\r\nThe DUOTTS D66 electric scooter features a 60V 1800W*2 motor (JYS brand), delivering a maximum speed of 65-70km/h. It can effortlessly handle inclines of up to 45°, making it suitable for various terrains and challenging conditions.\r\nLong Battery Life\r\nEquipped with a 60V 24Ah battery composed of Chinese 18650 cells, the D66 offers a range of 50-60 km on a single charge. This allows for extended rides without worrying about running out of power. The scooter's charging time is 8-10 hours, ensuring quick and efficient recharging.\r\nDurable and Safe Design\r\nThe D66 features an aluminum alloy frame, providing both strength and durability. It is equipped with front and rear fenders, ensuring protection against splashes and debris. The scooter also has a waterproof grade of IPX4, making it resistant to light rain and water splashes.\r\nComfortable Riding Experience\r\nThe D66 offers a smooth and comfortable ride with its front and rear spring shock absorbers. The 11-inch off-road tires provide excellent traction and stability, while the adjustable height (120-140cm) and saddle height (72-82cm) cater to riders of different sizes.\r\nConvenient and Practical Features\r\nThe D66 is foldable, making it easy to transport and store. The handlebar is also foldable, further enhancing its portability. The scooter comes with front and brake lights, as well as turning signal lights, ensuring visibility and safety on the road. Additionally, it includes a seat, two chargers, a bag of tools, and a user manual for added convenience.",
+      "price": 1440,
+      "category": 1,
+      "rating": 4.08,
+      "image_url": "https://pogocycles.com/cdn/shop/files/duotts-d66-electric-scooter-pogo-cycles-1.jpg?v=1709036815&width=900",
+      "image": "Scooter1709036815.jpg"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051027-27",
+      "name": "i9Max 500W Electric Scooter",
+      "description": "Our award-winning Max e-scooter just got better. Ride further on the second-generation S9 Pro. Designed with our new powerful 500W motor that delivers responsive acceleration and superior hill-climbing ability. The high-capacity battery gives you a 35km one-charge range – letting you explore further.\r\nKey Features\r\nWet weather riding, climbing hills, regular use, loads of up to 120kg, beginners and advanced riders\r\nIdeal For\r\n\r\nVery long 35km (21.7miles) range, 4-6 hour charge time\r\n35km/h (21.7mph) top speed, new powerful 500W rear wheel motor with three power modes \r\nPremium ride with quality steel frame, featuring large 10-inch wheels, honeycomb tyres and puncture prevention fluid\r\nClass-leading IP54 waterproof with warranty backing for reliable wet weather riding ability\r\n27.5 lbs(13.5kg) total weight\r\nHigh 120kg/264lbs load limit - perfect for heavier riders and luggage\r\n'Click-Lock' secure premium folding mechanism for quick pack down and storage\r\nHandy smartphone USB charge port on the handlebar\r\nComprehensive 6 month manufacturer warranty\r\nBenefit from iHoverboard servicing expertise \r\nEU-held replacement parts \r\nIntegrates with MiniRobot app",
+      "price": 380,
+      "category": 1,
+      "rating": 3.67,
+      "image_url": "https://pogocycles.com/cdn/shop/files/i9max-500w-electric-scooter-pogo-cycles-1.jpg?v=1709036399&width=900",
+      "image": "Scooter1709036399.jpg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051034-28",
+      "name": "DUOTTS D99 Off-Road Electric Scooter Preorder (Arriving in Mid March)",
+      "description": "Highlights\r\nThe DUOTTS D99 is equipped with full-size 13-inch pneumatic road tires that provide excellent ride comfort, traction and rolling efficiency for long rides, while enhancing stability to give you a smooth ride. It is equipped with an extremely powerful 60V 3000W*2 motor, which can be used in single motor mode or dual motor mode.\r\nThe DUOTTS D99 is a high-performance dual-motor, dual-suspension electric scooter that brings off-road performance to urban environments. The D99 is equipped with front and rear hydraulic/disc brakes with EBS for great stopping power. The front suspension system is supported by two long-travel H-shaped shock absorbers, and the rear suspension is supported by two high-strength springs for shock absorption. Under high-speed driving, the vehicle body is still stable and can filter road bumps.\r\nThe DUOTTS D99 is switchable between single drive and dual motor drive, allowing the rider to switch between 2 modes: ECO mode and TURBO mode. Riding in ECO single motor mode will increase the range of the scooter by 3 times compared to the TURBO dual motor option.\r\nDUOTTS D99 is equipped with front and rear hydraulic brakes. Compared with disc brakes, oil brakes are more effective, and the braking distance is shorter (≤2m), which greatly improves the emergency capability and safety of riding.\r\nThe new DUOTTS D99 is an excellent choice if you want a fast electric scooter with great range and well-thought-out safety features.",
+      "price": 1344,
+      "category": 1,
+      "rating": 4.08,
+      "image_url": "https://pogocycles.com/cdn/shop/files/duotts-d99-off-road-electric-scooter-preorder-arriving-in-mid-march-pogo-cycles-1.webp?v=1709877998&width=900",
+      "image": "Scooter1709877998.jpg"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051041-29",
+      "name": "Kukirin (Kugoo) G4 Off-Road Electric Scooter",
+      "description": "Highlights\r\nHigh-performance Off-road Version\r\nKuKirin G4 stud adopts hollow shape design, which retaining the original section division,  compact and simple body compact, showing speed and strength. It pursues high appearance while achieving better wind breaking results, pushing the speed and power aesthetics of high-power electric scooters to a new level.\r\n11 Inch Widened Vacuum Tire\r\nKuKirin G4 Uses 11 Inch vacuum rubber tires. The ultra-wide tire design makes it easy to ride on the beach, snow, or mountainous woodland.\r\nSuper Large Power Hub Motor\r\nKuKirin G4 uses a 2000Wh ultra-high power integrated wheel hub motor with a maximum speed of up to 70 km/h. The motor uses a double cooling structure to maintain performance for a longer period of time. \r\nLarge Capacity Power Lithium Battery\r\n20Ah/1200Wh high-capacity high-performance, high-quality lithium with a maximum battery life of 75KM.While continuously outputting high rate current, it can also provide you with an ultra-long battery life guarantee.\r\nCool  Light System\r\nKuKirin G4 uses six LED lights for the convenience of night travel. In addition to the main headlight, there are also two steering lights for auxiliary lighting. The rear has two steering warning lights in addition to the brake light on the rear wing. The 6 LEDs not only satisfy your night lighting, but also make you safer when driving at night. \r\nTouchable Intelligent Display\r\nTouch the smart digital display, which can be switched at any time by touching the buttons on the screen. Driving mode, headlight switch, and all driving data can be easily controlled.</p",
+      "price": 899,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-kugoo-g4-off-road-electric-scooter-pogo-cycles-1.jpg?v=1709036947&width=900",
+      "image": "Scooter1709036947.jpg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051048-30",
+      "name": "Kugoo G Booster Electric Scooter-2023 Edition",
+      "description": "·10-inch Pneumatic Tire - Strong grip, wear-resisting and safe. It's suitable for different kinds of roads.\r\n·2 Dual Motors Design  - The strong driving force, 800W and 2 motors, 85km running distance.\r\n·Disc Brake - Front and back is disc brake, it's much more safe for people to ride.\r\n·3 Speed Modes - You control the speed according to the different road surface conditions, which makes driving more comfortable and riding more security.",
+      "price": 1190,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kugoo-g-booster-electric-scooter-2023-edition-pogo-cycles-1.jpg?v=1709035337&width=900",
+      "image": "Scooter1709035337.jpg"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051056-31",
+      "name": "ENGWE S6 Electric Scooter",
+      "description": "10-inch Off-road Tires\r\nAll Terrain Puncture Resistance Tubeless Tires With large 10\" tubeless tires, like the ones on your car, enables you through all rough terrain for comfortable riding.\r\n\r\n15Ah Huge Capacity Battery\r\nIt is more durable with 15Ah high capacity battery.\r\n\r\n500W motor\r\nStrong power and running farther: 500W motor, Max 60km running distance.\r\n\r\nMultiple Suspension\r\nThe intimate multiple-suspension design ensures you stay comfortable and smooth during city riding\r\n\r\n9.4 Inches Widened Padel\r\nUnlike other e-scooters, the widened pedal is designed for more comfort\r\n\r\nIPX4 Water Resistance,You can travel freely on rainy days or any other wet road conditions\r\nNote: Due to printing errors in the manual, the wrong battery capacity is printed as 18Ah, and the actual battery capacity is 15Ah, subject to the actual battery capacity.",
+      "price": 649,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/engwe-s6-electric-scooter-pogo-cycles-1.webp?v=1706005270&width=900",
+      "image": "Scooter1706005270.jpg"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051063-32",
+      "name": "Kukirin (Kugoo) G3 Adventurers Electric Scooter",
+      "description": "Highlights\r\nAll-in-one Solid Design\r\nThe frame is made of high-strength aluminium alloy and designed in one piece with no welds, which is solid and good-looking. Thanks to the all-in-one design, KugooKirin G3 is tougher and more durable, perfect for your cross-country ride! \r\n \r\n1200W Strong Motor\r\nThe 1200W powerful motor with dual heat dissipation provides you with constant and strong power, enabling the e-scooter to speed up to 50km/h. Running with G3, your ride will be more powerful and more durable.\r\n \r\n18Ah Large Battery\r\nEquipped with an 18Ah large lithium-ion battery pack, KugooKirin G3 can run up to 60km on a full charge, which is definitely a great partner for your long-distance ride!\r\n \r\nClimbing up to 30°\r\nThanks to the strong power supply, KugooKirin G3 is able to adapt to a variety of terrains and climb an uphill slope of 30°. Your cross-country ride will have more fun and excitement.\r\n \r\nLED Touch Display\r\nThe advanced LED touch display is designed for showing various real-time data, such as speed and battery power, and also for multi-function control, which makes your ride smarter, easier and more interesting.",
+      "price": 728,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-kugoo-g3-adventurers-electric-scooter-pogo-cycles-1.png?v=1709035676&width=900",
+      "image": "Scooter1709035676.jpg"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051070-33",
+      "name": "Kukirin (Kugoo) G2 MAX Electric Scooter",
+      "description": "Super Battery\r\nKuKirin G2 Max uses 48V 20Ah large capacity lithium battery, and provides as long as 80km range, no more worry about the mileage.\r\nStrong Motor\r\nInstalled with 1000W powerful motor, KuKirin G2 Max can climb slopes up to 30 degree and is able to handle more complicated and bumpy roads.\r\nIntelligent Dashboard\r\nThis dashboard will show all cycling information in real time that you need to know: gear changing, mileage, battery condition, speed, etc. \r\nDetachable Seat\r\nIt comes with an adjustable seat made up of leather, and the tchicked and widen cushion offers more comfort when you start a long trip.\r\nEffective Damping System\r\nKuKirin G2 Max's fine-tuned spring shock absorbers can effectively cushion the bumps caused by difficult terrain, bringing you more riding fun.",
+      "price": 738,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-kugoo-g2-max-electric-scooter-pogo-cycles-1.webp?v=1709878886&width=900",
+      "image": "Scooter1709878886.jpg"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710051077-34",
+      "name": "Kukirin (Kugoo) M4 Electric Scooter",
+      "description": "·10 Inch Anti-Skid Tire - Strong Grip, Wear-resisting and Safe. It's Suitable for Different Kinds of Roads.\r\n·Up to 45KM/H - 15/30/45 KM/H 3 adjustable speed settings to meet your preferences.\r\n·Luxury 500W Motor - Strong power and running farther: 500W motor, Max 45km running distance.\r\n·Front LED Light & Safety Warning Taillight - Bright Red Light to ensure your night riding safety.\r\n·New Generation Suspension System - Dual shock absorption help you enjoy extra miles on all terrain types.\r\n·Threefold Brake System - The electric scooter is equipped with dual disk brake on the front wheel and the rear wheel.\r\n\r\n\r\n\r\nNote\r\nClick here to download the KUGOO M4 user manual.\r\nClick here to download the KUGOO M4 CE Marking.",
+      "price": 479,
+      "category": 1,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-kugoo-m4-electric-scooter-pogo-cycles-2.jpg?v=1709035339&width=900",
+      "image": "Scooter1709035339.jpg"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710047921-1",
+      "name": "MANKEEL MK010 Electric Mountain Bike",
+      "description": "MANKEEL MK010 7 SPEED ELECTRIC MOUNTAIN BIKE DC36V INTELLIGENT DUAL MODE FUNCTION EBIKE POWER ASSISTED\r\n\r\nThe Big Mankeel MK010 is a great mountain ebike with intelligent Dual Mode Function. The MK010 is made withan aluminium frame, so its easy to carry when you come to steps etc. With 26\" oversized tyres and front shock absorbers you are in for a ride that is effortless and comfortable. The dual mode allows for pure electric mode riding and pedal assist mode.\r\nThe Mankeel MK010 is equipped with a 36V 10Ah lithium-ion battery and a 350w brushless motor, with a charge time of around 5 hours. \r\nThe Mankeel MK010 can easily handle a 20 degree slope and has a good range on electric and assist mode. The LED display clearly shows the bike’s battery level, riding speed, power supply and other information. It is also rated to IP76 level waterproofing, so it can easily cope with rainy days.\r\nCustomers are responsible for the use of their electric bike and familiarising themselves with the laws and regulations.",
+      "price": 849,
+      "category": 2,
+      "rating": 3,
+      "image_url": "https://pogocycles.com/cdn/shop/files/mankeel-mk010-electric-mountain-bike-pogo-cycles-1.png?v=1709035821&width=540",
+      "image": "Bike1709035821.jpg"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710047930-3",
+      "name": "WELKIN WKEM001 Electric Mountain Bike",
+      "description": "1. 27.5*2.25\" mountain bike tires + snowmobile mechanical lock fork, WELKIN WKEM001 is especially for mountain terrain.\r\n2. It has a Shimano 7 speed derailleur shift system to enrich your riding experience.\r\n3. 350W brushless motor, the max speed is up to 25km/h, and the max load is 120kg.\r\n4. More safety protections: LED headlight, rear reflector, and dual disc brakes.\r\n5. 2 driving modes: assistant mode and pure electric mode.\r\n6. Certificates: CE, UL, KC, FCC, PSE, ROHS",
+      "price": 944,
+      "category": 2,
+      "rating": 3,
+      "image_url": "https://pogocycles.com/cdn/shop/files/welkin-wkem001-electric-mountain-bike-pogo-cycles-3.webp?v=1705999626&width=540",
+      "image": "Bike1705999626.jpg"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048085-17",
+      "name": "KAISDA K7 Folding Electric Moped Bike - (Preorder)",
+      "description": "Max Speed 25-28km/h\r\nThe 350W motor provides the max 25-28km/h speed and max 30-degree gradient.\r\n12.5Ah / 36V Li-ion Battery\r\n12.5Ah / 36V Li-ion battery ( included in the product ) for max 40-65km mileage with pure electric mode and 45-75km mileage with moped mode\r\n20*1.95 inch Inflatable Rubber Tire\r\nThe inflatable rubber tire is suitable for different grounds.\r\nFolding Design\r\nFolding design for convenient carrying.\r\n3 Riding Modes\r\nPedal mode, moped mode, and pure electric mode to choose\r\nSuper Bright Headlight\r\nThe bright headlight can make you ride at night more safely.\r\nMax Load 120kg\r\nAluminum alloy shell for a max 120kg payload.\r\nLCD Color Display Screen\r\nYou can get some information, such as mode, speed, odometer, and battery level.",
+      "price": 720,
+      "category": 2,
+      "rating": 4.5,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kaisda-k7-folding-electric-moped-bike-preorder-pogo-cycles-1.webp?v=1709036301&width=540",
+      "image": "Bike1709036301.jpg"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048098-19",
+      "name": "DUOTTS S26 Electric Bike Preorder (Arriving in Mid March)",
+      "description": "Highlights\r\nPowerful and Efficient\r\nThe DUOTTS S26 Electric Bike features dual 750W motors and a 48V 20Ah Samsung battery, providing a top speed of 50km/h and a range of up to 120km in pedal-assisted mode.\r\nDurable Construction\r\nThe bike features a sturdy and lightweight 26\" aluminum alloy frame, front and rear shock absorbers, and 26*4.0 inflatable tires, ensuring a comfortable and stable riding experience on any terrain.\r\nMultiple Riding Modes\r\nThe bike offers pure electronic mode, pedal-assisted mode, and riding mode, allowing riders to choose the most suitable option for their needs and preferences.\r\nAdvanced Features\r\nThe bike features a 5-speed multifunction LCD display, DYISLAND hydraulic brake, and an aluminum alloy seat tube, providing riders with precise control and comfort.\r\nEasy to Use and Maintain\r\nThe bike comes with a user manual and charger, and its IPX4 waterproof grade ensures it can withstand various weather conditions. Its turn handle 158DX electric throttle and Shimano 7-speed speed system make it easy to operate and maintain.",
+      "price": 1299,
+      "category": 2,
+      "rating": 4.08,
+      "image_url": "https://pogocycles.com/cdn/shop/files/duotts-s26-electric-bike-preorder-arriving-in-mid-march-pogo-cycles-2.jpg?v=1709878095&width=540",
+      "image": "Bike1709878095.jpg"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048104-20",
+      "name": "BURCHDA RX50 Electric Bike",
+      "description": "1. 26*4.0 inch fat tire, great for adventure camping, vacation travel, and cycling trips.\r\n2. 48V 17.5 AH battery offers 60-70 miles mileage, and the removable design makes it convenient to charge.\r\n3. 1000W high speed motor brushless motor with speed reaching up to 40-45km/h.\r\n4. Equipped with a front fork shock absorber, it buffers the vibration and increases ride comfort.\r\n5. Headlight illuminates the way forward; the seat taillight warns the rear car to maintain a safe distance.",
+      "price": 1299,
+      "category": 2,
+      "rating": 4.75,
+      "image_url": "https://pogocycles.com/cdn/shop/files/burchda-rx50-electric-bike-pogo-cycles-1.jpg?v=1706005402&width=540",
+      "image": "Bike1706005402.jpg"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048110-21",
+      "name": "FIIDO X upgraded Folding Electric Bike",
+      "description": "Features\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAward-winning Design, Stand out from the Herd\r\nEver feel the need to get on a ride stress-free? The Fiido X is the answer. An eye-catcher with a minimalist vibe, Fiido X takes you through the streets with style and powers your climb with no noise. Best companion for your daily commutes and light adventures.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAnti-theft Battery Security System\r\nYou don't need to worry about the battery security any more. With the exclusive battery security system, the battery will be removed by the unique code only, which means nobody but you can unlock the battery and the bike, making the theft effectively pointless.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHealthy Exercises Empowered by Torque Sensor\r\nNew to electric bikes? No problem. Equipped with the modern torque sensor that measures if and how hard you are pedaling, Fiido X brings a much more intuitive riding experience to electric bike riders, saving you the worry of learning how to use a throttle and the jerky moves associated with a cadence sensor. You still get the exercise you need, hassle-free. Plus, no stress over local regulations on having a throttle.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nReady to Ride with a No-brainer Setup\r\nEasy assembly with just the pedals to screw in, you can get on your ride within 5 minutes of unboxing it.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRemovable Battery with a Long Range\r\nThe patented battery boasts a whopping 130 km (80.7 miles) range per charge, more than enough for any daily commutes. With easy removal and a sleek look, it frees you from any battery-related concerns.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGreater Folding Frame\r\nThe signature clean-looking frame with a folding mechanism from Fiido X has stepped up its game. With a testing process that reaches twice the strength set by the EN15194 standard, the new frame is stronger than ever. Still, commuters get to collapse it down and fit it in a car trunk or in public transport, enjoying Fiido X's unmatched flexibility.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPuncture-proof Tires\r\nEquipped with puncture-proof tires to minimize the risk of blowout\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAll fiido bikes come with mudguards and light\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCreating the aesthetic of future\r\nFiido X perfectly present you the ultimate design aesthetic style with a sense of futuristic technology. The frame line is smooth and simple, with a delicate nebulas blue color, which creating a unique electric bicycle with the beauty of the future.\r\n\r\n\r\n\r\n\r\n\r\n\r\nLighter but stronger\r\nFiido X adopts magnesium alloy integral molding process, The frame weight is only 3KG, it’s very light and portable.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nInnovative Hidden Folding Mechanism\r\nYou won't find any prominent folding structure on the Fiido X frame. We have used an original mechanism to optimize the folding mechanism of the frame. The hidden folding mechanism is the ultimate combination between art and technology.\r\n\r\n\r\n\r\n\r\n\r\n\r\nEasily to fold, let’s go\r\nIt only takes about 10s to fold the Fiido X, the folded volume is less than 0.15 cubic meter, which can easily fit into the trunk, or pushing ahead. It’s your perfect pal of traveling and commuting. 20-inch tire is also a perfect balance of comfortable riding experience and portability.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRemovable and portable battery\r\nYou can easily remove the seat post battery for charging, which is easy to replace and carry. It’s also convenient to adjust the seat height however you want.\r\n\r\n\r\n\r\n\r\n\r\n\r\nInnovative rail-type power, beauty and a beast\r\nFiido X is world’s the first folding electric bike with built-in seat pole to transmit battery power, without ugly exposed wires, it looks like a beautiful bike. Equipped with a 417.6Wh ternary lithium battery, which makes the moped mode range more than 130KM. Providing you more power output for any riding needs.\r\n\r\n\r\n\r\n\r\n\r\n\r\nStunning strength shows the stunning experience\r\nBased on the ergonomic design, and the primary consideration of the combination between riding performance and comfort, leading Fiido X be able to present you the delightful riding experience which beyond the expectation.\r\n\r\n\r\n\r\n\r\n\r\n\r\nTorque sensor, carefree riding\r\nFiido X is equipped with a leading torque sensor system, which can sense the rider’s wills. With the 40N/m high torque motor. No more fear about the hillside, let’s conquer the vast mountains more easily.\r\n\r\n\r\n\r\n\r\n\r\n\r\nMore intelligent , more relieved\r\nFiido X also adds a unique key-less security system, replacing the traditional key lock with a smart code lock, which perfectly be anti-theft. It’s also a power switch to avoid the annoying key lost problem.",
+      "price": 1290,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fiido-x-upgraded-folding-electric-bike-pogo-cycles-1.webp?v=1709878565&width=540",
+      "image": "Bike1709878565.jpg"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048116-22",
+      "name": "Samebike MY-275 Electric Mountain Bike",
+      "description": "1. Three modes: pure electricity, Mopped Mode and manpower\r\n2. Center LCD color screen LCD smart instrument: speed display, battery display, motor power display, gear position display, total mileage display, single mileage display, fault display\r\n3. ABS portable battery box, which can be charged directly by car or taken home for charging\r\n4. Micro brushless hall controller, intelligent power assist system\r\n5, aviation class 6061 aluminum alloy shaped mountain frame\r\n6, super light, cool, 10 - blade magnesium alloy wheel\r\n7. Front fork with lock function, easy to switch\r\n8.thick 27.5*2.10 mountain tires, comfortable riding, against a variety of roads\r\n9.TFT Color LCD instrument the display clearly",
+      "price": 859,
+      "category": 2,
+      "rating": 4.32,
+      "image_url": "https://pogocycles.com/cdn/shop/files/samebike-my-275-electric-mountain-bike-pogo-cycles-1.jpg?v=1709035959&width=540",
+      "image": "Bike1709035959.jpg"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048122-23",
+      "name": "CMACEWHEEL RX20 Max Electric Bike",
+      "description": "Main Features\r\n\r\n\r\n750W*2 Brushless Rear Motor\r\nThis bike is equipped with two 750W motors.750W Brushless Motor has high performance, more power, faster acceleration, and Greater Climbing Ability.\r\n\r\n\r\n\r\n15Ah Removable Lithium-Ion Battery\r\nSimple design and compact size make the bicycle beautiful and generous. And, the 15Ah concealed replaceable lithium battery is installed in the bicycle tube without protruding.\r\n\r\n\r\n\r\n20 x 4 Inches Fat Tire\r\nCMACEWHEEL RX20-MAX has 4.0 wide tires. And it adds an extremely cut-resistant and wear-resistant material to the sidewalls of selected mountain tires.\r\n\r\n\r\n\r\n45km/h Max Speed\r\n\r\n\r\n60-100km Range At Pedal Assistant Mode\r\n\r\n\r\n45-Degree Grade Ability\r\n\r\n\r\nEquipped With Multi-Color LCD and Turning Indicate Tail Ligh",
+      "price": 1329,
+      "category": 2,
+      "rating": 4.33,
+      "image_url": "https://pogocycles.com/cdn/shop/files/cmacewheel-rx20-max-electric-bike-pogo-cycles-1.jpg?v=1709877807&width=540",
+      "image": "Bike1709877807.jpg"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048127-24",
+      "name": "CMACEWHEEL M26 Electric Bike",
+      "description": "HIGHLIGHTS\r\n\r\n\r\n 1. 15Ah large battery provides 40-60km mileage of pure electric mode and 70-100km mileage of power assistance mode.\r\n2. 750W strong motor empowers each at a faster speed, providing more freedom and more fun.\r\n3. The max speed of CMACEWHEEL M26 can reach 45km per hour, which brings you a super speed experience.\r\n4. Aluminum alloy body, CMACEWHEEL M26 is extremely lightweight, and weighs only 30kg.",
+      "price": 1097,
+      "category": 2,
+      "rating": 4.33,
+      "image_url": "https://pogocycles.com/cdn/shop/files/cmacewheel-m26-electric-bike-pogo-cycles-1.jpg?v=1709036077&width=540",
+      "image": "Bike1709036077.jpg"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048133-25",
+      "name": "Kukirin (Kugoo) V3 Electric Bike",
+      "description": "Tailor for Off-Road Ventures\r\nThe KuKirin V3 mountain electric bike is meticulously designed to thrive in mountain landscapes. Boasting an impressive 500W motor, in tandem with a Shimano 7-speed drivetrain, it empowers riders to seamlessly tackle inclines and challenging off-road trails. Its oversized 27.5’’ pneumatic tires are enriched with specialized patterns, delivering optimal grip by enhancing friction between the tires and the road. This, in conjunction with its exceptional shock absorption and noise reduction properties, firmly establishes it as the go-to choice for avid mountain bikers.\r\nRemovable Battery for Hassle-Free Charging\r\nSay goodbye to carrying the entire bike for charging. The KuKirin V3 electric bike for adults features a lithium battery that can be easily detached, enabling you to charge it separately. The removable battery also enhances portability, and with a dedicated lock on the aluminum alloy frame, it ensures added security.\r\nUnrivaled Range\r\nWith a substantial 15Ah lithium-ion battery, the KuKirin V3 electric bike achieves a remarkable pure electric range of up to 60 kilometers. Its exceptional power-assisted range extends to an unparalleled 90 kilometers, effectively eliminating any concerns about running out of battery power during your mountain adventures.\r\nFlexible Riding Modes\r\nThe KuKirin V3 mountain electric bike offers a trio of speed modes: low speed, power-assisted speed, and high speed. Engage in leisurely fitness rides with the low-speed mode, alleviate the physical strain with power-assisted speed, or master diverse terrains with ease using the high-speed mode.\r\nUltra Safe for Mountain Adventures\r\nCrafted from sturdy aluminum alloy, it ensures durability for mountain biking. Its front suspension, engineered from high-strength aluminum alloy, enhances resistance to wear and scratches. Equipped with front and rear dual disc brakes, the bike's braking system offers heightened responsiveness and shorter stopping distances, ensuring a secure and confident riding experience.",
+      "price": 678,
+      "category": 2,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kukirin-kugoo-v3-electric-bike-pogo-cycles-1.webp?v=1709039885&width=540",
+      "image": "Bike1709039885.jpg"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048140-26",
+      "name": "Samebike XWLX09 Fat Tire Electric Bike",
+      "description": "Three modes: pure electricity, power, manpower\r\nLCD LCD display instrument, 5 levels of electric/power-assisted adjustment, mileage, speed, power, headlight control, implementation mode function, fault diagnosis function\r\nAluminum alloy detachable battery box, which can be charged directly from the car or taken out for charging\r\nBrushless Hall high power controller, intelligent power assist system\r\nAviation grade 6061 aluminum alloy full suspension folding frame\r\nsuper light, cool, twelve knife magnesium alloy integrated wheel\r\nED titanium fat tires with locking function widen the front fork and switch freely\r\n750 pound spiral ED seal adjustable shock absorber\r\nSHIMANO Shimano 7-level complete transmission system\r\nSilver anti-rust, silent, advanced chain\r\n750W high-speed high-power fat tire motor, strong power, climbing ability up to 35 degrees\r\nSuper wear-resistant 160 widened copper-based mechanical disc brake friction plate, brake performance improved\r\nCTS wear-resistant 20-inch X4.0 widened snow fat tires, strong grip ability, comfortable riding, cope with rough roads\r\nThe vehicle wiring harness adopts a quick-release waterproof connector, which is convenient for after-sales, modification and upgrade.",
+      "price": 910,
+      "category": 2,
+      "rating": 4.32,
+      "image_url": "https://pogocycles.com/cdn/shop/files/samebike-xwlx09-fat-tire-electric-bike-pogo-cycles-8.jpg?v=1709035643&width=540",
+      "image": "Bike1709035643.jpg"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048147-27",
+      "name": "Lankeleisi XC4000 Fat Electric Bike",
+      "description": "Shimano 7 Speed\r\nIt is equipped with the best transmission: Shimano. In pedal assist and electric mode, you can manipulate the Xc4000 to handle uphill, downhill and flat roads at variable speeds. You can switch between different gears according to different road conditions, allowing you to navigate paths and trails relatively easily.\r\nLED Smart Display and Waterproof Kit\r\nThe waterproof LCD display provides speed, battery requirements, night vision, driving distance, light status, etc.\r\nMechanical Disc Brakes\r\nThe sensitive brake system with the front and rear 180mm disc rotors can provide sufficient braking force even in the harshest conditions.\r\n48V*17.5Ah Removable Lithium Battery\r\nThe Lankeleisi xc4000 has a 17.5ah high-capacity removable battery, you can take it away at will without worrying about losing it, and is equipped with a 17.5ah large-capacity battery, which can last for more than 5 hours, charge and discharge up to more than 1000 times, and the cruising range is 40- 50km, if you use the power-assisted mode, it can easily endure 100km.\r\nCHAOYANG 26X4.0 Fat Tire Electric Bike\r\nIf you are looking for a fat tire electric bicycle, then it is undoubtedly your best choice, because Xc4000 is equipped with the best CHAOYANG thick tires, so that you can reduce vibration when riding and ride more comfortably.",
+      "price": 1499,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/lankeleisi-xc4000-fat-electric-bike-pogo-cycles-1.webp?v=1709035765&width=540",
+      "image": "Bike1709035765.jpg"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048153-28",
+      "name": "ENGWE M20 Electric Bike",
+      "description": "750W Brushless Motor with a Peak of 1000W\r\nAccelerate swiftly and slope roads with a powerful 750W motor (1000W peak power), and it can easily handle 10 degree slopes.\r\n20*4.0 Fat Tires\r\nAdd further stability, safety, and confidence for riders of all experience levels on/off-road in variable traction conditions.\r\nDual Shock Systems\r\nDual shock systems extend from its front hydraulic shock to the rear air shock. 2 times more powerful shock absorbance than normal bikes.\r\nLeading Adventure Design\r\nENGWE's e-bike fish-inspired evolution flying streamline design & speed boost technology.\r\nDual Disc Brakes\r\nThe front and rear wheels are equipped with a double disc brake system with fast heat dissipation design to ensure smooth braking and safe braking situations.\r\nShimano 7-Speed Gears\r\nGearing is provided by a Shimano 7-speed derailleur which delivers reliable and accurate gear shifting. Speed Can be easily unlocked to 28-30\r\nLight-weight Aluminum Alloy Frame\r\nM20 is made of lightweight aluminum alloy, the whole bike is 40% lighter than bikes using high carbon steel.",
+      "price": 1299,
+      "category": 2,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/engwe-m20-electric-bike-pogo-cycles-4.jpg?v=1706005247&width=540",
+      "image": "Bike1706005247.jpg"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048160-29",
+      "name": "CMACEWHEEL GW20 Electric Bike 2024 Preorder",
+      "description": "HIGHLIGHTS\r\n750w Brushless Rear Motor\r\n48V 17Ah/20AH Lithium Battery\r\n45km/h Max Speed\r\n20×4.0 Inch Fat Tire\r\n70-100km by Assistant\r\nGradeability: 30Degree\r\n\r\nOLDING DESIGN\r\nThe GW20 20-inch electric bicycle can be folded out from the beam simply in a few seconds.\r\nIn addition, It’s a Portable and practical foldable e-bike. So you can easily and conveniently carry GW20 on trains, private cars, RVs, and boats.\r\nThe perfect combination of folding and off-road can go anywhere with you.\r\n \r\n4.0 INCH FAT TIRE\r\nDesigned by professional 4.0 wide tires, the GW20 Electric Buggy adds an extremely cut and abrasion-resistant material to the sidewall of selected mountain bike tires. This densely woven fabric is lightweight and highly elastic.\r\nWell, To ensure that the tire’s performance is not compromised, the tread pattern is designed to provide good grip and stability, with a deep and wide tread design for good drainage.\r\nSo, this electric fat tire bike GW20 It is very suitable for driving on the city, snowy, mountainous and rough roads.\r\n IZED COMFORT SEAT\r\nOur Gw20 fat tire electric bike has a oversized Comfort seat with a shock-absorbing elastomer. This is a lightweight foam seat made of high-quality waterproof artificial leather and filled with decompression function, bringing you a very comfortable experience.\r\nThe ED tower spring of the saddle base eliminates road or surface vibration that is usually directly transmitted to the spine, helping you to drive more smoothly and comfortably on off-road or flat roads.\r\nSo CMACEWHEEL GW20 is a more comfortable ebike than other old small saddle mountain e-bikes.\r\n 750W BRUSHLESS MOTOR\r\n48V 750W Brushless Motor has high performance, low noise, and low consumption.\r\nIt is perfectly combined with the controller to reduce friction and make the electric bicycle run more smoothly and keep working more efficiently. Allow you to enjoy smoother and more efficient travel during riding.\r\nSo let the 750 watt folding electric bike GW20 becoming your indispensable partner.\r\nMECHANICAL DISC BRAKES\r\nThe front and rear 110 large drum brakes, shorten the braking distance, ensure greater stability and safety. Mechanical disc brakes can make braking easier and more effective.\r\nIt is very convenient to use for beginners.\r\ne 7-speed Shimano system is the standard transmission mechanism mentioned by many riders.\r\nRiders can adjust the bike’s gear according to personal preference to adapt to different road conditions, such as tilt, bumps, or other difficulties. The 7-speed Shimano bike can travel on different terrains.\r\nThe lower gears make it easier to pedal, and the higher gears make it easier to move downhill.\r\nSo you will engory double funs of Conventional bikes and electric bicycles on GW20 folding electric bike.\r\n \r\nLOCKABLE EXTENDED SUSPENSION FORK\r\nGW20’s high-strength shock absorber front fork allows you to be more relaxed and comfortable when riding, and no longer afraid of bumps.\r\nThe lock switch can be manually locked or opened depending on riding conditions.\r\nThe separate fork-shaped bridge design makes the outer tube of the front fork stronger and effectively prevents dust pollution during riding.\r\n \r\nMULTI-FUNCTION COLOR LCD \r\nOur folding Fat tire electric bike -cmacewheel GW20 is equipped with a new color instrument S2 from 2022. S2 is very superior in technology.\r\nAs to speed display, it includes real-time speed “RT SPEED”, “MAX SPEED”, average speed “AVG SPEED” and Km/h or mile/h display can be set according to customer habits.\r\nAs well as, It has an intelligent battery indicator that provides stable battery reminders through an optimization algorithm. S2 has a 5levels of backlight brightness so you can change it to be a comfortable brightness at night.\r\nAnd the S2 still has a Mileage display, Output power indication, Walk assist function, Speed measuring magnets number adjustment, and so on.\r\nSo the cmacewheel color lcd fat tire electric bike is coming from 2022\r\n 3 RIDING MODELS\r\nThe pedal assist mode(PAD) allows you to travel 70-100 kilometers, while the electric mode allows you to travel around 40-60 kilometers.\r\nIf the bicycle runs out of power, you can switch to manual mode. Ideally, you can combine these three modes, allowing you to fully enjoy the excitement, speed, and relaxation during riding!\r\nIt’s much better than only PAD electric bikes.\r\n \r\nWUXING TWIST THROTTLE\r\n\r\nThe CMACEWHEEL GW20 equipped the wuxing twist throttle instead of a thumb accelerator.\r\nYou know,  the twist throttle is easier to accelerate your ebike like a motor bicycle on bumpy roads, In simpler operation mode, you can choose the DIY cruise control function to save a lot of effort\r\nAnd on left, universal phone mount attached to the handlebar with a USB port allows you to use your phone for navigating, making a call, or recording while riding.\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFREE FRONT CARGO BASKET\r\n\r\n\r\n\r\nThe GW20 is also equipped with a sturdy metal basket, which is quick and easy to install and can hold 20 pounds of any items you want to bring.\r\nYou can ride him when you go to work, school, shopping, or hunting.",
+      "price": 1029,
+      "category": 2,
+      "rating": 4.33,
+      "image_url": "https://pogocycles.com/cdn/shop/files/cmacewheel-gw20-electric-bike-2022-preorder-pogo-cycles-1.jpg?v=1709877771&width=540",
+      "image": "Bike1709877771.jpg"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048166-30",
+      "name": "PHILODO H4 Foldable Step-Thru Fat Bike",
+      "description": "Perfect Bike for Commuting\r\nMade to fit your life. Whole new e-bikes with added comfort, flexibility and joy. This bike is easy to access step through frame and easy to fold and stow away, equipped with 250W powerful motor and 48V13Ah battery.\r\nRear Drive 250W High-Speed Motor\r\nMaximum speed up to 25km/h (40km/h without limited speed) high-speed brushless geared hub motor helps you pass on rough terrain without hindrance, and provide enough power for your daily commute.\r\nRemovable Lithium-ion Battery 48V 13Ah (624Wh)\r\nRange in electric mode: 40 km\r\nRange in electric assist mode: 60 km\r\nCharging time: 4-6 hours\r\nFront and Rear Hydraulic Disc Brakes\r\nThe bike equipped with hydraulic disc brake systems has more sensitive brakes and safer driving.",
+      "price": 1084,
+      "category": 2,
+      "rating": 4.41,
+      "image_url": "https://pogocycles.com/cdn/shop/files/philodo-h4-foldable-step-thru-fat-bike-pogo-cycles-4.webp?v=1709108772&width=540",
+      "image": "Bike1709108772.jpg"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048172-31",
+      "name": "AVAKA BZ20 PLUS Electric Bike Preorder",
+      "description": "500W High-speed Brushless Motor\r\nThe 500w high-speed brushless motor is light in weight. Its internal use of star gear design can amplify torque and improve energy efficiency conversion rate. \r\n3-Step Quick Folding\r\nCan be put into the car’s trunk, elevator, can be stored and placed at home without occupying space and easy to carry, adding a joy and convenience to your travel.\r\n48V 15Ah Battery\r\n48V15ah Power Supply 18650 lithium battery pack, completely hidden inside the frame, waterproof and dustproof. Pure electric mode can reach 70KM and power assisted mode can reach 100KM.\r\n20*3.0 Inch Tires\r\n20*3.0 inches wheel, comfortable and stable, suitable for all roads. has anti-skid and anti-vibration functions, and has a longer span, bigger, faster, and less effort.\r\nFront Spring Suspension\r\nThe front spring suspension enhances the shock resistance, provide excellent performance.\r\nMechanical Disc Brake\r\nIt adopts Taiwan ZOOM disc brake, dual system of front and rear disc brakes, S disc brake disc, fast heat dissipation, automatically cut off the power, the emergency brake can also brake efficiently and smoothly.\r\nShimano 7-Speed Gear\r\nThe Shimano 7 gears freewheel means you can shift to a larger cog for uphill riding and downshift to a smaller cog at high speeds. In combination with the pedal-assist system, you can adjust the suitable speed to complete your journey.\r\nRemoved Battery\r\nRemovable battery can be charged at home or anywhere completely hidden inside the frame, waterproof and dustproof.\r\nSmart LCD Display\r\nHigh definition liquid crystal display, speed, power, mileage, gear position, driving time, status information, real time view.",
+      "price": 849,
+      "category": 2,
+      "rating": 5,
+      "image_url": "https://pogocycles.com/cdn/shop/files/avaka-bz20-plus-electric-bike-preorder-pogo-cycles-5.webp?v=1709877472&width=540",
+      "image": "Bike1709877472.jpg"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048178-32",
+      "name": "ADO DECE 300C Electric Bike",
+      "description": "Highlights\r\nShimano 9 speed Transmission System\r\nFront and rear hydraulic disc brakes.\r\nADO G-DRIVE dual mode controller. Dual mode switched freely.\r\nWire-controlled front fork Shock-absorption\r\nS830 central smart LCD display, clearly under the sunshine",
+      "price": 1149,
+      "category": 2,
+      "rating": 4.45,
+      "image_url": "https://pogocycles.com/cdn/shop/products/ado-dece-300c-electric-bike-pogo-cycles-1.webp?v=1709039190&width=540",
+      "image": "Bike1709039190.jpg"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048185-33",
+      "name": "Samebike LO26-II 500W Electric Bike",
+      "description": "Max Speed 32km/h\r\n\r\nThe 500W motor provides the max 35km/h speed and max 35-degree gradient.\r\n10.4Ah / 48V Li-ion Battery\r\n10.4Ah / 48V Li-ion battery ( included in the product ) for max 40km mileage with pure electric mode and 70km mileage with moped mode\r\n26-inch Inflatable Rubber Tire\r\nThe inflatable rubber tire is suitable for different grounds.\r\nFolding Design\r\nFolding design (folding size: 102 x 39 x 96cm) for convenient carrying.\r\n3 Modes\r\nPedal mode, moped mode, and pure electric mode to choose.\r\nSuper Bright Headlight\r\nThe bright headlight can make you ride at night more safely.\r\nMax Load 150kg \r\nAluminum alloy shell for a max 150kg payload.\r\nDisplay Screen\r\nYou can get some information, such as mode, speed, odometer, and battery level.",
+      "price": 849,
+      "category": 2,
+      "rating": 4.32,
+      "image_url": "https://pogocycles.com/cdn/shop/files/samebike-lo26-ii-500w-electric-bike-pogo-cycles-2.webp?v=1705998967&width=540",
+      "image": "Bike1705998967.jpg"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048191-34",
+      "name": "LANKELEISI MG740 PLUS Electric Bike",
+      "description": "1000W*2 Brushless Motor\r\nThe front and rear are equipped with two 48V 1000w high-speed brushless motor dual drives, powerful power output,and light weight.Its interior adopts a star gear design, which can amplify the torque and improve the energy efficiency conversion rate.\r\n40 Degree Max Climbing\r\nThe 48V 2000W brushless motor provides the power to ride in max climbing 40°. Its internal use of star gear design, can amplify torque and improve energy efficiency conversion, improving speed performance and climbing performance.\r\n48V 20Ah Waterproof Battery\r\n48V 20AH Removable lithium battery completely hidden inside the frame, waterproof and dustproof, double protection, strong output, always stable, easy to charge. It can reach a mileage of about 60KM in pure electric mode and about 120KM in power assisted mode.\r\nSmart LCD Display\r\nMG740 PLUS device intelligent LCD instrument, brand new interactive interface, integrated gear switch, bicycle data view, power output setting, IP64 waterproof and dustproof quality are reliable.\r\n26*4.0 Inch Tires\r\nLarge potholes and muddy roads with a wheel diameter of 26*4.0 inches can easily pass the speed bump. The tire has a width of up to 10 cm, anti-skid and anti-vibration functions, and has a longer span, bigger, faster, and less effort.\r\nFront Fork Suspension\r\nLockable front fork is used to provide the rider with a stronger comfort experience during a collision.\r\nShimano 7-speed Gears\r\nThe Shimano 7 gears freewheel means you can shift to a larger cog for uphill riding and downshift to a smaller cog at high speeds. In combination with the pedal-assist system, you can adjust the suitable speed to complete your journey.\r\nHydraulic Disc Brake\r\nAdopt DYISLAND power-off oil disc, dual system of front and rear disc brakes, S disc brake disc, quick heat dissipation, emergency braking can also brake efficiently and smoothly.",
+      "price": 1899,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/lankeleisi-mg740-plus-electric-bike-pogo-cycles-2.webp?v=1709036519&width=540",
+      "image": "Bike1709036519.jpg"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048197-35",
+      "name": "Engwe P26 Mountain E-Bike",
+      "description": "Highlights\r\n1. Front suspension mountain e-bike brings you a comfortable ride, enjoy mile after mile.\r\n2. Accelerate swiftly and slope roads with a powerful and safe 250W hub motor, fully compliant with European regulations.\r\n3. Equipped with Shimano 7-speed gear, ENGWE P26 will give you more riding pleasure.\r\n4. 36V 17Ah battery can provide as long as 100km mileage in power assist mode, never worry about the range, ride anywhere you want.\r\n5. 26*1.96 rubber tires, can ride on mountainous terrain, also freely shuttle in urban.",
+      "price": 1049,
+      "category": 2,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/engwe-p26-mountain-e-bike-pogo-cycles-2.webp?v=1706000220&width=540",
+      "image": "Bike1706000220.jpg"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048204-36",
+      "name": "Fafrees F20 Light Preorder (Arriving end of March)",
+      "description": "FEATURES\r\n\r\nPredestined for everyday use by the entire family, Fafrees F20 Light compact e-bike is made for the city, for the road and for easy transport. Foldable, portable, storable, comfortable, and constantly prepared for the road ahead. With 20-inch tires, 250W hub motor, 14.5Ah huge battery, Shimano 7-speed shifter, and adjustable handlebar and seat, this step-through electric bike is the perfect example of how adaptability and toughness can coexist.\r\n\r\n\r\n\r\n\r\n\r\n250W Geared Hub Motor\r\n250W brushless motor with 35N.M maximum torque combined with intelligent controller produce 15Mph maximum speed. Peak power can reach 437W, which was designed in-house to help you go steeper at lower speeds. The rear drive motor is easier to handle, better traction giving, and less maintenance required.\r\n\r\n\r\n\r\n\r\nRemovable 36V 14.5Ah Battery\r\nThe 14.5Ah high-capacity battery extends your riding distance up to 68miles on a single charge with assisted mode. Take it home and recharge it whenever you want with the lock design. You can pick between three support modes – Electric, Power assisted, and manpower mode.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nWaterproof LCD Display\r\nThe large-screen waterproof LCD display shows various data such as speed, battery, mileage, and gear. It has a walk assistance mode and cruise control function to help your riding whenever you need.\r\n\r\n\r\n\r\n\r\nShimano 7-Speed Shifting\r\nShimano's 7-speed shifter and derailleur offer precise and smooth shifting over its full range, ensuring that your drivetrain remains responsive over time.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMechanical Disc Brakes\r\nCommuter bikes need to have serious braking power. That’s why we kitted this bike with power-off brake levers paired with large rotors. You’ll have the control and confidence to stop exactly when you need to.\r\n\r\n\r\n\r\n\r\nStep-Through Foldable Frame\r\nFolds in less than 30-seconds. With a step-through frame, you can comfortably pedal and stand over the frame. The compact construction made of lightweight components makes it easy to compact e-bike into the means of transport and take up little space in it. The adjustable riser bar allows you to personalize your fit, with handlebar and seat tubes that move in and out for comfort.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRiding Safety At Night\r\nStVZO compliant LED headlight and rear brake light to ensure night riding safety.\r\n\r\n\r\n\r\n\r\nEmpathetic Design\r\n20-inch wheels are flexible and agile, making them comfortable in busy city traffic. The strong rear hanger can be used to attach a variety of bicycle rear seat bags and baskets. F20 light is outfitted with front and rear fenders and supports pure electric mode, making it ideal for any trip.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDimensions\r\nThe adjustable seat tube makes it ideal for teenagers and adults 155-195cm tall with a maximum load of 264lbs",
+      "price": 738,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fafrees-f20-light-preorder-arriving-end-of-march-pogo-cycles-11.webp?v=1709036971&width=540",
+      "image": "Bike1709036971.jpg"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048211-37",
+      "name": "KUGOO T01 Electric Bicycle",
+      "description": "Highlights\r\nBrushless Rear Hub 48V 500W, the max speed is up to 38km/h.\r\n\r\nThe removable 48V 13Ah battery offers 35-45km range in pure electric mode and 55-65km in power assist mode.\r\n\r\nSW900 LCD display will show speed, gear, range, 5 phase assistance power.\r\n\r\nAluminum  alloy binocular air adjustable suspension makes the cycling more comfortable.\r\n\r\nShimano 7 speed gear, you can shift to a larger cog for uphill riding and downshift to a smaller cog at high speeds.",
+      "price": 1099,
+      "category": 2,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kugoo-t01-electric-bicycle-pogo-cycles-3.webp?v=1706000106&width=540",
+      "image": "Bike1706000106.jpg"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048218-38",
+      "name": "Lankeleisi RV700 Electric Mountain Bike",
+      "description": "1. 130KM power-assisted mileage, 16ah batteries, 1000W\r\n2. Aluminum alloy frame: rugged design puts safety first.\r\n3. Axcellent acceeration performance 42km max speed per hour.\r\n4. Removable battery pack, easy to charge.\r\n5. Three mode of travel: electric mode, power assist mode and ridin mode.\r\n6. Oil spring suspension fork, 27.5*2.4wheels.",
+      "price": 1699,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/lankeleisi-rv700-electric-mountain-bike-pogo-cycles-4.webp?v=1709035772&width=540",
+      "image": "Bike1709035772.jpg"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048224-39",
+      "name": "KAISDA K6 Electric City Bike - Pre Order",
+      "description": "Note : Delivery for this bike will start aound Mid of May 2023\r\n[City commuter electric bike]: 26 inch electric bike, exquisite and elegant design, black and white optional, with LED front light and rear seat with removable lithium battery, very suitable for daily use, and also the first choice for Christmas and New Year gifts.\r\n\r\n[350W HIGH-SPEED MOTOR]: The adult electric bike is equipped with a more powerful 350W rear hub motor, a maximum speed of 32km/h and reliable disc brakes. It feels perfect for the daily commute, getting you up relatively steep climbs without forcing you out of the saddle and feeling super stable on the way back.\r\n\r\n[REMOVABLE BATTERY]: Equipped with the replaceable 36V 10Ah battery. You can charge it at home or in the office to avoid theft, full charging time 6-7 hours. Those who ride 33 to 40 km (e-bike mode) can ride their e-bike where it's most beautiful: to the beach, into town and through the park.\r\n\r\n[EXCEPTIONAL PERFORMANCE] 26-inch tires, a carbon steel frame and ensure a smooth ride. The 7-speed Shimano transmission gives you everything you need to stop when the e-assist is off and the brakes are off. You also get fenders, a luggage rack, headlights and taillights to light up your ride. Super bright headlights can ensure safe driving at night.\r\nThe electric bike is delivered pre-assembled. All you have to do is assemble the front wheel, bike seat and pedals and attach the handlebars. We will reply to you within 24 hours.",
+      "price": 689,
+      "category": 2,
+      "rating": 4.5,
+      "image_url": "https://pogocycles.com/cdn/shop/files/kaisda-k6-electric-city-bike-pre-order-pogo-cycles-2.jpg?v=1709036195&width=540",
+      "image": "Bike1709036195.jpg"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048243-41",
+      "name": "GOGOBEST GF750 Plus Electric City Retro Bike",
+      "description": "GOGOBEST GF750 PLUS\r\nPERFORMANCE 2000W DUAL MOTOR, 2000W MAX OUTPUT\r\nWith a total power output of 2000 watts (2 x 1000W), dual motors offer improved acceleration, higher top speeds, and enhanced climbing abilities, especially in challenging terrains or off-road conditions. The dual motors distribute the power to both wheels, resulting in better traction and stability.\r\n2000W MAX OUTPUT\r\n25 KM/H\r\nSPEED\r\n4.9S\r\nUP TO FULL SPEED\r\nNG PERFORMANCE\r\nEXCELLENT CLIMBING PERFORMANCE , EXCELLENT CILMBING IN OFF ROADS\r\nThe 48V 2000W brushless motor provide the power to ride in max climbing 45°. Its internal use of star gear design, can amplify torque and improve energy efficiency conversion, improving speed performance and climbing performance.\r\n\r\n45°\r\nMAX CLIMBING\r\nBATTERY CAPACITY\r\n48V 17.5AH REMOVABLE BATTERY, HIGH CAPACITY, WATERPROOF BATTERY\r\nThe 48V 17.5AH battery pack is commonly used in electric bikes and provides a relatively high capacity compared to standard e-bike batteries. It can reach 50km in pure electric mode and 80km in power assisted mode. The battery is designed to be removed easily, allows for convenient battery management and flexibility in extending the range of the electric vehicle by carrying extra batteries.\r\n48V 17.5AH\r\nCAPACITY\r\n80KM\r\nMILEAGES\r\n5~8H\r\nCHARGING TIME\r\nCapability\r\nShimano 7-Speed Gears\r\nShimano 7-speed shifting system allows the rider to shift between seven different gear ratios. It uses a derailleur to move the chain between different sized sprockets on the rear wheel, providing a range of gear options for different terrain and riding conditions.\r\n20*4.0 Inches Fat Tires\r\nOur e-bike comes equipped with 20*4.0 all-terrain fat tires, providing anti-skid and anti-vibration features for a comfortable ride. With a width of 10cm, enjoy a wider span and enhanced performance.\r\nFront Spring Fork\r\nFront fork suspension provides shock absorption and increased comfort for the rider. It can compress and rebound in response to impacts from the road or trail. This helps to smooth out bumps and reduce fatigue on the arms and upper body.\r\n\r\n\r\n\r\nRear Rack\r\nBike rear racks are usually made of lightweight and durable materials such as aluminum alloy or steel. They are designed to withstand the weight of cargo and provide stability during rides. Equipped with solid rear rack, stable and reliable, make you carry your cargo very easily. maximum load up to 200KG.\r\n\r\n\r\n\r\nFront And Rear Hydraulic Brakes\r\nFront and rear hydraulic disc brakes provide superior stopping power compared to mechanical brakes. The hydraulic system amplifies the force applied to the brake lever, resulting in stronger and more reliable braking performance. This is especially important for e-bike that often have higher speeds and heavier weights.\r\n\r\n\r\n\r\nSmart LCD Display\r\nIntelligent instrument meter boasts a new interactive interface with an integrated gear switch, cycling data display, and power output settings. Its IP54 waterproof and dustproof quality ensures durability and easy maintenance.",
+      "price": 1449,
+      "category": 2,
+      "rating": 4.06,
+      "image_url": "https://pogocycles.com/cdn/shop/files/gogobest-gf750-plus-electric-city-retro-bike-pogo-cycles-7.webp?v=1705999786&width=900",
+      "image": "Bike1705999786.jpg"
+    }
+  },
+  {
+    "pk": 54,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048250-42",
+      "name": "GUNAI GN29 Electric Bike",
+      "description": "29in Frame Bike\r\nThe GUNAI GN29 Electric Bike offers a perfect fit for a variety of riders with its single frame size. \r\n750W High-speed Motor\r\nThe rear-drive motor is easier to handle and has better traction giving.\r\n48V 15Ah Battery\r\nThe removable battery has 2 ways for charging: charge directly on the bike or take the battery out for charging. It offers 50km in electric mode and 50-90km in PAS mode.\r\nFront Shock Absorber\r\nBenefited by front suspension fork with lockout and suspension seat post, offer a smooth and comfortable ride.\r\nLED Night Light\r\nInstalled on the front, with which you can clearly see the road conditions at night, and ride safely.\r\n29*2.1 Inch Road Tires\r\nDual-compound rubber tires enable precise cornering, and EPS puncture protection gets you out of a pinch on the commute.",
+      "price": 849,
+      "category": 2,
+      "rating": 4,
+      "image_url": "https://pogocycles.com/cdn/shop/files/gunai-gn29-electric-bike-pogo-cycles-1.webp?v=1709037166&width=900",
+      "image": "Bike1709037166.jpg"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048255-43",
+      "name": "DYU C6 Upgraded Electric Bike",
+      "description": "● 350 W motor offers a maximum speed of 25 km / h and a slope of 15 degrees\r\n● 12.5Ah / 36V lithium-ion battery (included) for a maximum mileage of 40 to 90 km in auxiliary pedal mode\r\n● Three operating modes can be selected according to the driver's needs. Pedal mode, moped mode and purely electric mode.\r\n● Adjustable seat height adapts to different user heights (160-190 cm). Max. Lifting capacity: 120kg\r\n● Equipped with a large front basket, it can hold a small bag, keys, lock, bottle, etc.\r\n● Bright LED headlights and taillights provide greater safety, making driving safer at night. Front and rear disc brakes provide more control and more reliable braking",
+      "price": 799,
+      "category": 2,
+      "rating": 4.86,
+      "image_url": "https://pogocycles.com/cdn/shop/files/dyu-c6-upgraded-electric-bike-pogo-cycles-8.webp?v=1709035883&width=900",
+      "image": "Bike1709035883.jpg"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048262-44",
+      "name": "ENGWE L20 Electric Bike",
+      "description": "Highlights\r\n1. The electric bike has a powerful 48V 13Ah battery, enabling it to travel up to 41miles on pure electric power and 86miles on power assist mode, making it suitable for long rides in urban or mountain terrains.\r\n2. With a 250W motor, the bike can reach a maximum speed of 15Mph unlockable a maximum torque of 50N.m, providing a smooth and effortless riding experience.\r\n3. The bike is equipped with a Shimano 7-speed transmission, allowing riders to easily switch between gears and adjust to different terrains. It also features a front mechanical suspension, ensuring a comfortable ride on rough roads.\r\n4. The LCD meter provides riders with real-time information on speed, battery level, and distance traveled, enhancing the overall riding experience. The LED headlight and 48V taillight ensure maximum visibility and safety on the road.\r\n5. The bike is suitable for riders of different heights, ranging from 155-210cm, and can support a maximum load of 264lbs. The 20*4.0 inch tire and 12cm pedal height provide stability and balance for riders, making it an ideal choice for both commuting and leisure activities.",
+      "price": 1099,
+      "category": 2,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/engwe-l20-electric-bike-pogo-cycles-4.webp?v=1709036892&width=900",
+      "image": "Bike1709036892.jpg"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048268-45",
+      "name": "Niubility B26 Electric Mountain Bike",
+      "description": "Excellent Quality\r\nAluminum alloy, excellent quality, and high performance for max 120kg load.\r\nOutstanding Performance\r\nPowerful 1000W motor, the max speed is up to 35km/h.\r\n48V 12.8Ah Battery\r\nThe travel mileage promises 40-50km in a charge, and it takes 5-6 hours to finish the charging.\r\nSafer Riding\r\nBright front light, increasing cycling safety in the night.",
+      "price": 1015,
+      "category": 2,
+      "rating": 3.67,
+      "image_url": "https://pogocycles.com/cdn/shop/files/niubility-b26-electric-mountain-bike-pogo-cycles-1.webp?v=1709879148&width=900",
+      "image": "Bike1709879148.jpg"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048275-46",
+      "name": "JANSNO X50 Electric Mountain Bike",
+      "description": "Why choose this electric bike?\r\nWith soaring oil prices, our electric bike is an optimal choice to travel environmentally friendly.\r\n The power assist mode guarantees the fun while riding.\r\n All-terrain tires allow you to easily control various scenarios.\r\n We had our own factory. Our electric bike can be customized with multiple ways to perfectly meet the needs of your business partners.\r\nWORKING MODES\r\nThis powerful adult e-bike has 3 working modes.\r\nPedal Assist Mode: The motor will assist you with a moderate amount of power as you pedal the bicycle.\r\nFully Electric Mode: Twist the throttle in any increments of power you desire to power the motor of the bicycle, In his mode, it has 20-40miles battery range.\r\nPedal Mode: Pedal the bicycle normally as you would any bicycle.\r\nBATTERY AND POWER\r\nFat Tire Electric Bike Comes with 48V/14AH larger-capacity lithium batteries and a longer lifetime, covering a range of 20-40miles per full charge. Removable battery, convenient to bring home or office to recharge.\r\n750W High-speed brushless motor provides very strong power with a top speed of 25 mph/h.\r\nHIGH PRECISION ENGINEERING DESIGN\r\nThis electric bicycle frame is made of high-carbon steel, easy to climb 30 degrees — Tire: 20\" * 4.0 snow tires; Enhanced anti-skidding and wear-resistant tires, adapt to snow, sand and other complex topography. Adapt to all-terrain, snow roads, sand roads, and gravel roads. Front and rear mechanical disc brakes bring you peace\r\n X50 performance characteristics\r\n750W high -speed brushless motor, helping you unlock various possibilities; 12.8AH LG3200MA BATTERY to keep your battery life worry-free; The maximum speed can reach 45km/h, gives the feeling of flying!",
+      "price": 929,
+      "category": 2,
+      "rating": 5,
+      "image_url": "https://pogocycles.com/cdn/shop/files/jansno-x50-electric-mountain-bike-pogo-cycles-1.webp?v=1706180864&width=900",
+      "image": "Bike1706180864.jpg"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048281-47",
+      "name": "Windgoo B20 Electric Bike Foldable For Daily Commuter",
+      "description": "HIGHLIGHTS\r\nPowerful Motor - The B20 electric bicycle features Windgoo custom-made 350W high-end motor, which can meet the daily commuting, short distance travel and mountain cruise, and the maximum speed can reach up to 25kms/h.\r\nattery System - The High capacity  270 Wh Lithium-Ion battery  and the electronic control system means the B20 has a Max driving range of 25 kms. And our Smart Battery Management System also assures the battery safety and extends the battery life.\r\nDurable and Comfortable - The electric bicycle features an aerospace-grade aluminum alloy frame and fork, which means low density and high strength, quite strong and durable. Integrated 14' tire, stronger grip.\r\nPortable Design - One-step folding technique is perfect for commute and travel, the foldabel electric bike can be folded with ease in just 3 seconds. You can carry it on public transportation or store it in you car and other compact spaces.\r\nCruise mode - The cruise control function allows you to maintain a smooth and stable speed, which helps you to relax your hand and keep the the speed. As you know, if there is no cruise mode, we have to keep the throttle at certain position.\r\nBraking System - The e-bike features front and rear disc-brake, which improves the safety performance. It means the Dual Braking System can respond quickly at the highest speed to ensure braking safety.",
+      "price": 650,
+      "category": 2,
+      "rating": 5,
+      "image_url": "https://pogocycles.com/cdn/shop/files/windgoo-b20-electric-bike-foldable-for-daily-commuter-pogo-cycles-1.jpg?v=1709035603&width=900",
+      "image": "Bike1709035603.jpg"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048287-48",
+      "name": "Lankeleisi RV800 Plus Fat Bike E-Mountain Bike",
+      "description": "Main Features \r\n48V 20Ah large capacity Samsung 21700 lithium battery\r\n48V 20Ah power 21700 lithium battery pack,completely hidden in the frame, water- proof and dustproof, double protection,strong outputalways stable.Pure electric can reach 70KM, assisted riding can reach 150KMproviding sufficient powel output for riding and free riding\r\n\r\n48V 750W Bafang motor\r\nBafang 1130W(peak)750W(continuous) 48V 750w high-speed brushless motor light weight. Its interior adopts a star gear design,which can amplify the torque and improve the energy efficiency conversion rate.This is reflected in reducing energy consumption and silent energy consumption while increasing cruising range\r\n\r\nLarge double shoulder oil spring suspension fork\r\nThe dual oil spring suspension and lockable front fork are used to provide the rider with a stronger comfort experience during a collision.Large potholes and muddy roads with a wheel diameter of26*4.0 inches can easily pass the speed bump.The tire has a width of up to 10cm, has anti-skid and anti-vibration functions\r\n\r\nSoft tail rear bile pressure suspension\r\nThe four-bar linkage structure(front fork of the lower framefront fork of the upper frame, shock absorber joint,650-pound rear oil spring shock absorber) enhances shock resistance and shock resistance and loads the frame Increase to 200kg and provide excellent performance\r\n\r\n6061 aluminum alloy frame\r\nRugged desige puts safety first the strictly selected aluminum alloy 6061 materialafter T4T6 heat treatment, has higher strength, corrosion resistance and rust resistance and ensures the support strength of each part.\r\n\r\nNight lighting 4.5\" LED high brigtness headlight\r\nThe 4.5\" circular LED headlight has a wider and farther working range, and has a built-in electronic horn, making you safer when riding. The 95-decibel electronic horn reminds pedestrians to drive safely.",
+      "price": 2399,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/lankeleisi-rv800-plus-fat-bike-e-mountain-bike-pogo-cycles-3.webp?v=1706000042&width=900",
+      "image": "Bike1706000042.jpg"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048299-50",
+      "name": "ADO A26+ Electric Mountain Bike",
+      "description": "A Powerful Maintenance-Free Motor\r\nAdo has fitted the A26 electric bike with a punchy 500W brushless motor mounted in the rear hub. The advantage of having the motor in the rear hub is that it is virtually maintenance-free. There is also less to go wrong with it, which increases the reliability of the bike.\r\nAn Efficient Battery\r\nThe motor is powered by a 36V 12.5Ah Lithium-Ion battery pack, which gives you an approximate range of 40 miles between charges. Besides, the battery is removable, so you can easily charge it at home or work. You can even swap it with a fully charged spare battery to extend your range.\r\nShimano 7-speed drivetrain\r\nThe Ado A26’s power system runs through a Shimano 7-speed drivetrain, which delivers reliable and accurate gear shifting. Shimano is a well-known brand synonymous with all aspects of cycling. Therefore, you know your bike has a drivetrain with quality components.\r\nSuperb Stopping Power\r\nSafety is very important when riding an electric bike. Therefore, Ado has fitted this bike with mechanical disc brakes. These are powerful and easy to modulate, with a great feel on the brake levers. Therefore, your braking is accurate, strong and precise so that you can react to any dangers you come across.\r\nOthers Features\r\nShock Absorbing: Front fork & addle tube shock absorption\r\nWaterproof: Yes IPX5\r\nPayload: 120kg\r\nHandgrip Material: TPR\r\nTire: Rubber pneumatic\r\nCharger Input Voltage: 100~240V, 50/60Hz\r\nDisplay Contents: Speed, mileage, Gear, glitch",
+      "price": 799,
+      "category": 2,
+      "rating": 4.45,
+      "image_url": "https://pogocycles.com/cdn/shop/files/ado-a26-electric-mountain-bike-pogo-cycles-1.png?v=1709035603&width=900",
+      "image": "Bike1709035603.jpg"
+    }
+  },
+  {
+    "pk": 62,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048313-52",
+      "name": "DYU D3F Upgraded Folding Electric Bike",
+      "description": "Folding design for convenient carrying.\r\nLED front light to ride at night safely.\r\n14 inch inflatable rubber tire for different grounds.\r\nAluminum alloy shell for max 120kg payload.\r\nSuitable for adults and teenagers",
+      "price": 519,
+      "category": 2,
+      "rating": 4.86,
+      "image_url": "https://pogocycles.com/cdn/shop/files/dyu-d3f-upgraded-folding-electric-bike-pogo-cycles-1.jpg?v=1709035822&width=900",
+      "image": "Bike1709035822.jpg"
+    }
+  },
+  {
+    "pk": 63,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048319-53",
+      "name": "CMACEWHEEL Y20 Electric Bike",
+      "description": "HIGHLIGHTS\r\n1. 20 x 4.0 CST fat tires, integrated wheels, suitable for all kinds of ground.\r\n2. Multi-color LCD screen\r\n3. Equipped with turn indicator tail light\r\n4. The 750W powerful motor can reach 30-45 km/h.\r\n5. 15Ah large-capacity battery, the pure-electric driving mode can reach 40-60km, The assist mode has a battery life of 70-100km.\r\n6. 5 Electric Gears offer a smooth ride.\r\n7. Comes with an aluminum alloy rear rack\r\n8. Maximum load 150 kg.",
+      "price": 998,
+      "category": 2,
+      "rating": 4.33,
+      "image_url": "https://pogocycles.com/cdn/shop/files/cmacewheel-y20-electric-bike-pogo-cycles-1.jpg?v=1709877838&width=900",
+      "image": "Bike1709877838.jpg"
+    }
+  },
+  {
+    "pk": 64,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048327-54",
+      "name": "Bezior XF001 Retro Electric Bike",
+      "description": "Bezior XF001 with 20x4” fat tires and front & rear suspension fork helps cyclists of venturing guts to conquer tough terrains: snow roads, asphalt roads, gravel roads, potholes, rugged mountain, etc. \r\nEnhanced Off-road performanceFront & rear oil(lubrication oil) spring suspension fork absorbs up to 650 pounds vibration. Trip to the mountain is no longer the bumpy ride. \r\n3 Riding Modes\r\nBezior XF001 has 3 cycling modes: Electric Mode with 100% power output; Power Assist Mode with 10-80% power output(1-5gears); and the PAS mode with zero power output.\r\nFeel the Power of Bezior XF001\r\n1000W brushless motor enables Bezior XF001 to swoosh up to 45km/h, cruise up to 50km(in electric mode), climbs up to 35 degree slope and accelerates to full speed in 4.9s.\r\n Front and rear mechanical disc brakes\r\nShimano 7-speed Shifting System\r\nShimano 7-speed shifting system features aluminum alloy crank 52T gears and SIS positioning(Shimano Indexed Shifting) to allow you to ride in lower gear and thus with less effort.\r\nLess-tiring Twist Throttle\r\nJust twist the handlebar to accelerate and go. Drive at full throttle for cool swooshing experience.\r\nLight aluminum alloy frame with higher strength to load up to 120kg.",
+      "price": 979,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/bezior-xf001-retro-electric-bike-preorder-pogo-cycles-2.jpg?v=1709035921&width=900",
+      "image": "Bike1709035921.jpg"
+    }
+  },
+  {
+    "pk": 65,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048333-55",
+      "name": "CMACEWHEEL F26 Electric Bike",
+      "description": "HIGHLIGHTS\r\n1. 15Ah large battery provides 40-60km mileage of pure electric mode and 70-100km mileage of power assistance mode.\r\n2. 500W strong motor empowers each at a faster speed, providing more freedom and more fun.\r\n3. Max speed CMACEWHEEL F26 can reach 38-42km per hour, which brings you a different speed experience.\r\n4. Aluminum alloy body, CMACEWHEEL F26 is extremely lightweight, and weighs only 27.5kg.",
+      "price": 1158,
+      "category": 2,
+      "rating": 4.33,
+      "image_url": "https://pogocycles.com/cdn/shop/files/cmacewheel-f26-electric-bike-pogo-cycles-1.webp?v=1709035958&width=900",
+      "image": "Bike1709035958.jpg"
+    }
+  },
+  {
+    "pk": 66,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048339-56",
+      "name": "BURCHDA RX80 Electric Mountain Bike Preorder (Arriving 20th March)",
+      "description": "Highlights\r\n1. 26*4.0 inch fat tire, great for adventure camping, vacation travel, and cycling trips.\r\n2. 48V 18Ah battery offers 60-70 miles mileage, and the removable design makes it convenient to charge.\r\n3. 1000W high speed motor brushless motor with speed reaching up to 40-45km/h.\r\n4. Equipped with front fork shock absorber, it buffers the vibration and increases ride comfort.\r\n5. Headlight illuminates the way forward; the seat taillight warns the rear car to maintain a safe distance.",
+      "price": 1299,
+      "category": 2,
+      "rating": 4.75,
+      "image_url": "https://pogocycles.com/cdn/shop/files/burchda-rx80-electric-mountain-bike-pogo-cycles-1.webp?v=1706000217&width=900",
+      "image": "Bike1706000217.jpg"
+    }
+  },
+  {
+    "pk": 67,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048346-57",
+      "name": "FIIDO L3 Electric Bike with mudguard and light",
+      "description": "All fiido bikes come with mudguards and light\r\n350W wheel motor provides the max 25km/h speed and max 20-25 degree gradient.\r\n48V 23.2Ah Li-ion battery (included in product) for max 130Km mileage.\r\n14 inflation tire for different grounds to take.\r\nQuick folding design for convenient carrying in your car trunk.\r\nAluminum alloy shell for max 120kg payload.\r\nSuitable for adults and teenagers for fun.\r\nRemovable battery makes charging more convenient.",
+      "price": 999,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fiido-l3-electric-bike-with-mudguard-and-light-pogo-cycles-1.jpg?v=1709035378&width=900",
+      "image": "Bike1709035378.jpg"
+    }
+  },
+  {
+    "pk": 68,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048353-58",
+      "name": "Fiido M21 Fat Tire Electric Bike with Torque Sensor",
+      "description": "All fiido bikes come with mudguards and light\r\nACCURATE TORQUE SENSOR\r\nComplementing this with a torque sensor to sense the force put into the pedals is a significant improvement,which can achieve low latency、accurate android maintenance-free.This improves the handling of the bike making it much more intuitive and enjoyable to ride, while also making it safer.\r\n500W STRONG MOTOR\r\nA 500W actual power motor comes with a wide-range 7-speed derailleur, the top speed of M21 can reach 36Km/h, which assists to reach your destination promptly regardless of terrains or weather conditions. and the 7-speed seamless shift fully achieves a freewheeling control.For EN certification, the battery is identified as 250W.\r\n20’’*4.0 OFF-ROAD FAT TIRE\r\nThe 20*4-inch wheels possessing ultra-wide rims coordinate with all-terrain fat tires, with the addition of the anti-skid tread pattern design, helps you easily traverse the jungle, sand, rocky beach, puddles and other forbidding terrains. \r\nHYDRAULIC COIL SPRUNG FORK\r\nThe suspension forks eliminates bumps that the travel they provide for the front wheel is ideal for making difficult trails feel more comfortable. It also increases the rider’s control in especially rough terrain,make the well-performed M21 guarantees a safer and smoother cycling.\r\n500 TIMES RECHARGEABLE\r\nThe high-torque 48V battery can achieve rapid starting acceleration and a maximum range of 100KM on a 11.6Ah fully-charge capacity, enabling you to travel long distances with ease. It only takes 9 hours to fully charge. And the 500 cycles of rechargeable battery life allows you to venture out again anytime.\r\nPORTABLE STRUCTURE\r\nThe adjustable bicycle body and portable structure, along with a collapsible size of 96*79*45cm, makes it convenient to carry whether it’s on the car trunk, subway or train.\r\n\r\nACCURATE TORQUE SENSOR\r\nComplementing this with a torque sensor to sense the force put into the pedals is a significant improvement,which can achieve low latency、accurate and maintenance-free.This improves the handling of the bike making it much more intuitive and enjoyable to ride, while also making it safer.\r\n\r\n500W STRONG MOTOR\r\nA 500W actual power motor comes with a wide-range 7-speed derailleur, the top speed of M21 can reach 36Km/h, which assists to reach your destination promptly regardless of terrains or weather conditions. and the 7-speed seamless shift fully achieves a freewheeling control.For EN certification, the battery is identified as 250W.\r\n\r\n20’’*4.0 OFF-ROAD FAT TIRE\r\nThe 20*4-inch wheels possessing ultra-wide rims coordinate with all-terrain fat tires, with the addition of the anti-skid tread pattern design, helps you easily traverse the jungle, sand, rocky beach, puddles and other forbidding terrains. \r\n\r\nHYDRAULIC COIL SPRUNG FORK\r\nThe suspension forks eliminates bumps that the travel they provide for the front wheel is ideal for making difficult trails feel more comfortable.It also increases the rider’s control in especially rough terrain,make the well-performed M21 guarantees a safer and smoother cycling.\r\n\r\n500 TIMES RECHARGEABLE\r\nThe high-torque 48V battery can achieve rapid starting acceleration and a maximum range of 100KM on a 11.6Ah fully-charge capacity, enabling you to travel long distances with ease. It only takes 9 hours to fully charge. And the 500 cycles of rechargeable battery life allows you to venture out again anytime.\r\n\r\nPORTABLE STRUCTURE\r\nThe adjustable bicycle body and portable structure, along with a collapsible size of 96*79*45cm, makes it convenient to carry whether it’s on the car trunk, subway or train.",
+      "price": 1099,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fiido-m21-fat-tire-electric-bike-with-torque-sensor-pogo-cycles-1.png?v=1705998844&width=900",
+      "image": "Bike1705998844.jpg"
+    }
+  },
+  {
+    "pk": 69,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048359-59",
+      "name": "GUNAI GN88 2000w Electric Mountain Bike Preorder (Arriving by End March)",
+      "description": "Lightweight and Durable Frame\r\nThe GUNAI GN88 Electric Bike features an aluminum alloy frame, making it lightweight and durable.\r\nSmooth Ride with Suspension Fork\r\nWith a suspension fork, this bike provides a smooth and comfortable ride, even on rough terrain.\r\nVersatile Terrain Handling with Large Tires\r\nEquipped with 26*4.0 inch tires, this bike is able to handle a variety of terrains, including sand, snow, and mud.\r\nPowerful Motor and Battery for High Speed\r\nThe bike is powered by a 48V 22Ah lithium battery and 1000W*2 motors, providing a maximum speed of 55km/h and a maximum load of 150kg.\r\nMultiple Modes and Features for Enhanced Control and Range\r\nIn pure electric mode, the bike has a range of 70km, while in pedal assistant mode, the range extends to 130km. However, using the single drive mode cuts the mileage in half. Additionally, the bike features hydraulic brakes and 21 speed gears for added control and versatility.",
+      "price": 1349,
+      "category": 2,
+      "rating": 4,
+      "image_url": "https://pogocycles.com/cdn/shop/files/gunai-gn88-2000w-electric-mountain-bike-preorder-arriving-by-end-march-pogo-cycles-1.webp?v=1709037166&width=900",
+      "image": "Bike1709037166.jpg"
+    }
+  },
+  {
+    "pk": 70,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048365-60",
+      "name": "FIIDO D21 Folding Electric Bike with mudguard and light",
+      "description": "All fiido bikes comes with mudguards and light\r\nAccurate Torque Sensor\r\nComplementing this with a torque sensor to sense the force put into the pedals is a significant improvement, which can achieve low latency, accurate, and maintenance-free. This improves the handling of the bike making it much more intuitive and enjoyable to ride, while also making it safer.\r\n250W High-Efficiency Motor\r\nThe 35nm 250W brushless geared motor hidden in the 20-inch rear wheel provides tremendous power even in a compact size and is lightweight, which is the reason why it can easily overcome rugged and steep roads with extremely low energy consumption.\r\nSpecially Designed Battery\r\nThe battery is concealed in a seat tube, making it nearly tantamount to an ordinary bicycle at first glance, nevertheless, the range can still reach 100KM under the electric moped mode despite being so compact. Furthermore, the battery is removable meaning that you may get it powered anywhere at any time.\r\nPraiseworthy Body Structure\r\nThe concise design with an integrated seat post that contains battery and taillight, reducing the number of components and improves efficiency to the full extent. In addition to the utilization of an aerospace-grade aluminum alloy frame, the layout of the model conforms to the ergonomic design specifications, presenting a comfortable riding experience with a height-adjustable leather seat and the light self-weight of 12.9kg only.\r\n\r\nFIIDO D21\r\nMany fans told us that D11 needs torque sensor, so D21 is here.\r\n\r\nAccurate Torque Sensor\r\nComplementing this with a torque sensor to sense the force put into the pedals is a significant improvement, which can achieve low latency, accurate and maintenance-free. This improves the handling of the bike making it much more intuitive and enjoyable to ride, while also making it safer.\r\nSpecially Designed Battery\r\nThe battery is concealed in seat tube, making it nearly tantamount to an ordinary bicycle at first glance, nevertheless, the range can still reach 100KM under the electric moped mode despite being so compact. Furthermore, the battery is removable meaning that you may get it powered anywhere at any time.\r\nPraiseworthy Body Structure\r\nThe concise design with integrated seat post that contains battery and taillight, reducing the quantity of components and improving efficiency to the full extent. In addition to the utilization of aerospace-grade aluminum alloy frame, the layout of the model conforms to the ergonomic design specifications, presenting comfortable riding experience with height-adjustable leather seat and the light self-weight of 12.9kg only.\r\n \r\n\r\n12.9 Kg Ultra – Light.\r\n35 nm brushless geared motor\r\nThe gleaming LED headlamp and horn are ready for use at night, and the shock-absorbent tyre ensures an enjoyable riding experience.\r\n\r\nThe 20-inch rear wheel offers tremendous power.\r\nThe battery is specially designed and concealed allowing the bike to reach 100 Km range\r\n\r\nAdmirable body structure designed with inclusion of seat post along with height-adjustable leather seat.\r\n\r\nThe bike is a 80 – 100 percent electric moped with a charging time of  7 hours and an energy conversion rate of 85 percent.",
+      "price": 1099,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fiido-d21-folding-electric-bike-with-mudguard-and-light-pogo-cycles-1.jpg?v=1709035536&width=900",
+      "image": "Bike1709035536.jpg"
+    }
+  },
+  {
+    "pk": 71,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048372-61",
+      "name": "Samebike 20LVXD30 II Electric Bike",
+      "description": "Whether you are cruising to work or going on an adventure -this folding mini electric bike is perfect for you. With 250W high speed motor and 48V 10.4A long range battery, pls enjoy your city with an effortless ride anytime anywhere.\r\nLCD DISPALY\r\nTurn on or off the bike,Keep track of your speed, pedal assist level and battery, with this perfectly placed LCD screen. Located on the handlebars of your folding e bike this easily viewable.\r\nHIGH SPEED MOTOR\r\nPermanent magnet synchronous high-speed motor with brushless power system, output 50 torque and strong power.Power your life with max speed 25/kmh; Enjoy effortless riding experience even at 15 degrees uphill.Explore your city with Reliable power and ultimate comfort.\r\nCAR GRADE BATTERY\r\nWith a 18650 high performance Car Grade battery,globally insured by CPIC,48v 10.4A stable and strong output,you can always enjoy a longer and safe trip that takes you up to 30~60 miles on a single charge. Feel your city with a simple,comfortable and reliable ride.\r\nPEDAL ASSIST & THROTTLE\r\nWith five levels of pedal assist, getting yourself anywhere on the folding electric bicycle can be as much of, or as easy, a workout as you want. If you need that little extra boost to get you home, or just want to enjoy the scenery, then the throttle function will take care of powering you along.\r\nFOLDABLE\r\nTake your e-bike with you anywhere without the need for a bike rack. The electric folding bike folds up to fit in your trunk, in your closet, and even under your desk.\r\nShimano 7-speed gearbox\r\nEquipped with 7-level speed change, the SAMEBIKE 20LVXD30II rear axle can shift freely and smoothly while riding.\r\n350W brushless rear motor\r\nThe motor uses a permanent magnet stator instead of mechanical communications and brushes to reduce friction losses and increase speed. Equipped with variable frequency speed control system and adaptive power supply frequency, it can maintain horsepower under light load or high speed operation.\r\nDETACHABLE BATTERY\r\n48V 10.4AH 18650 battery, range of 40km on a single charge and fast charging in 5 hours. Overcharge and shutdown protection, it is insured worldwide by CPIC;\r\nsuspension\r\nFront spring shock absorption uses a lightweight material but offers a stronger shock absorber. With the function of rebound and lock, it is suitable for all kinds of roads.\r\nheadlight\r\nThe 20LVXD30 is equipped with high brightness headlights \r\nSize and Fit \r\nA -- Total Length 63\"\r\nB -- Handlebar Height 43-47\"\r\nC -- Wheelbase 42\"\r\nD -- Minimum Seat Height 32\"\r\nE -- Maximum Seat Height 37\"\r\nG -- Standover Height 27.5\"\r\nH -- Top Tube Length 24\"\r\nI -- Wheel Diameter 20\"\r\nJ -- Head Tube Length 6\"\r\nK -- Handlebar length 24\"\r\nL-- Minimum Seat to Floor 31\"\r\nM-- Chain Stay Length 10.5\"",
+      "price": 727,
+      "category": 2,
+      "rating": 4.32,
+      "image_url": "https://pogocycles.com/cdn/shop/files/samebike-20lvxd30-ii-electric-bike-pogo-cycles-2.webp?v=1709879412&width=900",
+      "image": "Bike1709879412.jpg"
+    }
+  },
+  {
+    "pk": 72,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048378-62",
+      "name": "FAFREES F20 Pro City Electric Bike",
+      "description": "Highlights\r\nThe F20 PRO is Fafrees‘s latest stylish work of art without compromising its practicality. It features the latest dazzling chameleon paint with metal flake that will show up in different shades in the sun. Make you stand out from the crowd of cyclists. Another plus is the battery uses the most advanced automotive-grade 21700 battery cells, with a battery capacity of 18ah, providing longer battery life and safer use experience. F20 pro follows the F20 step-through frame design, and 3.0 fat tires, so you can power up all kinds of terrains, easily carry groceries, and explore new destinations knowing you’ll have more than enough boost to do it all. The low-step frame are even easier to mount and dismount. They’re perfect for riders who want extra comfort and confidence on every ride.\r\n250W HIGH-SPEED BRUSHLESS MOTOR\r\n250W brushless motor with 40N.M maximum torque combined with intelligent controller produce 25KM/H maximum speed. The rear drive motor is easier to handle, better traction giving,  and less maintenance required. The rotation sensor on the rear wheel drive easily suffice the daily commute and adventurous riding for a larger number of people, including more elderly riders.\r\nREMOVABLE 36V 18AH ULTRA-LARGE BATTERY\r\nAdopt the most advanced 21700 automotive grade lithium battery, expand the battery capacity to 18ah in limited space. With lockout key, easy to remove and take it home for charging, which can last up to 90km with pure power-assist on a single charge.\r\nSMART LCD DISPLAY WITH EASY CONTROL\r\nYou can change the level of powered assistance from the LCD screen mounted on the handlebars. and the control panel is at hand for easy viewing and control. It provides information on speed, mileage, power, etc. configurable for personalized, with an intuitive program that reacts to the individual's cycling style to deliver a seamless cycling experience.\r\nDUAL DISC BRAKES & SHIMANO SHIFTER\r\nShimano 7 speed shifter derailleur provide accurate and smooth shifting ensure that your drivetrain is responsive for a long time. With front and rear mechanical 160mm disc brakes and power-offer brake levers, you can stop the bike in a more effective and quick way.\r\nFRONT SUSPENSION & REAR RACK\r\nF20 PRO provides great comfort with a 75mm travel oil suspension fork. With adjustment knobs for preload and lockout so you can dial it in for your weight and riding terrain. The aluminum rear rack is compatible with the cargo platform for quick and easy mounting of rack accessories. Perfect for storing all your stuff effortlessly for your next e-bike trip. \r\nCHAOYANG 20*3.0” FAT TIRES & INTEGRATED WHEEL\r\nCHAOYANG 3.0 fat tires have great elasticity, which increases the contact area with the ground, enhances grip and ride stability, easily adapts to any terrain.The one-piece design of the wheel, rim, and body makes the  ride more stable, and rough road conditions or hard riding will not deform the wheels at all. \r\nFRONT LIGHT & REAR BRAKE LIGHT\r\nBright LED headlight and rear brake light to ensure night riding safety \r\n 16” STEP-THROUGH FOLDABLE FRAME\r\nThis e-bike has a low-step design with adjustable handlebars and a seat, making it perfect for both teenagers and adults 160-195cm tall and max load of 120 kg. It can be folded up to an ultra-compact size, is easy to transport and can be stowed in any vehicle suitcase, ideal for vacation travel and commuting.\r\nTHREE WORKING MODES\r\nThere are three working modes: electric mode, PAS mode, and manpower mode.\r\nEASY SERVICING OF FAFREES EBIKE\r\nPlug and play wiring system makes maintaining/replacing/repairing all electrical parts a breeze.",
+      "price": 945,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fafrees-f20-pro-city-electric-bike-pogo-cycles-5.webp?v=1709036337&width=900",
+      "image": "Bike1709036337.jpg"
+    }
+  },
+  {
+    "pk": 73,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048385-63",
+      "name": "GOGOBEST GF700 Electric Mountain Bike",
+      "description": "Features:\r\n[Powerful Dual-Motor] Dual-motor driver with total power of 1000W, have fast power output with improving energy efficiency conversion rate and wonderful speed performance, which can reach maximum speed at 50KM per hour and 45°max climbing ability.\r\n\r\n[Large Battery] 48V/18.5Ah lithium battery, IP54 waterproof and dust-proof, ensures strong output and stability with double protection. Pure electric can reach 50KM and power-assisted riding can reach 70KM, providing sufficient power output for riding.\r\n\r\n[Three Travel Modes] Built-in 3 riding modes including Electric mode, 5-level Power assist mode and Riding mode, can be easily switched according to the gear and mode, calmly dealing with the needs of different riding scenes.\r\n\r\n[High Quality Material] High-quality aluminum alloy frame, has higher support strength and resistance to corrosion/rust with a max load capacity of 200kg, reliable and durable, offering longer service life.\r\n\r\n[Steady and Safe Riding] 26 * 4.0\" wheel can easily pass the speed bump, anti-skid and anti-vibration. Hydraulic brake features high sensitivity and stability, responsive and smooth to ride. \r\n\r\n[Considerate Design] Intelligent LCD screen displays battery level, speed, riding data and other information clearly. The LED-headlight has bright light, accompanying your safety in the dark. \r\nNote: Please read the user manual carefully before using this product.",
+      "price": 1278,
+      "category": 2,
+      "rating": 4.06,
+      "image_url": "https://pogocycles.com/cdn/shop/files/gogobest-gf700-electric-mountain-bike-pogo-cycles-2.jpg?v=1709035729&width=900",
+      "image": "Bike1709035729.jpg"
+    }
+  },
+  {
+    "pk": 74,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048399-65",
+      "name": "ADO A20+ Hybrid Folding Electric Bike",
+      "description": "G-DRIVE Pedal Assist Control System\r\nThe ADO G-Drive frequency conversion control system can quickly receive signals, and detect, collect and analyze the vehicle to respond to different road conditions. Different power assist modes can be switched at will while riding and collected in real-time to effectively reduce energy loss.\r\nRemovable 10.4Ah Lithium Battery\r\nThe lithium-ion battery of ADO electric bicycle has the functions of overcharge, overdischarge, overcurrent, and short circuit protection. After 1000 charging times, the battery still maintains 80% of its capacity.\r\nThe battery cover is sealed and waterproof, effectively isolating the internal lithium-ion battery, protecting your safety and extending battery life.\r\n250W Powerful Brushless Geared Hub Motor\r\nThe newly upgraded high temperature resistant inner ring has better heat dissipation, which can reduce the decay speed of the motor magnet and ensure a longer service life. The maximum motor torque is 40N.m, and the power is very strong, which can take you farther and conquer various road conditions.\r\nIPX5 Waterproof Headlights\r\nE-Mark certified headlight, Z-Mark certified taillight. High brightness LED headlight with wide angle lighting to help you ride safely.\r\nShimano 7-Speed Transmission\r\nADO choose Shimano 7-speed derailleurs for the A20+ because of Shimano's reputation and proven performance. The Shimano 7-speed transmission rides very well when combined with the 3-speed adjustable power assist.\r\n20 inch Anti-slip Tires\r\n20 x 1.95 inch wheels constructed from lightweight aluminium alloy with a sturdy six-axle design for stability.\r\nHD LCD Display\r\n886 LCD meter, can display speed, power, mileage, gear, full display function, clearer in the sun; with cell phone USB charging port, you can charge your cell phone at any time.\r\nEfficient and Fast Braking System\r\nAdopted front and rear dual disc braking system, fast heat dissipation design, reduce bike brake reaction time, ensure emergency braking, smooth braking, more safe and reliable.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEasy folding one-hand lift\r\n\r\nIngenious and handy foldable design quickly folds in 10 seconds.\r\nUltra-light frame material, easy to lift. Effortlessly fit into the trunk for a ride anytime, anywhere.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCE certified by DEKRA\r\n\r\nADO A20+ through the DEKRA laboratory testing, reliable quality, guaranteed, through the EU regulations EN15194 certification, can be legally driven on European roads.\r\nAnd the battery has a CE certificate from the DEKRA laboratory, all accessories meet the certification requirements of professional testing institutions.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n40 N·m hub motor\r\n\r\n250w compliant motors dissipate heat well, decay slowly and last longer.\r\nProviding a very powerful power to conquer all road conditions.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nADO G-DRIVE 2.0 Controller\r\n\r\n3 Pedal Modes\r\nSimulated torque sensing technology allows for fast signal reception and intelligent adjustment to cope with various road conditions, effectively reducing energy loss.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nQuality is AlI About Details\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nE-Mark IPX5 headlamp\r\nHighly visible LED headlights with wide-angle lighting to help you drive safely\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nShimano 7-Speed Transmission\r\nShimano 7-speed transmission for an easier ride\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n20 inch Anti-slip Tires\r\nSturdy six-axis design made of lightweight aluminium\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHD LCD Display\r\nHD LCD display, rechargeable USB port\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDual Disc Brakes\r\nSmooth and safe braking with dual disc braking system\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nUpgraded Body Painting\r\nThe upgraded body paintwork is resistant to changes in weather and temperature, always keeping the colour as new.",
+      "price": 839,
+      "category": 2,
+      "rating": 4.45,
+      "image_url": "https://pogocycles.com/cdn/shop/files/ado-a20-hybrid-folding-electric-bike-pogo-cycles-2.webp?v=1705998779&width=900",
+      "image": "Bike1705998779.jpg"
+    }
+  },
+  {
+    "pk": 75,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048405-66",
+      "name": "Fafrees F26 Pro With App Control Pre order ( Available by Early March)",
+      "description": "An elegant electric-bike of fun adds extra power with each pedal stroke, designed for city streets, town pathways, and wide open roads. Super comfortable, easy to hop on and off, stylish and approachable, with powerful assistance. Redesigned step-through geometry and hidden battery put you in a more confident riding position. It uses a 250-watt brushless motor and a 36v 14.5ah battery. Fully stretched fenders, LED front and rear lights, and a 25kg capacity rear HD rack are included. This is your new way of getting from here to there and everywhere in between.",
+      "price": 935,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fafrees-f26-pro-with-app-control-pre-order-available-by-early-march-pogo-cycles-2.webp?v=1709036080&width=900",
+      "image": "Bike1709036080.jpg"
+    }
+  },
+  {
+    "pk": 76,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048411-67",
+      "name": "GUNAI MX25 Electric Bicycle",
+      "description": "70-75km power-assisted mileage, 25Ah batteries, 1000W motor. \r\nAluminum alloy frame: rugged design, ensure safety. \r\nThree modes of travel: pedal mode, pedal-assist mode, electric mode.\r\nMax speed 45-50km/h, fast and fun to ride.\r\nSmart LCD meter, detect driving data.\r\nHydraulic oil brake, 20*4.0 fat tires",
+      "price": 1329,
+      "category": 2,
+      "rating": 4,
+      "image_url": "https://pogocycles.com/cdn/shop/files/gunai-mx25-electric-bicycle-pogo-cycles-1.webp?v=1705999832&width=900",
+      "image": "Bike1705999832.jpg"
+    }
+  },
+  {
+    "pk": 77,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048418-68",
+      "name": "FAFREES F20 City - Electric Folding Bike",
+      "description": "FEATURES\r\nSupport free shipping to most europe countries, extra freight will be charged in remote areas.\r\nHighlights\r\nUltra-long Battery Range: Comes with advanced 36V 15AH lithium-ion battery, fully charge in just 5 to 6 hours, Max range for pure power up to 55km-65km, and the max speed up to 25km/h. The battery is removable, which means it can be charged whether on or off the frame.\r\n \r\n7 Speed Gears: F20 owns a 7-speed professional transmission system, the rust-resistant coated derailleur is attached to frame, and grip shifter is integrated into the handlebar. The smooth 7-gear set enables you to shift on the go with ease and pedaling more comfortably on any terrain like hills, bumpy and gradient roads.\r\n \r\n3 Riding Modes: 250W Motor ensures F20 riding power. You’ll get a stable and comfortable riding experience with its 3 riding modes: power mode, bicycle mode, and moped mode, adding a burst of speed with the throttle just depends on you!\r\n \r\n20\"*3.0 Wheels With Anti-slip Tire: 20\" wheels make F20 become a perfect, efficient and economical transportation to work, school, or around town. Combine with anti-slip wear resistant tire and durable mudguards, it can easily conquer gutters, potholes, and whatever else roads of the urban environment.\r\n \r\n5. Mechanical disc brakes and The brilliant bright LED headlamp is equipped for night riding. Protecting your riding safety from all aspects!",
+      "price": 845,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fafrees-f20-city-electric-folding-bike-pogo-cycles-3.webp?v=1709036128&width=900",
+      "image": "Bike1709036128.jpg"
+    }
+  },
+  {
+    "pk": 78,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048425-69",
+      "name": "FAFREES F20 Max Electric Bike",
+      "description": "Highlights\r\nThe F20 MAX is Fafrees‘s latest stylish work of art without compromising its practicality. It features the latest dazzling chameleon paint with metal flake that will show up in different shades in the sun. Make you stand out from the crowd of cyclists. Another plus is the battery uses the most advanced automotive-grade 21700 battery cells, with a battery capacity of 18ah, providing longer battery life and safer use experience. F20 max follows the F20 step-through frame design, and 4.0 fat tires, so you can power up all kinds of terrains, easily carry groceries, and explore new destinations knowing you’ll have more than enough boost to do it all. The low-step frame are even easier to mount and dismount. They’re perfect for riders who want extra comfort and confidence on every ride.\r\n500W High-Speed Brushless Motor\r\n500W brushless motor with 54N.M maximum torque combined with intelligent controller produce 25KM/H maximum speed. The rear drive motor is easier to handle, better traction giving,  and less maintenance required. The rotation sensor on the rear wheel drive easily suffice the daily commute and adventurous riding for a larger number of people, including more elderly riders.\r\nRemovable 48V 18Ah/22Ah Ultra-large Battery\r\nAdopt the most advanced 21700 automotive-grade lithium battery, expand the battery capacity to 18ah in limited space. With lockout key, easy to remove and take it home for charging, which can last up to 60-85km with pure power assist on a single charge.\r\nSmart LCD Display With Easy Control\r\nYou can change the level of powered assistance from the LCD screen mounted on the handlebars. and the control panel is at hand for easy viewing and control. It provides information on speed, mileage, power, etc. configurable for personalized, with an intuitive program that reacts to the individual's cycling style to deliver a seamless cycling experience.\r\nDual Disc Brakes & SHIMANO Shifter\r\nShimano 7 speed shifter derailleur provide accurate and smooth shifting ensure that your drivetrain is responsive for a long time. With front and rear mechanical 160mm disc brakes and power-offer brake levers, you can stop the bike in a more effective and quick way.\r\n20*4.0 inch Fat Tire\r\n4.0 fat tires have great elasticity, which increases the contact area with the ground, enhances grip and ride stability, easily adapts to any terrain.The one-piece design of the wheel, rim, and body makes the ride more stable, and rough road conditions or hard riding will not deform the wheels at all. \r\nFront Light & Rear Brake Light\r\nBright LED headlight and rear brake light to ensure night riding safety \r\n16” Step-Through Foldable Frame\r\nThis e-bike has a low-step design with adjustable handlebars and a seat, making it perfect for both teenagers and adults 160-200cm tall and max load of 150 kg. It can be folded up to an ultra-compact size, is easy to transport and can be stowed in any vehicle suitcase, ideal for vacation travel and commuting.\r\nThree Working Modes\r\nThere are three working modes: electric mode, PAS mode, and manpower mode.Easy Servicing Of FAFREES Ebike\r\nPlug and play wiring system makes maintaining/replacing/repairing all electrical parts a breeze.",
+      "price": 1175,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fafrees-f20-max-electric-bike-pogo-cycles-3.webp?v=1706000041&width=900",
+      "image": "Bike1706000041.jpg"
+    }
+  },
+  {
+    "pk": 79,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048432-70",
+      "name": "FIIDO D11 Electric Mountain Bike with mudguard and light",
+      "description": "Superior Motor\r\nEquipped with a 250W of strong motor that provides a maximum speed to 25km/h for optimum performance.\r\nThree Distinctive Modes\r\nPure Electric Mode | Cyclic Mode | Power Assist Mode\r\nPower Efficient Battery\r\n11.6AH lithium battery allows a range of up to 30-60km in the pure electric mode and up to 100km in the power assist mode.\r\nAdjustable Seat and Handlebar\r\nFully adjustable seat and handlebar allows users to adjust it to their preference. Thus, riders with different physique can adjust the seat and the handlebar to their liking.\r\nAluminum Alloy Chassis\r\nBuilt with premium grade aluminum alloy materials for enhanced durability.\r\nDual Disc Brakes\r\nHigh quality dual disc brakes in the front and rear tires makes it extremely safe for riding.\r\nFoldable Design\r\nFoldable design makes it extremely portable, ideal for travelling for urban commuting, shorter travels, daily errands and for so much more. The design also allows it to be extremely portable.\r\nBright Headlights and Taillights\r\nFIIDO D11 comprises of some of the best-in-class Head and Tail lights making it one of the most comfortable rides while riding during the nights.\r\nPass RoHS and CE verification, it is a safe product",
+      "price": 999,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fiido-d11-electric-mountain-bike-with-mudguard-and-light-pogo-cycles-1.png?v=1709035337&width=900",
+      "image": "Bike1709035337.jpg"
+    }
+  },
+  {
+    "pk": 80,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048437-71",
+      "name": "Samebike MY-SM26 Cruiser Electric Bike Preorder (Arriving by end of March)",
+      "description": "BACKLIT LCD DISPLAY\r\nEasily view important ride metrics such as speed, pedal assist level, battery capacity, distance traveled and more.\r\n \r\nLONG-RANGE BATTERY\r\nAdopt 18650 high performance car battery cell, Same battery,40% more longer riding rang;48v 10Ah stable and strong output.you can always enjoy a longer trip that takes you up to 30~60 miles on a single charge. With over charge and power off protection,It is globally insured by CPIC.\r\n\r\n\r\n350W BRUSHLESS MOTER\r\n\r\nPermanent magnet synchronous high-speed motor with brushless power system, output 50 torque and strong power.Power your life with max speed 25~30kmh; Enjoy effortless riding experience even at 15 degrees uphill. It's perfect for a life on the go. Whether you are commuting to work, heading to the gym, or cruising to the coffee shop, It gets you there in style and speed.\r\nPEDAL ASSIST AND THROTTLE\r\nControllable right from your handlebars, seven levels of pedal assist means that you'll never be out of breath when you arrive at your destination. Throttle speeds of 20 mph mean that, even without pedaling, you can easily keep up with the traffic around you.\r\n\r\nSystem(PAS)/Man Power Riding/Pushing Mode.\r\n\r\n\r\n\r\n\r\nCenter meter with background light,realtime monitoring cycling data:ground speed,battery power,meileage,gear adjustment and fault diagnosis.\r\nSturdy aluminum alloy construction for extreme durability. Max.load: 150kg(330lb).\r\n350W powerful brushless motor offers a fast speed of up to 30km per hour.\r\n8AH 2000mah battery allows 35-40km in pure electric mode,70-80km by power assistance.\r\nShock absorbent front fork reduces disruption and responds to various road conditions. \r\nFront and real double disc brake system with high efficiency brake.\r\nSuper bright LED headlight for riding in dark.\r\n32.3-40.2in adjustable seat height for comfortable seat.\r\nIdeal for urban,commuting,short trip,shopping and daily use etc.",
+      "price": 682,
+      "category": 2,
+      "rating": 4.32,
+      "image_url": "https://pogocycles.com/cdn/shop/files/samebike-my-sm26-cruiser-electric-bike-preorder-arriving-by-end-of-march-pogo-cycles-2.jpg?v=1709879453&width=900",
+      "image": "Bike1709879453.jpg"
+    }
+  },
+  {
+    "pk": 81,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048444-72",
+      "name": "Bezior XF200 Folding Electric 1000W Bike",
+      "description": "Bezior XF200 Folding Electric Bike- Gray will be available by Mid July.\r\n \r\n15Ah Huge Capacity Battery\r\n48V 15 Ah power supply 18650 lithium battery pack, completely hidden inside the frame, waterproof and dustproof, double protection, strong output, always stable.\r\n1000W Brushless motor\r\nStrong power and running farther: 1000W motor, Max speed up to 40km/h.\r\nLCD Display Screen\r\nReal-time speedometer, battery power, headlight switch, The well-lit display allows you to monitor.",
+      "price": 1199,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/bezior-xf200-folding-electric-1000w-bike-pogo-cycles-10.webp?v=1709877618&width=900",
+      "image": "Bike1709877618.jpg"
+    }
+  },
+  {
+    "pk": 82,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048451-73",
+      "name": "Samebike SY26 Electric Bike",
+      "description": "Powerful 350W motor allows the electricity to reach speed up to 35km/h and 25°climbing capability.\r\n10AH battery allows 25-35km in pure electric mode and 40-80km range by power assistance on a full charge.\r\n3 switching modes for your different demands: Pure Electricity/Pedal Assisted System/Man Power Riding.\r\nSturdy aluminum alloy construction can accommodate riders up to 150kg/330lb.\r\n21-speed transmission system will improve the riding pleasure.\r\nFront fork suspension reduces disruption and provides comfortable riding.\r\nFront and rear disc brake system with high efficiency brake.\r\nBright LED headlight,horn and red rear reflector,provide more safety during nighttime riding.\r\nControl panel to easily know the basic states,like battery power,speed,time,gear level,headlight,etc.\r\nIP54 water resistant offers convenience during rainy days. (NOTE: Please cover the USB interface well during rainy days.)\r\nRemovable battery for convenient charging.\r\nAdjustable seat height for easy adjustment and comfortable riding.\r\nMudguard offers offer protection from splashing water and dirt.\r\nConvenient for urban,short trip,shopping and daily use\r\nBACKLIT LCD DISPLAY : Easily view important ride metrics such as speed, pedal assist level, battery capacity, distance traveled and more\r\nDUAL DISC BRAKE : 180mm wearable metal discs provide grater braking effect.\r\nSHIMANO 3 X 7-SPEED FREEWHEEL : Adjust the most suitable gears to conquer all hills in front of you.\r\nCAR GRADE BATTERY : With a 18650 high performance Car Grade battery,globally insured by CPIC,you can always enjoy a longer and safe trip that takes you up to 30~60 miles on a single charge. Feel your city with a simple,comfortable and reliable ride.\r\nCONFORTABLE SEATS : Make your riding in the city more comfortable.\r\n350W BRUSHLESS MOTER : Equipped with a powerful 350W motor,Default speed setting is 25kmh(adjustable).you'll be taking the adventure on trails,stone roads and hills with ease!",
+      "price": 625,
+      "category": 2,
+      "rating": 4.32,
+      "image_url": "https://pogocycles.com/cdn/shop/files/samebike-sy26-electric-bike-pogo-cycles-1.jpg?v=1709035624&width=900",
+      "image": "Bike1709035624.jpg"
+    }
+  },
+  {
+    "pk": 83,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048458-74",
+      "name": "Bezior X Plus Electric Mountain Folding Bike",
+      "description": "BEZIOR X PLUS electric folding power moped mountain bicycle, strong landing in 2022\r\nBEZIOR X PLUS is forged by lightweight aluminum alloy frame, front and rear double oil spring suspension structure, in addition, newly upgraded 48v17.5Ah power lithium battery, excellent 48V 1500W high-speed brushless motor. X PLUS using power-off oil disc, 26*4.0 wheel diameter, suitable for snow roads, asphalt roads, gravel roads and potholes. To accompany you to explore more riding fun in everywhere.\r\n1500W BRUSHLESS MOTOR\r\n1500W brushless motor is light in weight. Its internal use of star gear design can amplify torque and improve energy efficiency conversion rate. Increasing endurance range, improving speed performance and climbing performance, and fast in torque response and durable in lifetime.\r\n48V17.5AH HIGH CAPACITY BATTERY\r\n48V 17.5AH Removable lithium battery completely hidden inside the frame, waterproof and dustproof, double protection, strong output, always stable, easy to charge. It can reach a mileage of about 60KM in pure electric mode and about 130KM in power ssisted mode.\r\n S900 SMART LCD DISPLAY\r\nX-plus device intelligent LCD instrument, new interactive interface, LCD display, integrated gear switch, bicycle data viewing, power output setting, IP64 waterproof and dustproof quality are reliable.\r\nEXCELLENT CLIMBING PERFORMANCE\r\nThe 48V 1500W brushless motor provide the power to ride in max climbing 38°. Its internal use of star gear design, can amplify torque and improve energy efficiency conversion, improving speed performance and climbing performance. \r\nCAPABILITY\r\n26*4.0 Inches Tires, the tire has a width of up to 10 cm, anti-skid and anti-vibration functions, and has a longer span, bigger, faster, and less effort.\r\n Double Oil Spring Shock Absorber, the dual oil spring suspension and lockable front fork are used to provide the rider with a stronger comfort experience during a collision, can easily pass the speed bump.\r\nShimano 27-Speed Derailleur, imported Shimano 27-level transmission system, customized aluminum alloy crank 3-level chainring, classic combination of front 3 and rear 9-levels.\r\nHydraulic Brake, equipped it with giant 180mm full hydraulic disc brakes, complete with motor cutoff capabilities. Hydraulic brake lever, integrated hydraulic cylinder, achieve zero cylinder explosion rate.\r\nFully Foldable Design, can be put into the car’s trunk, elevator, can be stored and placed at home without occupying space and easy to carry, adding a joy and convenience to your travel.",
+      "price": 1360,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/bezior-x-plus-electric-mountain-folding-bike-pogo-cycles-1.webp?v=1709036273&width=900",
+      "image": "Bike1709036273.jpg"
+    }
+  },
+  {
+    "pk": 84,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048464-75",
+      "name": "DUOTTS F26 Electric Mountain Bike",
+      "description": "Highlights\r\n750W*2 Dual Motors\r\nDual-motor drivers( power 1500W), have fast power output and 4.2s up to full speed, with improving energy efficiency conversion rate and wonderful speed performance, also have good performances in handling, stability, braking and climbing. \r\nHigh Capacity, Waterproof Battery\r\nLG 48V 17.5Ah removable battery completely hidden inside the frame, waterproof and dustproof, double protection, strong output, always stable. It can reach a mileage of about 70KM(Single motor & 25km/h).\r\nExcellent Climbing In Off Roads\r\nThe 48V 1500W dual motor provide the power to ride in max climbing 55°. Its internal use of star gear design, can amplify torque and improve energy efficiency conversion, improving speed performance and climbing performance.\r\nSmart LCD Display\r\nSmart LCD Display, high definition liquid crystal display, speed, power, mileage, gear position, driving time, status information, real time view.\r\n26*4.0 Fat Tires\r\n26*4.0 inches wheel, comfortable and stable, suitable for all roads. anti-skid and anti-vibration functions, and has a longer span, bigger, faster, and less effort.\r\nHydraulic Disc Brake\r\nAdopt hydraulic power-off oil disc, dual system of front and rear disc brakes, S disc brake disc, quick heat dissipation, pinch the front and rear brake levers, emergency braking can also brake efficiently and smoothly.\r\nRemoved Battery\r\nRemovable battery can be charged at home or anywhere completely hidden inside the frame, waterproof and dustproof.\r\nFront Fork Suspension\r\nThe aluminum alloy front fork suspension system effectively reduces interference, copes with various road conditions, and reduces the weight of the body, providing the ultimate comfort experience.",
+      "price": 1294,
+      "category": 2,
+      "rating": 4.08,
+      "image_url": "https://pogocycles.com/cdn/shop/files/duotts-f26-electric-mountain-bike-pogo-cycles-5.webp?v=1706000163&width=900",
+      "image": "Bike1706000163.jpg"
+    }
+  },
+  {
+    "pk": 85,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048470-76",
+      "name": "Shengmilo MX03 Upgraded 2023 Electric Bike",
+      "description": "48V 17.5AH LONG CRUISE LITHIUM-ION BATTERY\r\nNew Shengmilo MX03 combines the new battery technology with a 18650 high performance battery cells, this 840Wh battery efficiently improves the range, stability, and safety of Shengmilo bikes. A single charge can last up to 40~50 km on throttle mode and over 80~90 km with pedal assist mode. More than 1500 charging cycles, Battery capacity is not less than 90% after 8 months, not less than 80% after 18 months\r\nBAFANG POWERFUL MOTOR 500W\r\nThis 48V 500w BAFANG Motor that produces up to 1000w peak power! The motor is the heart of the electric bicycle and the most critical component of the electric bicycle. It's performance affects the power, speed, endurance and wading ability. Motor climbing capability : 35°, The waterproof level : IPX5， Torque 80 N·m. Max riding speed 42KM/H （15.5mph）. BaFang motors support door-to-door after-sales service in Europe, North America, Japan and other countries, so that you do not need to worry about after-sales problems of the motor.\r\nALL-TERRAIN ELECTRIC MOUNTAIN\r\nThe Shengmilo MX03 all-terrain electric mountain bike is a top choice for outdoor enthusiasts looking for an exhilarating off-road adventure. Packed with impressive features, this bike offers an unparalleled riding experience. Its powerful electric motor delivers robust performance and makes conquering steep hills effortless. The MX03 boasts exceptional durability and can withstand various terrains, providing stability and control for riders. With its long-lasting battery, this bike offers extended ride durations, perfect for long-distance journeys. Additionally, its sleek design and comfortable seating make it a stylish and enjoyable ride. Whether you're tackling rough trails or cruising through urban landscapes, the Shengmilo MX03 all-terrain electric mountain bike will exceed your expectations.",
+      "price": 1195,
+      "category": 2,
+      "rating": 4.44,
+      "image_url": "https://pogocycles.com/cdn/shop/files/shengmilo-mx03-upgraded-2023-electric-bike-pogo-cycles-1.jpg?v=1709035919&width=900",
+      "image": "Bike1709035919.jpg"
+    }
+  },
+  {
+    "pk": 86,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048477-77",
+      "name": "FIIDO D3 PRO Electric Bike with mudguard and light",
+      "description": "\r\nAll fiido bikes come with mudguards and light\r\nFIIDO D3PRO\r\nD3 Proinherits the minimalist aesthetic style of FIIDO with its simple and smooth lines. Equipped with a large 52-tooth chain disc, a 12-tooth rear flywheel and electric-assisted three-speed transmission, leading a more comfortable riding experience and perfect balance between aesthetics and efficiency.\r\nLIGHT BODY & PORTABLE TRAVEL\r\nThe frame is made of high-strength aluminum alloy and the whole bike weight is only 17.5KG, which can be lifted with one hand. Handlebars can be folded into the trunk, easier to carry on the road.\r\n250 POWERFUL MOTOR\r\nUsing brushless gearless motor, lower power consumption, which making the endurance 20% stronger than normal brushless gearless motor, and starting torque is greater, it can easily overcome steep roads and uphill slopes with very low energy consumption.\r\nLONG-ACTING BATTERY & FAST CHARGING\r\nThe battery is hidden in the frame and configured with a maximum battery capacity of 7.5Ah. It only takes 4 hours to fully charged.\r\n3 MODES SWITCH\r\nEquipped with electric, moped and pedal modes. The automatic induction for switching between electric and power-assisted modes. When turning the accelerator, it will automatically be in electric mode; if the accelerator is not applied, the pedal is in electric-assisted mode;\r\nFiido D3 Pro is by far the best integrated bike with technology ensuring amazing experience to its riders.\r\nFIIDO D3PRO\r\nD3 Pro inherits the minimalist aesthetic style of FIIDO with its simple and smooth lines. Equipped with a large 52-tooth chain disc, a 12-tooth rear flywheel and electric-assisted three-speed transmission, leading a more comfortable riding experience and perfect balance between aesthetics and efficiency.\r\nThe magnesium alloy frame weighs only 3 kg, and with a 7.8 Ah battery, weghs 17.5 kg.\r\nLIGHT BODY & PORTABLE TRAVEL\r\nThe frame is made of high-strength aluminum alloy and the whole bike weight is only 17.5KG, which can be lifted with one hand. Handlebars can be folded into the trunk, easier to carry on the road.\r\nThe given the claimed range of 25 Km/h. The D3 Pro is equipped with a 7.8 Ah battery.\r\nThis also means a weight reduction of 3 kg, which means that this model weighs just under 3 kg.\r\n250 POWERFUL MOTOR\r\nUsing brushless gearless motor, lower power consumption, which making the endurance 20% stronger than normal brushless gearless motor, and starting torque is greater, it can easily overcome steep roads and uphill slopes with very low energy consumption.\r\nLike the D11, the Fiido D3 has traditional gearing, so you can ride like a regular bike and climb hills without the use of a motor.\r\nLONG-ACTING BATTERY & FAST CHARGING\r\nThe battery is hidden in the frame and configured with a maximum battery capacity of 7.5Ah. It only takes 4 hours to fully charged. It features a 7-speed Shimano rear cassette.\r\n3 MODES SWITCH\r\nEquipped with electric, moped and pedal modes. The automatic induction for switching between electric and power-assisted modes. When turning the accelerator, it will automatically be in electric mode; if the accelerator is not applied, the pedal is in electric-assisted mode.\r\nIt holds a 20-inch wheel , which makes the D3 Pro smaller when folded, but it doesn’t provide the same level of comfort as a large wheel.\r\nSuitable for adults and teenagers for fun.",
+      "price": 549,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fiido-d3-pro-electric-bike-with-mudguard-and-light-pogo-cycles-2.jpg?v=1705998609&width=900",
+      "image": "Bike1705998609.jpg"
+    }
+  },
+  {
+    "pk": 87,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048484-78",
+      "name": "DUOTTS C29 Pro 29 Inch Electric Mountain Bike Preorder (Arriving in the end of March)",
+      "description": "Highlights\r\nAluminum Alloy Frame\r\nIt has higher strength, corrosion resistance and rust resistance, and ensures the support strength of each part.\r\nStrong 750W Power\r\nWith 48V 750W high speed brushless gear motor, 70-80 km extended range\r\nShimano 21-speed Gear\r\nShimano 21-speed gear increases stronger hill-climbing power further range variation, and greater terrain adaptability.\r\n18650 Lithium Battery\r\nRemovable 15Ah battery can be charged on or off the frame; BMS system protects the battery, increasing service life.\r\n3 Modes of Travel\r\nBuilt-in 3 riding modes: ride mode, assist mode and pure electric mode; easily switch according to the gear and mode, and can calmly deal with the needs of different scenes.",
+      "price": 899,
+      "category": 2,
+      "rating": 4.08,
+      "image_url": "https://pogocycles.com/cdn/shop/files/duotts-c29-pro-29-inch-electric-mountain-bike-preorder-arriving-in-the-end-of-march-pogo-cycles-1.jpg?v=1709877998&width=900",
+      "image": "Bike1709877998.jpg"
+    }
+  },
+  {
+    "pk": 88,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048490-79",
+      "name": "Philodo H8 Dual Motor Cargo bike",
+      "description": "2000W AWD MOTOR\r\nWith its 2000W output and 82N.m front and rear motor torque, a strong power motor enables you to go at high speeds and in assisted mode, cruise with little to no effort.\r\nM5 LCD Multi-FunctionDisplay\r\nEquipped With LCD multi-function display, backlight display provides the information of speed, mileage, power, etc. You can also switch the assist level according to the road condition.\r\nHYDRAULIC DISCBRAKES\r\nAluminum alloy, with a brake sensor, cut off the power to the motor when braking. Detail improvements add a touch of happiness to your ride.\r\nAluminum AlloySuspension Fork WithLock\r\nThe sturdy Philodo suspension fork has a lock-out lever and preloaded spring stiffness adjustments. With an available compression of 100mm.\r\nShimano 21 Speed\r\nShimano's 21-speed cassette allows you to switch gears at will, and combined with the pedal assist system, you can adjust the most suitable speed to complete your journey",
+      "price": 1349,
+      "category": 2,
+      "rating": 4.41,
+      "image_url": "https://pogocycles.com/cdn/shop/files/philodo-h8-dual-motor-cargo-bike-pogo-cycles-2.webp?v=1705999958&width=900",
+      "image": "Bike1705999958.jpg"
+    }
+  },
+  {
+    "pk": 89,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048509-80",
+      "name": "GOGOBEST GF600 Electric Bike Preorder",
+      "description": "13Ah Large Capacity Battery \r\n48V 13Ah power supply 18650 lithium battery pack, completely hidden inside the frame, waterproof and dustproof, double protection, strong output, always stable.\r\n1000W Brushless motor\r\nStrong power and running farther: 1000W motor, Max speed up to 25m/h unlockable\r\nLCD Display Screen\r\nReal-time speedometer, battery power, headlight switch, The well-lit display allows you to monitor.",
+      "price": 1139,
+      "category": 2,
+      "rating": 4.06,
+      "image_url": "https://pogocycles.com/cdn/shop/files/gogobest-gf600-electric-bike-preorder-pogo-cycles-3.jpg?v=1709035732&width=900",
+      "image": "Bike1709035732.jpg"
+    }
+  },
+  {
+    "pk": 90,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048519-81",
+      "name": "FIIDO T1 pro Electric Cargo Bike version 2 2023 edition",
+      "description": "For Unrivalled Speed and Power\r\n750w Of power has been packed into the T1 motor that comes paired with a 7-speed derailleur; this state-of-the-art machine can reach an impressive top speed of 45 km/h. The 7-speed seamless shift works coherently with 4 power-assist levels, providing 28 power output combi\r\nSuperior Battery And Range\r\nThe T1 comes ready for action with a 960wh high-capacity battery capable of a 150km range on power-assisted trips, and an impressive 100km range on a full-throttle trip. With quick charge included, the T1 will be up and running easily for consecutive long journeys - ideal for the frequent traveler.\r\nErgonomic Simplicity\r\nThe T1’s user-friendly design is centered around providing a comfortable riding experience. The extra-wide saddle and shock-absorbing seat tube, paired with the solid long-stroke suspension fork and 20” tires, ensure that the longest of trips and the hardest of trails are undemanding and uncomplicated.\r\nCarrying Capacity To Suit Every Need\r\nMade up of an Aluminum Alloy frame and solid Magnesium Alloy one-piece wheels, the Fiido T1 can withstand a massive weight of 200kg. This e-bike has an innovative weight distribution design, granting the riding seat a carrying capacity of 120kg, with an additional 80kg capacity for the rear rack. The 20”*4.0 all-terrain fat tires ensure that even the most daunting of trails are easily traversable.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nYour Welfare At The Forefront\r\nThe T1 is dedicated to keeping you as safe as possible, that’s why it’s been equipped with a high-contrast display that delivers all essential information at a glance - even in direct sunlight - to ensure complete engagement in your surroundings.",
+      "price": 1499,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fiido-t1-pro-electric-cargo-bike-version-2-2023-edition-pogo-cycles-1.jpg?v=1705999452&width=900",
+      "image": "Bike1705999452.jpg"
+    }
+  },
+  {
+    "pk": 91,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048526-82",
+      "name": "Bezior X500 Pro Folding Electric Bike",
+      "description": "10.4Ah Huge Capacity Battery\r\nIt is more durable with 10.4Ah high-capacity battery.\r\n500W motor\r\nStrong power and running farther: 500W motor, Max speed up to 30km/h.\r\n5 Inch LCD Display Screen\r\nThe well-lit display allows you to monitor your speed, distance traveled, battery life, and time traveled.",
+      "price": 805,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/bezior-x500-pro-folding-electric-bike-pogo-cycles-2.jpg?v=1709035680&width=900",
+      "image": "Bike1709035680.jpg"
+    }
+  },
+  {
+    "pk": 92,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048533-83",
+      "name": "FIIDO M1 Pro Electric Bike",
+      "description": "FEATURES\r\nAll fiido bikes come with mudguards and light\r\nDual Shock Absorption Structure\r\nequipped with CST 20 * 4.0 tires, 52 tooth chain disk and Shimano 7-speed transmission with good shock absorption effect and riding stability. The 20*4-inch wheels possessing ultra-wide rims coordinate with all-terrain fat tires, with the addition of the anti-skid tread pattern design, helps you easily traverse the jungle, sand, rocky beach, puddles and other forbidding terrains. \r\nLithium Battery\r\nBuilt-in detachable rechargeable, a large battery capacity of 12.8Ah at most, with a long endurance\r\n500 TIMES RECHARGEABLE\r\nThe high-torque 48V battery can achieve rapid starting acceleration and a maximum range of 130KM on a 12.8Ah fully-charge capacity, enabling you to travel long distances with ease. It only takes 7 hours to fully charge. And the 500 cycles of rechargeable battery life allows you to venture out again anytime.\r\nThree Riding Modes\r\nPure electric mode, riding mode, and electric power-assisted mode. When the accelerator is turned, it is automatically electric mode; without the accelerator, stepping on the pedal is electric power-assisted mode\r\nFolding Body\r\nThe body is made of high-strength aluminum alloy, light and rust-free; the body supports folding in half, which is suitable for most of the car's back-up carriages\r\n500W STRONG MOTOR\r\nA 500W strong motor comes with a wide-range 7-speed deraileur, the top speed of M1 Pro can reach 40kph(24.8mph), which assists to reach your destination promptly regardless of terrains or weather conditions. and the 7-speed seamless shift fully achieves a freewheeling control. Due to European regulations, the motor is identified as 250W.\r\nDual Disc Brake\r\nFront and rear dual disc brake, more stable and effective brake\r\nSHOCK ABSORBER\r\nThe full suspension shock absorber eliminates all bumps, therefore you no longer have to steer clear of pebbles or rocky trails, the well-performed M1 Pro guarantees a safer and smoother cycling.\r\nPORTABLE STRUCTURE\r\nThe adjustable bicycle body and portable structure, along with a collapsible size of 96*79*45cm, makes it convenient to carry whether it’s on the car trunk, subway or train.\r\nTech + Specs\r\nThe unique electric bicycle aesthetics that Fiido endows M1Pro truly achieves the perfect balance between form and function.",
+      "price": 999,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://pogocycles.com/cdn/shop/files/fiido-m1-pro-electric-bike-pogo-cycles-1.jpg?v=1709035378&width=900",
+      "image": "Bike1709035378.jpg"
+    }
+  },
+  {
+    "pk": 93,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048540-84",
+      "name": "Bezior X1500 Folding Electric Mountain Bike",
+      "description": "12.8AH REMOVABLE HUGE CAPACITY BATTERY\r\nIt is more durable with 48V 12.8Ah high-capacity battery.\r\n1500W HIGH-SPEED BRUSHLESS MOTOR\r\nThe 48V 1500w high-speed brushless motor is light in weight. Its internal use of star gear design can amplify torque and improve energy efficiency conversion rate. This is reflected in reducing energy consumption and silent energy consumption while increasing cruising range, improving speed performance and climbing performance.\r\n5 INCH SMART LCD METER\r\nThe well-lit display allows you to monitor your speed, distance traveled, battery life, and time traveled.\r\nOIL SPRING SUSPENSION FORK 26 * 4.0 WHEELS\r\nThe dual oil spring suspension and lockable front fork are used to provide the rider with a stronger comfort experience during a collision. Large potholes and muddy roads with a wheel diameter of 26*4.0 inches can easily pass the speed bump. The tire has a width of up to 10 cm, has anti-skid and anti-vibration functions, and has a longer span. Bigger,\r\n38° MAX CLIMBING\r\nThe 48V 1500W brushless motor provide the power to ride in max climbing 38°. Its internal use of star gear design, can amplify torque and improve energy efficiency conversion, improving speed performance and climbing performance.",
+      "price": 1139,
+      "category": 2,
+      "rating": 4.52,
+      "image_url": "https://pogocycles.com/cdn/shop/files/bezior-x1500-folding-electric-mountain-bike-pogo-cycles-1.png?v=1709035677&width=900",
+      "image": "Bike1709035677.jpg"
+    }
+  },
+  {
+    "pk": 94,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048554-86",
+      "name": "Engwe T14 Folding Electric Bike",
+      "description": "Highlights\r\n Foldable and portable, saving storage space\r\nTriple shock absorber for comfortable riding\r\nSmooth lines and beautiful appearance\r\n10Ah battery: 35km in electric mode, 80km in moped mode\r\n250W high-speed brushless motor and the max speed can reach 25km/h.",
+      "price": 599,
+      "category": 2,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/engwe-t14-folding-electric-bike-pogo-cycles-3.webp?v=1709215126&width=900",
+      "image": "Bike1709215126.jpg"
+    }
+  },
+  {
+    "pk": 95,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp1710048561-87",
+      "name": "Engwe EP-2 / EP2 Pro (Upgraded Version) Electric Bike",
+      "description": "Highlights\r\nPowerful Motor\r\nFat tire bike with 750W high-speed brushless gear motors and 48V intelligent brushless controller, it can easily assist you to travel at 28mile/h or 45km/h (Electric Mode).\r\n3 Riding Modes and 5 power levels\r\nBy pure electric, by Assistant mode and by yourself, you can choose the pure electric mode to enjoy a relaxing time and also can use it for exercising. It's easy to change power levels by pressing the \"M\" key according to your needs.\r\nPerfect Brakes and 7 Speed\r\nThe folding electric bicycle with front and rear disc brakes and Shimano rear 7 speeds, you can choose any speed to enjoy faster riding time or experience relaxing holiday according to your needs. Perfect brakes fully protect your safety.\r\nBetter Battery\r\nThis electric mountain bike with 48V 13Ah lithium battery, you can ride up to max speed 45km/h in pure electric mode. Adopting collapsible middle stem and removable battery, you can charge the battery in the frame or remove it easily.\r\nHigh-quality Material\r\nThe E-bike adopts excellent aluminum alloy frame, high toughness, and strong corrosion resistance feature. The front fork is made of high-strength carbon steel and packed with premium comfort shock absorption. With the lightweight and efficient design, Aluminum alloy 20-inch wheel suited to both urban and trail environments.\r\nEasy Folding\r\nIt's easy to assemble, you only need to install the front wheel, the handlebar and pedals, insert the battery then you can hit the road. Collapsible top-tube and frame makes it portable and easy to store in your car or anywhere you're ready to use. Folding the bike only in 10\r\n\r\n\r\nThe difference from 12.8ah:\r\n1) For the upgraded version Ep-2 pro, when you buy an extra battery, you can choose a 13ah version battery or a 16ah version battery, they are compatible with each other, but not compatible with the 12.8ah version battery.\r\n2) The updated version Ep-2 pro has more cells with a higher power rating compared to the 12.8ah version. Range increased by 20% compared to the 12.8ah version.\r\n3) The motor has an updated internal configuration and saves more energy.\r\n4) The controller has also been upgraded and enlarged, and the current and functions are more suitable for the enlarged frame.",
+      "price": 999,
+      "category": 2,
+      "rating": 4.43,
+      "image_url": "https://pogocycles.com/cdn/shop/files/engwe-ep-2-ep2-pro-upgraded-version-electric-bike-pogo-cycles-3.webp?v=1705999374&width=900",
+      "image": "Bike1705999374.jpg"
+    }
+  }
+]
