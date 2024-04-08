@@ -26,9 +26,9 @@ ON_HEROKU = os.getenv('ON_HEROKU', default='False').lower() == 'true'
 
 # Set DEBUG to False if running on Heroku
 if ON_HEROKU:
-    DEBUG = False
+    DEBUG = True
 else:
-    DEBUG = False
+    DEBUG = True
 
 # ALLOWED_HOSTS = []
 ALLOWED_HOSTS = ['scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com', 'localhost', '127.0.0.1']
