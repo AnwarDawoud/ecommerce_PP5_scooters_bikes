@@ -26,9 +26,9 @@ ON_HEROKU = os.getenv('ON_HEROKU', default='False').lower() == 'true'
 
 # Set DEBUG to False if running on Heroku
 if ON_HEROKU:
-    DEBUG = True
+    DEBUG = False
 else:
-    DEBUG = True
+    DEBUG = False
 
 # ALLOWED_HOSTS = []
 ALLOWED_HOSTS = ['scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com', 'localhost', '127.0.0.1']
@@ -220,10 +220,13 @@ STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', '')
 STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
 
 
+
 if 'DEVELOPMENT' in os.environ:
+    # Development settings
     EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
     DEFAULT_FROM_EMAIL = 'scooterbike@example.com'
 else:
+    # Production settings
     EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
     EMAIL_USE_TLS = True
     EMAIL_PORT = 587
