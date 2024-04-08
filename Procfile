@@ -1,1 +1,1 @@
-web: gunicorn scooter-bike-ecommerce-pp5.wsgi
+web: gunicorn scooter-bike-ecommerce.wsgi:application

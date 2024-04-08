@@ -30,11 +30,11 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-# DEBUG = 'DEVELOPMENT' in os.environ
+# DEBUG = False
+DEBUG = 'DEVELOPMENT' in os.environ
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = [scooter-bike-ecommerce-pp5.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
@@ -184,7 +184,7 @@ STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-STATIC_ROOT = BASE_DIR / 'staticfiles'
+# STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 # if 'USE_AWS' in os.environ:
 #     # Cache control
