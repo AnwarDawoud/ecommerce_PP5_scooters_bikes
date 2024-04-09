@@ -1,12 +1,15 @@
 from django.http import HttpResponse
+from django.core.mail import send_mail
+from django.template.loader import render_to_string
+from django.conf import settings
 
 from .models import Order, OrderLineItem
 from products.models import Product
-from profiles.models import UserProfile  # Import UserProfile model if not already imported
+from profiles.models import UserProfile
 
 import json
 import time
-import traceback  # Import traceback module for detailed error information
+import traceback
 
 class StripeWH_Handler:
     """Handle Stripe webhooks"""
@@ -52,6 +55,10 @@ class StripeWH_Handler:
             print("PID:", pid)
             print("Bag:", bag)
             print("Save Info:", save_info)
+
+            # Check if 'charges' attribute is present
+            if 'charges' not in intent:
+                raise KeyError("'charges' attribute not found in intent")
 
             billing_details = intent.charges.data[0].billing_details
             shipping_details = intent.shipping
