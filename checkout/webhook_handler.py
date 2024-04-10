@@ -54,10 +54,14 @@ class StripeWH_Handler:
             print("Bag:", bag)
             print("Save Info:", save_info)
 
-            if 'charges' in intent:
-                billing_details = intent.charges.data[0].billing_details
-                shipping_details = intent.shipping
-                grand_total = round(intent.charges.data[0].amount / 100, 2)
+            # Access charges associated with the payment intent
+            charges = intent.charges.data
+
+            # Process each charge associated with the payment intent
+            for charge in charges:
+                billing_details = charge.billing_details
+                shipping_details = charge.shipping
+                grand_total = round(charge.amount / 100, 2)
 
                 # Clean data in the shipping details
                 for field, value in shipping_details.address.items():
@@ -146,11 +150,12 @@ class StripeWH_Handler:
                     return HttpResponse(
                         content=f'Webhook received: {event["type"]} | SUCCESS: Created order in webhook',
                         status=200)
-            else:
-                print("No charges found in payment intent")
-                return HttpResponse(
-                    content=f'Webhook received: {event["type"]} | ERROR: No charges found in payment intent',
-                    status=500)
+
+            # If no charges are found
+            print("No charges found in payment intent")
+            return HttpResponse(
+                content=f'Webhook received: {event["type"]} | ERROR: No charges found in payment intent',
+                status=500)
         except Exception as ex:
             print(f"Exception occurred: {ex}")
             traceback.print_exc()  # Print traceback for detailed error
