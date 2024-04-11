@@ -7,7 +7,9 @@ from django.core.mail import send_mail
 from django.conf import settings
 
 # Configure Django settings
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'scooter_bike_ecommerce.settings')
+os.environ.setdefault(
+    'DJANGO_SETTINGS_MODULE',
+    'scooter_bike_ecommerce.settings')
 django.setup()
 
 # Set up email parameters

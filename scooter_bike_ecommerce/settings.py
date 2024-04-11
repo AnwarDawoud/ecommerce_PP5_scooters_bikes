@@ -1,11 +1,8 @@
 import os
 import dj_database_url
 from dotenv import load_dotenv
-from django.db import models
 from pathlib import Path
-from decouple import config
 
-import logging
 
 # Load environment variables from .env file
 load_dotenv()
@@ -31,7 +28,10 @@ else:
     DEBUG = False
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = [
+    'scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com',
+    'localhost',
+    '127.0.0.1']
 
 
 # Application definition
@@ -52,7 +52,7 @@ INSTALLED_APPS = [
     'bag',
     'profiles',
     'checkout',
-    
+
     # Other
     'crispy_forms',
     'storages',
@@ -66,7 +66,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    
+
 ]
 
 ROOT_URLCONF = 'scooter_bike_ecommerce.urls'
@@ -85,7 +85,7 @@ TEMPLATES = [
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
-                'django.template.context_processors.request', # required by allauth
+                'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
                 'django.template.context_processors.media',
@@ -138,22 +138,35 @@ else:
             'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         }
     }
-    
+
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
     {
-        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
+        'NAME': (
+            'django.contrib.auth.password_validation.'
+            'UserAttributeSimilarityValidator',
+        )
+    },
+
+    {
+        'NAME': (
+            'django.contrib.auth.password_validation.'
+            'MinimumLengthValidator',
+        )
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',
+        'NAME': (
+            'django.contrib.auth.password_validation.'
+            'CommonPasswordValidator',
+        )
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',
-    },
-    {
-        'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
+        'NAME': (
+            'django.contrib.auth.password_validation.'
+            'NumericPasswordValidator',
+        )
     },
 ]
 
@@ -206,7 +219,7 @@ if 'USE_AWS' in os.environ:
     # Override static and media URLs in production
     STATIC_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{STATICFILES_LOCATION}/'
     MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{MEDIAFILES_LOCATION}/'
-    
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
@@ -218,7 +231,6 @@ STRIPE_CURRENCY = 'usd'
 STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', '')
 STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', '')
 STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
-
 
 
 if 'DEVELOPMENT' in os.environ:

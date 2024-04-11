@@ -1,9 +1,3 @@
-# Simple wrapper for http.server
-# to switch off caching for users
-#
-# Matt Rudge
-# 20th April, 2023
-
 import http.server
 
 
@@ -19,7 +13,8 @@ class NoCacheHTTPHandler(http.server.SimpleHTTPRequestHandler):
         """
         New method to send cache control headers
         """
-        self.send_header("Cache-Control", "no-cache, no-store, must-revalidate")
+        cache_control_value = "no-cache, no-store, must-revalidate"
+        self.send_header("Cache-Control", cache_control_value)
         self.send_header("Pragma", "no-cache")
         self.send_header("Expires", "0")
 
