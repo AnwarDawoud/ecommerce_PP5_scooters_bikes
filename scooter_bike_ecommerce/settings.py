@@ -25,7 +25,7 @@ ON_HEROKU = os.getenv('ON_HEROKU', default='False').lower() == 'true'
 if ON_HEROKU:
     DEBUG = False
 else:
-    DEBUG = False
+    DEBUG = True
 
 # ALLOWED_HOSTS = []
 ALLOWED_HOSTS = [

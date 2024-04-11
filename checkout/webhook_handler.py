@@ -70,21 +70,11 @@ class StripeWH_Handler:
                 if save_info:
                     profile.default_phone_number = shipping_details.phone
                     profile.default_country = shipping_details.address.country
-                    profile.default_postcode = (
-                        shipping_details.address.postal_code
-                        )
-                    profile.default_town_or_city = (
-                        shipping_details.address.city
-                        )
-                    profile.default_street_address1 = (
-                        shipping_details.address.line1
-                        )
-                    profile.default_street_address2 = (
-                        shipping_details.address.line2
-                        )
-                    profile.default_county = (
-                        shipping_details.address.state
-                        )
+                    profile.default_postcode = shipping_details.address.postal_code
+                    profile.default_town_or_city = shipping_details.address.city
+                    profile.default_street_address1 = shipping_details.address.line1
+                    profile.default_street_address2 = shipping_details.address.line2
+                    profile.default_county = shipping_details.address.state
                     profile.save()
 
             order_exists = False
@@ -112,10 +102,7 @@ class StripeWH_Handler:
                     time.sleep(1)
             if order_exists:
                 self._send_confirmation_email(order)
-                print(
-                    "Verified order already exists."
-                    "Confirmation email sent."
-                )
+                print("Verified order already exists. Confirmation email sent.")
                 return HttpResponse(
                     content=(
                         f'Webhook received: {event["type"]} '
@@ -154,11 +141,11 @@ class StripeWH_Handler:
                     print(f"Error creating order: {e}")
                     traceback.print_exc()  # Print traceback for detailed error
                     return HttpResponse(
-                        content=(
-                            f'Webhook received: {event["type"]} | ERROR: {e}'
-                        ),
-                        status=500
-                    )
+                    content=(
+                        f'Webhook received: {event["type"]} | ERROR: {e}'
+                    ),
+                    status=500
+                )
 
                 self._send_confirmation_email(order)
                 print("New order created. Confirmation email sent.")
