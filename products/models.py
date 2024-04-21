@@ -16,6 +16,10 @@ class Category(models.Model):
         return self.friendly_name
 
 
+from django.db import models
+from django.urls import reverse
+from django.utils import timezone
+
 class Product(models.Model):
     category = models.ForeignKey(
         'Category',
@@ -33,6 +37,10 @@ class Product(models.Model):
         blank=True)
     image_url = models.URLField(max_length=1024, null=True, blank=True)
     image = models.ImageField(null=True, blank=True)
+    last_updated = models.DateTimeField(auto_now=True)  # Automatically update on save
 
     def __str__(self):
         return self.name
+
+    def get_absolute_url(self):
+        return reverse('product_detail', args=[str(self.id)])

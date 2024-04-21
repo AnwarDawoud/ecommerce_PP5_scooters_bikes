@@ -3,13 +3,15 @@ from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
 from django.contrib.sitemaps import views as sitemap_views
-from .sitemaps import StaticViewSitemap, ProductSitemap, BagSitemap, ProfileSitemap
+from products.sitemaps import ProductSitemap
+from bag.sitemaps import BagSitemap
+from profiles.sitemaps import UserProfileSitemap
 
 sitemaps = {
-    'static': StaticViewSitemap,
     'products': ProductSitemap,
     'bag': BagSitemap,
-    'profile': ProfileSitemap,
+    'profile': UserProfileSitemap,
+
     # Add more sitemaps for other models or apps if needed
 }
 

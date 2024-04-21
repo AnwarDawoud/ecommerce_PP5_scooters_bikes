@@ -1,5 +1,3 @@
-# In profiles/sitemaps.py
-
 from django.contrib.sitemaps import Sitemap
 from .models import UserProfile
 

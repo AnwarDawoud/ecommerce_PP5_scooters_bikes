@@ -1,9 +1,10 @@
 from django.db import models
+from django.urls import reverse
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save
 from django.dispatch import receiver
-
 from django_countries.fields import CountryField
+from django.utils import timezone
 
 
 class UserProfile(models.Model):
@@ -24,9 +25,14 @@ class UserProfile(models.Model):
     default_postcode = models.CharField(max_length=20, null=True, blank=True)
     default_country = CountryField(
         blank_label='Country', null=True, blank=True)
+    last_updated = models.DateTimeField(default=timezone.now)  # Add last_updated field
 
     def __str__(self):
         return self.user.username
+
+    def get_absolute_url(self):
+        # Define the URL path for the user profile view
+        return reverse('profile')
 
 
 @receiver(post_save, sender=User)

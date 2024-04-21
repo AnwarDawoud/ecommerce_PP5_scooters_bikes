@@ -1,14 +1,13 @@
-# In bag/sitemaps.py
-
 from django.contrib.sitemaps import Sitemap
-from .models import BagItem
+from django.urls import reverse
+from .models import BagItem  # Import the BagItem model from the correct location
 
-class BagItemSitemap(Sitemap):
-    changefreq = 'daily'
-    priority = 0.8
+class BagSitemap(Sitemap):
+    changefreq = "daily"
+    priority = 0.5
 
     def items(self):
         return BagItem.objects.all()
 
-    def lastmod(self, obj):
-        return obj.last_updated
+    def location(self, obj):
+        return reverse('bag:bag_detail', args=[obj.id])  # Adjust the reverse URL name as per your project
