@@ -292,3 +292,12 @@ input[name='q']::placeholder {
         height: calc(100vh - 116px);
     }
 }
+
+@media (max-width: 279px) {
+    #mc_embed_signup,
+    #mc_embed_signup_scroll,
+    #mc_embed_shell,
+    #mc-embedded-subscribe-form {
+        max-width: 90% !important;
+    }
+  }

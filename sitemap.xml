@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Home Page -->
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+
+    <!-- Product Pages -->
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?category=electric_scooter</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?category=electric_bike</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?category=new_arrivals</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?category=deals</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?category=clearance</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?category=new_arrivals,deals,clearance</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?sort=price&amp;direction=asc</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?sort=rating&amp;direction=desc</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/products/?sort=category&amp;direction=asc</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Bag Page -->
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/bag/</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Checkout Page -->
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/checkout/</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Profile Page -->
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/profile/</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Authentication Pages -->
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/accounts/logout/</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/accounts/login/</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/accounts/signup/</loc>
+        <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+</urlset>
