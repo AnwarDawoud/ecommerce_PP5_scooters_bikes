@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+    <style>
+        /* Custom styles specific to the 404 error page */
+        .error-frame {
+            background-color: #ffffff; /* Example frame background color */
+            border: 1px solid #ced4da; /* Example frame border */
+            border-radius: 5px; /* Example border radius */
+            padding: 20px; /* Example padding */
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Example box shadow */
+            margin-top: 200px; /* Adjust the top margin to create space for the header */
+            margin-bottom: 100px; /* Adjust the bottom margin to create space for the footer */
+        }
+
+        .error-content {
+            padding: 20px; /* Example content padding */
+        }
+
+        .error-frame .text-center {
+            color: #dc3545; /* Example text color */
+        }
+    </style>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="error-frame">
+                    <h6 class="display-4 logo-font text-black">
+                        The page you are looking for isn't available
+                    </h6>
+                    <div class="error-content">
+                        <h6>
+                            <a href="{% url 'products' %}" 
+                                class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">
+                                    Return to shop
+                            </a>
+                        </h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

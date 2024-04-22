@@ -6,6 +6,8 @@ from django.contrib.sitemaps import views as sitemap_views
 from products.sitemaps import ProductSitemap
 from bag.sitemaps import BagSitemap
 from profiles.sitemaps import UserProfileSitemap
+from .views import handler404
+
 
 sitemaps = {
     'products': ProductSitemap,
@@ -30,3 +32,6 @@ urlpatterns = [
     # Sitemap URL pattern
     path('sitemap.xml', sitemap_xml, name='sitemap_xml'),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+
+handler404 = 'scooter_bike_ecommerce.views.handler404'
