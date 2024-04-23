@@ -1,5 +1,6 @@
 import os
 import dj_database_url
+from django.utils.deprecation import MiddlewareMixin
 from dotenv import load_dotenv
 from pathlib import Path
 
@@ -66,6 +67,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'scooter_bike_ecommerce.middleware.CustomXFrameOptionsMiddleware',
 
 ]
 
@@ -248,3 +250,11 @@ else:
     EMAIL_HOST_USER = os.environ.get('EMAIL_HOST_USER')
     EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASS')
     DEFAULT_FROM_EMAIL = os.environ.get('EMAIL_HOST_USER')
+
+# Define a custom middleware to set X-Frame-Options header
+class CustomXFrameOptionsMiddleware(MiddlewareMixin):
+    def process_response(self, request, response):
+        # Replace example.com with the domain you want to allow
+        response['X-Frame-Options'] = 'ALLOW-FROM https://example.com'
+        return response
+    
