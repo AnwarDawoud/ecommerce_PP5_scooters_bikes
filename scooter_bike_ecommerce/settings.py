@@ -23,9 +23,9 @@ ON_HEROKU = os.getenv('ON_HEROKU', default='False').lower() == 'true'
 
 # Set DEBUG to False if running on Heroku
 if ON_HEROKU:
-    DEBUG = True
+    DEBUG = False
 else:
-    DEBUG = True
+    DEBUG = False
 
 # ALLOWED_HOSTS = []
 ALLOWED_HOSTS = [
