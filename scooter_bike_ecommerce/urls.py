@@ -7,6 +7,7 @@ from products.sitemaps import ProductSitemap
 from bag.sitemaps import BagSitemap
 from profiles.sitemaps import UserProfileSitemap
 from .views import handler404
+from .views import robots_txt
 
 
 sitemaps = {
@@ -31,6 +32,9 @@ urlpatterns = [
     
     # Sitemap URL pattern
     path('sitemap.xml', sitemap_xml, name='sitemap_xml'),
+    
+    # Robots.txt URL pattern
+    path('robots.txt', robots_txt, name='robots_txt'),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 

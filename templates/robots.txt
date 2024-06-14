@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/templates/sitemap.xml

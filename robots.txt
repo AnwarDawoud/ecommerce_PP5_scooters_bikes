@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /bag/
+Disallow: /accounts/
+Disallow: /profiles/
+Disallow: /login/
+Disallow: /register/
+
+# Allow specific URLs or directories
+Allow: /$
+Allow: /products/
+Allow: /categories/
+
+# Allow social media profiles
+Allow: https://www.facebook.com/profile.php?id=61558736970397
+Allow: https://twitter.com/
+Allow: https://www.instagram.com/
+Allow: https://www.youtube.com/
+
+
+Sitemap: https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/templates/sitemap.xml
