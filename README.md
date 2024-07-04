@@ -6,83 +6,89 @@
 
 The live version of the website is available for you here : <a href="https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com/" target="_blank">SCOOTERS & BIKES</a>
 
-# README CONTENTS # 
+# README CONTENTS #
+
 * ## [UX](#ux-1)
-   * [User Stories](#user-stories)
-   * [Agile Methodologies](#agile-methodologies)
-   * [The Scope](#1-scope)
-   * [Structure](#2-structure)
-   * [Skeleton](#3-skeleton)
-   * [Surface](#4-surface)
+
+  * [User Stories](#user-stories)
+  * [Agile Methodologies](#agile-methodologies)
+  * [The Scope](#1-scope)
+  * [Structure](#2-structure)
+  * [Skeleton](#3-skeleton)
+  * [Surface](#4-surface)
 
 * ## [E-Commerce Model](#e-commerce-model-1)
-    * [Business Owners Goals](#business-owner)
-    * [Project Goal](#project-goals)
-    * [Social Media](#social-media)
-    * [Marketing](#marketing)
-    * [Newsletter](#newsletter)
+
+  * [Business Owners Goals](#business-owner)
+  * [Project Goal](#project-goals)
+  * [Social Media](#social-media)
+  * [Marketing](#marketing)
+  * [Newsletter](#newsletter)
 
 * ## [Search Engine Optimization](#search-engine-optimization---seo)
-    * [Meta](#meta-descriptions)
-    * [Sitemap](#sitemap-file)
-    * [Robots](#robots-file)
+
+  * [Meta](#meta-descriptions)
+  * [Sitemap](#sitemap-file)
+  * [Robots](#robots-file)
 
 * ## [Testing](#testing-1)
-    * [Testing Documentation](#testing-documentation)
-    * [Defensive Programming](#defensive-programming)
+
+  * [Testing Documentation](#testing-documentation)
+  * [Defensive Programming](#defensive-programming)
 
 * ## [Deployment](#deployment-1)
-    * [Setting Up](#setting-up)
-    * [Initial Installations](#initial-workspace-installations)
-    * [Database Setup](#database-setup)
-    * [AWS Setup](#amazon-web-services--aws)
-        * [S3](#s3-buckets)
-        * [Adjust Bucket Policy](#adjust-bucket-policy)
-        * [Create IAM User/UserGroup](#create-user-and-user-group-in-iam)
-        * [Create Media Folder](#create-media-folder)
-        * [AWS to Django](#aws-to-django)
-    * [Project Settings Adjustments](#project-settings-adjustments)
-    * [Heroku Deployment](#heroku)
-    * [GitHub Extras](#github-extras)
-        * [How to Fork](#how-to-fork)
-        * [How to Clone](#how-to-clone)
+
+  * [Setting Up](#setting-up)
+  * [Initial Installations](#initial-workspace-installations)
+  * [Database Setup](#database-setup)
+  * [AWS Setup](#amazon-web-services--aws)
+    * [S3](#s3-buckets)
+    * [Adjust Bucket Policy](#adjust-bucket-policy)
+    * [Create IAM User/UserGroup](#create-user-and-user-group-in-iam)
+    * [Create Media Folder](#create-media-folder)
+    * [AWS to Django](#aws-to-django)
+  * [Project Settings Adjustments](#project-settings-adjustments)
+  * [Heroku Deployment](#heroku)
+  * [GitHub Extras](#github-extras)
+    * [How to Fork](#how-to-fork)
+    * [How to Clone](#how-to-clone)
 
 * ## [Technologies Used](#technologies-used-1)
-    * [Languages Used](#languages)
-    * [Frameworks / Libraries](#frameworks--libraries--programs)
+
+  * [Languages Used](#languages)
+  * [Frameworks / Libraries](#frameworks--libraries--programs)
 
 * ## [Credits](#credits-1)
-    * [Coding](#coding)
 
+  * [Coding](#coding)
 
 # UX #
 
 ## User Stories ##
 
-  * Site Owner Goals : 
+* Site Owner Goals :
   
-    * Create a visually appealing and professional website design to attract users
-    * Implement a user-friendly and intuitive interface for easy navigation
-    * Enable user account management and access control
-    * Provide tools for managing and moderating user-generated content
-    * Develop a responsive design that works seamlessly on various devices
-    * Establish effective communication channels to interact with users and offer support.
+  * Create a visually appealing and professional website design to attract users
+  * Implement a user-friendly and intuitive interface for easy navigation
+  * Enable user account management and access control
+  * Provide tools for managing and moderating user-generated content
+  * Develop a responsive design that works seamlessly on various devices
+  * Establish effective communication channels to interact with users and offer support.
 
-  * User Goals : 
+* User Goals :
 
-    * Allow users to create accounts and have control over their information
-    * Provide a straightforward and efficient browsing experience for content discovery
-    * Delivery a responsive and user-friendly design that functions well on all devices
-    * The ability to add/edit/remove/update items in the shopping cart
+  * Allow users to create accounts and have control over their information
+  * Provide a straightforward and efficient browsing experience for content discovery
+  * Delivery a responsive and user-friendly design that functions well on all devices
+  * The ability to add/edit/remove/update items in the shopping cart
 
-
-User Stories : 
+User Stories :
 
 ![ScreenShot](./documents/readme_images/Agile-Userstories.jpg)
 
 By pursuing these objectives, Scooters & Bikes Shop strives to craft a captivating and user-centered journey for both the shop owner and customers, ensuring satisfaction and effortless engagement with the platform.
 
-<hr>    
+<hr>
 
 # Agile Methodologies #
 
@@ -104,7 +110,7 @@ GitHub Project WorkFlow :
 
 <hr>
 
-# 1. Scope # 
+# 1. Scope #
 
 Scooter & Bike Shop is an e-commerce platform specializing in providing a diverse selection of scooters and bikes. Our goal is to create a fully functional and user-friendly online store where customers can effortlessly browse, purchase, and manage their orders. With a focus on quality, convenience, and customer satisfaction, Scooter & Bike Shop is dedicated to offering an exceptional shopping experience for all scooter and bike enthusiasts.
 
@@ -115,45 +121,54 @@ Scooter & Bike Shop is an e-commerce platform specializing in providing a divers
 ## Features and Functionality
 
 ### User Registration and Authentication
+
 - Customers can easily register and log in to their accounts.
-- Robust authentication mechanisms ensure secure and personalized experiences.
+* Robust authentication mechanisms ensure secure and personalized experiences.
 
 ### Product Catalog
+
 - Present a comprehensive catalog of scooters and bikes.
-- Organize products by price, name, ratings, and more.
-- Detailed product information including specifications, images, and ratings.
+* Organize products by price, name, ratings, and more.
+* Detailed product information including specifications, images, and ratings.
 
 ### Shopping Cart and Checkout
+
 - Seamless shopping cart functionality for adding and managing products.
-- Secure checkout process for collecting address and payment information.
-- Integration with Stripe payment gateway for safe transactions.
+* Secure checkout process for collecting address and payment information.
+* Integration with Stripe payment gateway for safe transactions.
 
 ### Order Management
+
 - View and track order history, including order details and total cost.
 
 ### Search and Filtering
+
 - Powerful search functionality to find products based on keywords or specific criteria.
-- Filtering options to refine product search results by attributes.
+* Filtering options to refine product search results by attributes.
 
 ### Responsive Design
+
 - Fully responsive website for optimal user experience across all devices.
-- Ensures seamless navigation and readability on desktops, tablets, and mobile devices.
+* Ensures seamless navigation and readability on desktops, tablets, and mobile devices.
 
 ### Admin Panel
+
 - Admin panel for managing products, orders, and user accounts.
-- Inventory management capabilities, including stock updates and product management.
+* Inventory management capabilities, including stock updates and product management.
 
 ### Profile Page
+
 - User profile page for updating delivery information and tracking orders.
 
 ### Contact Us
+
 - Contact form for users to reach out to site administrators or customer support.
-- Efficiently collect user inquiries, feedback, and issues for quick response and resolution.
+* Efficiently collect user inquiries, feedback, and issues for quick response and resolution.
 
 # 3. Skeleton #
 
 Here's the foundational wireframe for our Scooters & Bikes Shop website layout. This template serves as the starting point for our design journey, guiding the creation of additional templates with a cohesive and user-friendly design.
-    
+
 ![ScreenShot](./documents/readme_images/wireframes/Wireframe-hompage.jpg)
 
 ![ScreenShot](./documents/readme_images/wireframes/Wireframe-Products.jpg)
@@ -166,8 +181,7 @@ Here is the Entity-Relationship Diagram (ERD) for the project :
 
 ![ScreenShot](./documents/readme_images/Entity-Relationship-Diagram(ERD).jpg)
 
-
-# 4. Surface # 
+# 4. Surface #
 
 ## Scooters & Bikes Shop Color Palette ##
 
@@ -182,37 +196,36 @@ You can view the color palette [here](https://alwane.io/scooter-bike-ecommerce-p
 The layout of the Scooters & Bikes Shop website is designed to be responsive and user-friendly across various devices, thanks to Bootstrap! The website utilizes the Bootstrap framework to ensure a consistent and visually appealing experience. The layout elements are:
 
 1. Header:
-    - The header section is sticky to the top of the screen, providing easy navigation and access to essential features wherever you may be on the page.
-    - The Scooters & Bikes Shop logo is prominently displayed, along with navigation links to different sections of the website.
-    - The header also includes additional elements such as a search bar, user account options, and a shopping cart.
+    * The header section is sticky to the top of the screen, providing easy navigation and access to essential features wherever you may be on the page.
+    * The Scooters & Bikes Shop logo is prominently displayed, along with navigation links to different sections of the website.
+    * The header also includes additional elements such as a search bar, user account options, and a shopping cart.
 
     ![ScreenShot](./documents/readme_images/PagesScreenShoots/PageHeader.jpg)
 
 <hr>
 
 2. Hero Section:
-    - The Hero section showcases a visually appealing image related to scooters and bikes.
-    - It features a compelling headline and a call-to-action button to encourage users to start exploring the products the website has to offer.
-
+    * The Hero section showcases a visually appealing image related to scooters and bikes.
+    * It features a compelling headline and a call-to-action button to encourage users to start exploring the products the website has to offer.
 
     ![ScreenShot](./documents/readme_images/PagesScreenShoots/HomepageHero.jpg)
 
 <hr>
 
 3. Products Page:
-    - Products are presented in a grid format, allowing users to browse through different categories and options.
-    - Each product listing includes key information such as product name, image, price, and rating.
-    - Users can click on a product to view more details, including specifications and a quantity input for however amount of items they desire.
-    - The edit and delete ability is strictly available for the site administrator only.
+    * Products are presented in a grid format, allowing users to browse through different categories and options.
+    * Each product listing includes key information such as product name, image, price, and rating.
+    * Users can click on a product to view more details, including specifications and a quantity input for however amount of items they desire.
+    * The edit and delete ability is strictly available for the site administrator only.
 
     ![ScreenShot](./documents/readme_images/PagesScreenShoots/Products.jpg)
 
 <hr>
 
 4. Shopping Cart and Checkout:
-    - A user-friendly shopping cart interface allows customers to add products, adjust quantities, and proceed to checkout.
-    - The checkout process includes collecting necessary information like shipping address and payment details.
-    - Users are guided through the steps and provided with clear instructions to complete their purchase securely.
+    * A user-friendly shopping cart interface allows customers to add products, adjust quantities, and proceed to checkout.
+    * The checkout process includes collecting necessary information like shipping address and payment details.
+    * Users are guided through the steps and provided with clear instructions to complete their purchase securely.
 
     ![ScreenShot](./documents/readme_images/PagesScreenShoots/Cart.jpg)
     ![ScreenShot](./documents/readme_images/PagesScreenShoots/Checkout.jpg)
@@ -220,13 +233,12 @@ The layout of the Scooters & Bikes Shop website is designed to be responsive and
 <hr>
 
 5. Footer:
-    - The footer section appears at the bottom of the page, featuring essential site information such as contact details and links to important pages.
+    * The footer section appears at the bottom of the page, featuring essential site information such as contact details and links to important pages.
 
     ![Footer](./documents/readme_images/PagesScreenShoots/PageFooter.jpg)
 
-
 6. Profile Page:
-    - This section allows the user to manage their delivery information, track their Order History/Order Number/Items and date.
+    * This section allows the user to manage their delivery information, track their Order History/Order Number/Items and date.
 
     ![Profile Page](./documents/readme_images/PagesScreenShoots/Profile.jpg)
 
@@ -264,7 +276,6 @@ Here I have created a Social Media Marketing Page for the Scooters & Bikes Shop.
 
 ![Google-Business](./documents/readme_images/Media/Google-Business.jpg)
 
-
 ## Newsletter ##
 
 I have also included a Mailchimp service into the website that handles newsletter automation for customers. It contains deals, special offers, new products, and more. Anyone can sign up hassle-free by entering their email address in the input box provided.
@@ -283,6 +294,7 @@ To ensure effective search engine crawling, I've provided relevant meta keywords
 
 I utilized Code Institute's recommended XML-Sitemaps generator to create the `sitemap.xml` file, which has been included in the root directory of this project. The sitemap.xml file is generated using the live deployed site.
 [SitemapXML](./templates/sitemap.xml)
+
 * Link to Live Site: [Scooters & Bikes Shop](https://scooter-bike-ecommerce-pp5-fa03149f5b15.herokuapp.com)
 
 ## Robots File ##
@@ -295,13 +307,15 @@ Here's the snippet of the `robots.txt` file for this project:
 
 * [Back to Top](#readme-contents)
 
-# Testing # 
+# Testing #
 
-## Testing Documentation ## 
- * I have created a seperate markdown documentation for the testing of this project. 
-    - You can view the testing here : [Testing.MD](./TESTING.md)
+## Testing Documentation ##
+
+* I have created a seperate markdown documentation for the testing of this project.
+  * You can view the testing here : [Testing.MD](./TESTING.md)
 
 ## Defensive Programming ##
+
 * The project has been implemented with the necessary features here to have the utmost safety in regards of data/access to forbidden areas. There's User authentication and authorization implemented in all areas and more areas are protected using the 'Login_required' decorators. Django auth is a very well built system that has that additional layer of authentication/security..
 
 * [Back to Top](#readme-contents)
@@ -326,61 +340,76 @@ Here's the snippet of the `robots.txt` file for this project:
 Here are the steps to install the necessary frameworks/packages:
 
 1. **Installation of Django:**
+
     ```bash
     pip3 install django==3.2
     ```
 
 2. **Installation of Gunicorn:**
+
     ```bash
     pip3 install gunicorn
     ```
 
 3. **Installation of Libraries:**
+
     ```bash
     pip3 install dj_database_url
     pip3 install psycopg2-binary
     ```
 
 4. **Create the Requirements File:**
-    - Run the following command to create the requirements file with the installed libraries/packages:
+    * Run the following command to create the requirements file with the installed libraries/packages:
+
     ```bash
     pip3 freeze --local > requirements.txt
     ```
 
 5. **Create Your Project:**
-    - Run the following command to create your project:
+    * Run the following command to create your project:
+
     ```bash
     django-admin startproject (PROJECT_NAME) .
     ```
-    - Make sure to include the full stop at the end.
+
+    * Make sure to include the full stop at the end.
 
 6. **Create Your App:**
-    - Run the following command to create your app:
+    * Run the following command to create your app:
+
     ```bash
     python3 manage.py startapp (APP_NAME)
     ```
-    - Once you've created your app, make sure to add it to your settings.py under the section of INSTALLED_APPS.
+
+    * Once you've created your app, make sure to add it to your settings.py under the section of INSTALLED_APPS.
 
 7. **Run Migrations:**
-    - Make your migrations by running:
+    * Make your migrations by running:
+
     ```bash
     python3 manage.py makemigrations
     ```
-    - It's also a good idea to run a dry run migration for a pre-flight check:
+
+    * It's also a good idea to run a dry run migration for a pre-flight check:
+
     ```bash
     python3 manage.py makemigrations --dry-run
     ```
-    - Migrate your changes to the database:
+
+    * Migrate your changes to the database:
+
     ```bash
     python3 manage.py migrate
     ```
-    - Test your website locally by running:
+
+    * Test your website locally by running:
+
     ```bash
     python3 manage.py runserver
     ```
 
 8. **Create Your env.py File:**
-    - Create your env.py file in the root directory.
+    * Create your env.py file in the root directory.
 
 ## Database Setup ##
 
@@ -397,7 +426,6 @@ Next, you need to create a database to store all your data. This project is buil
         import os
 
         os.environ["DATABASE_URL"] = ("postgres://your-database-url")
-
 
 ## Amazon Web Services (AWS) ##
 
@@ -423,7 +451,6 @@ Here, we set up media/static storage for our project using AWS. Follow these ste
 
 7. Note your ARN string.
 
-
 ### Adjust Bucket Policy ###
 
 1. Go to "Bucket Policy" and select "Policy Generator".
@@ -448,7 +475,6 @@ Here, we set up media/static storage for our project using AWS. Follow these ste
 2. Upload the required files for your project into this folder.
 3. Set "Manage Public Permissions" to "Grant Public Read Access to this object(s)".
 
-
 ### AWS to Django ###
 
 1. Install the required packages:
@@ -458,7 +484,6 @@ Here, we set up media/static storage for our project using AWS. Follow these ste
 
 2. Add 'storages' to the INSTALLED_APPS in settings.py.
 3. Add your AWS secret variables to the env.py file.
-
 
 ### Project Settings Adjustments ###
 
@@ -478,10 +503,9 @@ At this stage, commit and push your changes to your GitHub repository using the 
     2. git commit -m "Commit Message"
     3. git push
 
-
 * [Back to Top](#readme-contents)
 
-## HEROKU ## 
+## HEROKU ##
 
 To deploy our project on [Heroku](https://heroku.com/), follow these final steps:
 
@@ -503,11 +527,12 @@ To deploy our project on [Heroku](https://heroku.com/), follow these final steps
 
 ## GitHub Extras ##
 
-### How to Fork ### 
+### How to Fork ###
 
 Forking a repository creates a separate copy of the original repository, including all its code, branches, commits, and related information.
 
 Steps:
+
 1. Log into GitHub and locate the desired repository.
 2. Click the grey Fork button at the top of the repository.
 3. After forking, you will have a copy of the original repository.
@@ -517,6 +542,7 @@ Steps:
 Cloning a repository creates a complete copy of its code, history, branches, and other associated files, allowing you to work with the code locally and synchronize changes with the remote repository on GitHub.
 
 Steps:
+
 1. Navigate to the repository on GitHub.
 2. Click on the green code button and select the 'HTTPS' tab.
 3. Copy the HTTPS link.
@@ -529,6 +555,7 @@ Steps:
 # Technologies Used #
 
 * ## Languages ##
+
   * HTML
   * CSS
   * Python
@@ -536,6 +563,7 @@ Steps:
   * JavaScript
 
 * ## Frameworks / Libraries / Programs ##
+
   * [Django (Python web Framework)](https://www.djangoproject.com/)
   * [jQuery (Javascript Library)](https://jquery.com/)
   * [Bootstrap (Front-End Library)](https://getbootstrap.com/)
