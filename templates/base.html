@@ -78,6 +78,7 @@
                                     <a href="{% url 'add_product' %}" class="dropdown-item">Product Management</a>
                                 {% endif %}
                                 <a href="{% url 'profile' %}" class="dropdown-item">My Profile</a>
+                                <a class="dropdown-item" href="{% url 'wishlist_list' %}">My Wishlist</a> <!-- Added Wishlist link -->
                                 <a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
                             {% else %}
                                 <a href="{% url 'account_signup' %}" class="dropdown-item">Register</a>
@@ -140,12 +141,8 @@
     {% block page_header %}
     {% endblock %}
 
-
-    
-    
     {% block content %}
     {% endblock %}
-
     <footer class="container-fluid bg-dark text-light py-3">
         <div class="container">
             <div>
@@ -157,10 +154,6 @@
                     <a href="https://www.facebook.com/profile.php?id=61558736970397" target="_blank" rel="noopener" role="button" 
                     aria-label="Visit our Facebook page (opens a new tab)">
                         <i class="smicon fab fa-facebook-square mx-2 fa-lg text-white"></i>
-                    </a>
-                    <a href="https://twitter.com/" target="_blank" rel="noopener" role="button"
-                    aria-label="Visit our X page (opens a new tab)">
-                        <i class="smicon fab fa-square-x-twitter mx-2 fa-lg text-white"></i>
                     </a>
                     <a href="https://www.instagram.com/" target="_blank" rel="noopener" role="button"
                     aria-label="Visit our Instagram page (opens a new tab)">

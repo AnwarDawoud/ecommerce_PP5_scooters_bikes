@@ -10,9 +10,9 @@
 {% endblock %}
 
 {% block content %}
-    <div class="container h-100">
-        <div class="row h-100">
-            <div class="col-7 col-md-6 my-auto">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 my-auto">
                 <h1 class="display-4 logo-font text-black">
                     The new collections are here
                 </h1>
@@ -20,6 +20,22 @@
                     <h4>
                         <a href="{% url 'products' %}" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">Shop Now</a>
                     </h4>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <!-- First Video with Title -->
+                <div class="mb-5">
+                    <h3 style="color: black; background-color: white; border: 2px solid black; padding: 10px;">How to Use an Electric Scooter</h3>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" width="720" height="405" src="https://www.youtube.com/embed/UPe7SZYnwT0" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <!-- Second Video with Title -->
+                <div class="mb-5">
+                    <h3 style="color: black; background-color: white; border: 2px solid black; padding: 10px;">How to Use an Electric Bike</h3>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" width="720" height="405" src="https://www.youtube.com/embed/d7xLWdYdVJ4" allowfullscreen></iframe>
+                    </div>
                 </div>
             </div>
         </div>

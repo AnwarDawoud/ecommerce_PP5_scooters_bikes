@@ -1,7 +1,5 @@
 from django.contrib import admin
-from .models import Product, Category
-
-# Register your models here.
+from .models import Category, Product, Review, Wishlist
 
 
 class ProductAdmin(admin.ModelAdmin):
@@ -26,3 +24,19 @@ class CategoryAdmin(admin.ModelAdmin):
 
 admin.site.register(Product, ProductAdmin)
 admin.site.register(Category, CategoryAdmin)
+
+# Register the Review model with the admin site
+@admin.register(Review)
+class ReviewAdmin(admin.ModelAdmin):
+    list_display = ('product', 'user', 'rating', 'date_added')
+    list_filter = ('product', 'rating', 'date_added')
+    search_fields = ('product__name', 'user__username', 'comment')
+    date_hierarchy = 'date_added'
+    ordering = ('-date_added',)
+    
+@admin.register(Wishlist)
+class WishlistAdmin(admin.ModelAdmin):
+    list_display = ('user', 'product', 'added_date')
+    list_filter = ('user', 'added_date')
+    search_fields = ('user__username', 'product__name')
+    

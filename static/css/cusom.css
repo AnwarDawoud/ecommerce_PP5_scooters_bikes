@@ -1,0 +1,9 @@
+.table {
+  margin-top: 120px; /* Top margin of 120px */
+}
+
+@media (min-width: 992px) {
+  .table {
+    margin-top: 200px; /* Adjusted margin for large screens */
+  }
+}

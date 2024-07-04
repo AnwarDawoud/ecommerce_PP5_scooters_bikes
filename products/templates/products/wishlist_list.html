@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+  <div class="container mt-5 mt-lg-8">
+    <h2 class="text-center mb-4">My Wishlist</h2>
+    <div class="table-responsive" style="background-color: white; margin-top: 120px;">
+      <table class="table table-bordered">
+        <thead>
+            <tr class="text-center"> 
+                    <th scope="col">Product Name</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Added Date</th>
+                    <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+          {% if wishlist_items %}
+            {% for item in wishlist_items %}
+              <tr>
+                <td>{{ item.product.name }}</td>
+                <td>{{ item.product.description }}</td>
+                <td>{{ item.added_date }}</td>
+                <td>
+                  <a href="{% url 'product_detail' item.product.id %}" class="btn btn-primary btn-sm mr-2">View</a>
+                  <a href="{% url 'remove_from_wishlist' item.product.id %}" class="btn btn-danger btn-sm">Remove</a>
+                </td>
+              </tr>
+            {% endfor %}
+          {% else %}
+            <tr>
+              <td colspan="4" class="text-center">Your wishlist is empty.</td>
+            </tr>
+          {% endif %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+{% endblock %}

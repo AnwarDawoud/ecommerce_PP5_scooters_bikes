@@ -25,7 +25,7 @@ class UserProfile(models.Model):
     default_postcode = models.CharField(max_length=20, null=True, blank=True)
     default_country = CountryField(
         blank_label='Country', null=True, blank=True)
-    last_updated = models.DateTimeField(default=timezone.now)  # Add last_updated field
+    last_updated = models.DateTimeField(default=timezone.now)
 
     def __str__(self):
         return self.user.username

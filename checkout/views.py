@@ -70,7 +70,7 @@ def checkout(request):
                 order.user_profile = request.user.userprofile
             else:
                 messages.error(request, 'You need to log in to complete your order.')
-                return redirect(reverse('account_login'))  # Adjust this to your login URL
+                return redirect(reverse('account_login'))
 
             order.save()
             for item_id, quantity in bag.items():

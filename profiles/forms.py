@@ -5,7 +5,7 @@ from .models import UserProfile
 class UserProfileForm(forms.ModelForm):
     class Meta:
         model = UserProfile
-        exclude = ('user', 'last_updated')  # Exclude the 'last_updated' field
+        exclude = ('user', 'last_updated')
 
     def __init__(self, *args, **kwargs):
         """

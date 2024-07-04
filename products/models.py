@@ -1,5 +1,8 @@
 from django.db import models
-
+from django.contrib.auth.models import User
+from django.utils import timezone
+from django.core.validators import MaxValueValidator, MinValueValidator
+from django.urls import reverse
 
 class Category(models.Model):
 
@@ -14,11 +17,6 @@ class Category(models.Model):
 
     def get_friendly_name(self):
         return self.friendly_name
-
-
-from django.db import models
-from django.urls import reverse
-from django.utils import timezone
 
 class Product(models.Model):
     category = models.ForeignKey(
@@ -44,3 +42,27 @@ class Product(models.Model):
 
     def get_absolute_url(self):
         return reverse('product_detail', args=[str(self.id)])
+    
+class Review(models.Model):
+    product = models.ForeignKey('Product', related_name='reviews', on_delete=models.CASCADE)
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    rating = models.IntegerField(validators=[MinValueValidator(1), MaxValueValidator(5)], default=3)
+    comment = models.TextField()
+    date_added = models.DateTimeField(default=timezone.now)
+
+    class Meta:
+        ordering = ['-date_added']
+
+    def __str__(self):
+        return f'Review by {self.user.username} for {self.product.name}' 
+    
+    
+class Wishlist(models.Model):
+    user = models.ForeignKey(User, related_name='wishlists', on_delete=models.CASCADE)
+    product = models.ForeignKey(Product, related_name='wishlists', on_delete=models.CASCADE)
+    added_date = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        unique_together = ('user', 'product')
+        
+
